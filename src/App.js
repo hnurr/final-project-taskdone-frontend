@@ -7,6 +7,14 @@ import Login from "./components/GirisYap/Login";
 import HizmetVer from "./components/HizmetVer/HizmetVer";
 import ProviderDashboard from "./components/HizmetVer/ProviderDashboard";
 import AdminDashboard from "./components/Admin/AdminDashboard";
+import ServicesPage from "./components/Service/ServicesPage";
+import CleaningServicesPage from "./components/Service/CleaningServicesPage";
+import RenovationServicesPage from "./components/Service/RenovationServicesPage";
+import RepairServicesPage from "./components/Service/RepairServicesPage";
+import OrganizationServicesPage from "./components/Service/OrganizationServicesPage";
+import HealthServicesPage from "./components/Service/HealthServicesPage";
+import TransportServicesPage from "./components/Service/TransportServicesPage";
+import CreateProfile from "./components/HizmetVer/CreateProfile";
 
 function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
@@ -37,6 +45,14 @@ function App() {
           <Route path="/hizmet-ver" element={<HizmetVer />} />
           <Route path="/provider-dashboard" element={<ProviderDashboard />} />
           <Route path="/admin-dashboard" element={<AdminDashboard />} />
+          <Route path="/service" element={<ServicesPage />} />
+          <Route path="/services/1" element={<CleaningServicesPage />} />
+          <Route path="/services/2" element={<RenovationServicesPage />} />
+          <Route path="/services/3" element={<RepairServicesPage />} />
+          <Route path="/services/4" element={<OrganizationServicesPage />} />
+          <Route path="/services/5" element={<HealthServicesPage />} />
+          <Route path="/services/6" element={<TransportServicesPage />} />
+          <Route path="/create-profile" element={<CreateProfile />} />
         </Routes>
       </BrowserRouter>
     </div>

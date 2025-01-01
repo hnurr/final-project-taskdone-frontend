@@ -9,7 +9,7 @@ const ProviderDashboard = () => {
       case "profile":
         return (
           <div>
-            <h3>Profil Yönetimi</h3>
+            <h3>Profil Oluştur</h3>
           </div>
         );
       case "reservations":

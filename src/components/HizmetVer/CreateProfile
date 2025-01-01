@@ -1,0 +1,116 @@
+import React, { useState } from "react";
+import { useNavigate } from "react-router-dom"; // Sayfa yönlendirmesi için useNavigate
+
+const CreateProfile = () => {
+  const [profile, setProfile] = useState({
+    firstName: "",
+    lastName: "",
+    address: "",
+    companyName: "",
+  });
+
+  const navigate = useNavigate();
+
+  const handleChange = (e) => {
+    const { name, value } = e.target;
+    setProfile((prevProfile) => ({
+      ...prevProfile,
+      [name]: value,
+    }));
+  };
+
+  const handleSubmit = () => {
+    if (profile.firstName && profile.lastName && profile.address) {
+      alert("Profil başarıyla oluşturuldu!");
+      navigate("/"); // Profil oluşturulduktan sonra ProviderDashboard'a yönlendir
+    } else {
+      alert("Lütfen tüm alanları doldurun.");
+    }
+  };
+
+  return (
+    <div
+      style={{
+        display: "flex",
+        justifyContent: "center",
+        alignItems: "center",
+        height: "100vh",
+        fontFamily: "Arial, sans-serif",
+        backgroundColor: "#ecf0f1",
+      }}
+    >
+      <div
+        style={{
+          width: "400px",
+          backgroundColor: "white",
+          padding: "20px",
+          borderRadius: "10px",
+          boxShadow: "0 4px 8px rgba(0, 0, 0, 0.1)",
+        }}
+      >
+        <h3>Profil Oluştur</h3>
+        <form>
+          <div>
+            <label>İsim:</label>
+            <input
+              type="text"
+              name="firstName"
+              value={profile.firstName}
+              onChange={handleChange}
+              placeholder="İsim"
+              required
+            />
+          </div>
+          <div>
+            <label>Soyisim:</label>
+            <input
+              type="text"
+              name="lastName"
+              value={profile.lastName}
+              onChange={handleChange}
+              placeholder="Soyisim"
+              required
+            />
+          </div>
+          <div>
+            <label>Adres:</label>
+            <input
+              type="text"
+              name="address"
+              value={profile.address}
+              onChange={handleChange}
+              placeholder="Adres"
+              required
+            />
+          </div>
+          <div>
+            <label>Şirket Adı (isteğe bağlı):</label>
+            <input
+              type="text"
+              name="companyName"
+              value={profile.companyName}
+              onChange={handleChange}
+              placeholder="Şirket Adı"
+            />
+          </div>
+          <button
+            type="button"
+            onClick={handleSubmit}
+            style={{
+              padding: "10px",
+              backgroundColor: "green",
+              color: "white",
+              border: "none",
+              borderRadius: "5px",
+              cursor: "pointer",
+            }}
+          >
+            Kaydet
+          </button>
+        </form>
+      </div>
+    </div>
+  );
+};
+
+export default CreateProfile;

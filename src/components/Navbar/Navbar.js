@@ -10,7 +10,6 @@ import Button from "@mui/material/Button";
 import Avatar from "@mui/material/Avatar";
 import logo from "../Image/logo.png";
 import { useNavigate, useLocation } from "react-router-dom";
-
 const pages = ["Hizmetler", "Hizmet Verenler", "Yardım"];
 
 function Navbar({ isLoggedIn, updateLoginStatus }) {
@@ -42,7 +41,7 @@ function Navbar({ isLoggedIn, updateLoginStatus }) {
     return null;
   }
 
-  // Eğer "/provider-dashboard" sayfasındaysak Navbar'ı render etme
+  // Eğer "/admin-dashboard" sayfasındaysak Navbar'ı render etme
   if (location.pathname === "/admin-dashboard") {
     return null; //deneme
   }
@@ -78,7 +77,11 @@ function Navbar({ isLoggedIn, updateLoginStatus }) {
             {pages.map((page) => (
               <Button
                 key={page}
-                onClick={() => {}}
+                onClick={() => {
+                  if (page === "Hizmetler") {
+                    navigate("/service"); // Hizmetler butonuna tıklandığında yönlendirme yapılır
+                  }
+                }}
                 sx={{ my: 2, color: "black", display: "block" }}
               >
                 {page}
