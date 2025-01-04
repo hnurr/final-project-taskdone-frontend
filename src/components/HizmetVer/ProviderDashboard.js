@@ -1,45 +1,45 @@
-import React, { useState } from "react";
+import React, { useState, onSave } from "react";
+import CreateProfile from "./CreateProfile.js";
 
 const ProviderDashboard = () => {
   const [activeSection, setActiveSection] = useState("profile");
-  const userName = "Ahmet Y ılmaz"; // Bu, örnek bir kullanıcı adı. Gerçek projede bu kullanıcı veritabanından veya global state'ten alınabilir.
+  const userName = "Ahmet Yılmaz"; // Bu, örnek bir kullanıcı adı. Gerçek projede bu kullanıcı veritabanından veya global state'ten alınabilir.
+
+  // onSave fonksiyonunu burada tanımlıyoruz
+  const onSave = (updatedData) => {
+    console.log("Updated Data:", updatedData);
+    // Veriyi kaydetme işlemi burada yapılabilir.
+    alert("Profil güncellenmiştir.");
+  };
 
   const renderSection = () => {
     switch (activeSection) {
       case "profile":
         return (
-          <div>
-            <h3>Profil Oluştur</h3>
-          </div>
+          <CreateProfile onSave={onSave} /> // onSave fonksiyonunu CreateProfile bileşenine geçiriyoruz
         );
       case "reservations":
         return (
           <div>
-            <h3>Rezervasyonlar</h3>
+            <h3>Aktif Randevularım</h3>
           </div>
         );
       case "payments":
         return (
           <div>
-            <h3>Ödemeler</h3>
+            <h3>Geçmiş Hizmetlerim</h3>
           </div>
         );
       case "notifications":
         return (
           <div>
-            <h3>Bildirimler</h3>
+            <h3>Bekleyen Onaylar</h3>
           </div>
         );
       case "services":
         return (
           <div>
-            <h3>Hizmetlerim</h3>
-          </div>
-        );
-      case "calendar":
-        return (
-          <div>
-            <h3>Takvim</h3>
+            <h3>Reddedilen Hizmetler</h3>
           </div>
         );
       default:

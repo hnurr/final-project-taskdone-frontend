@@ -1,4 +1,5 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 import {
   Box,
   Grid,
@@ -39,11 +40,11 @@ const transportServices = [
 ];
 
 function TransportServicesPage() {
-  // Hizmet al butonuna tıklandığında tetiklenen fonksiyon
-  const handleServiceRequest = (serviceName) => {
-    alert(`${serviceName} hizmetini almak için talebiniz alındı!`);
-  };
+  const navigate = useNavigate();
 
+  const handleServiceRequest = (serviceName) => {
+    navigate("/service-request", { state: { serviceName } });
+  };
   return (
     <Box sx={{ padding: "20px" }}>
       <Typography variant="h4" textAlign="center" mb={4}>

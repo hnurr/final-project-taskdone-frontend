@@ -31,6 +31,7 @@ function Login({ updateLoginStatus }) {
     if (isSuccess) {
       // Giriş başarılı olduktan sonra kullanıcıyı localStorage'a kaydediyoruz
       localStorage.setItem("user", JSON.stringify({ email }));
+
       updateLoginStatus(true); // Giriş durumu güncelle
     }
   };
@@ -42,29 +43,43 @@ function Login({ updateLoginStatus }) {
         password: password,
       });
 
-      alert("Giriş başarılı!");
+      if (response && response.data) {
+        alert("Giriş başarılı!");
+        const userId = response.data.id; // Backend'den dönen kullanıcı ID'si
+        if (userId) {
+          console.log("Kullanıcı ID'si kaydedildi:", userId);
+          // Bu ID'yi bir global state (Redux, Context) veya localStorage gibi bir yerde saklayabilirsiniz
+          localStorage.setItem("userId", userId);
+        } else {
+          console.error("Kullanıcı ID'si alınamadı.");
+        }
 
-      // Backend'den dönen role bilgisini al
-      const userRole = response.data.role?.toLowerCase(); // Küçük harfe çevir
-      console.log("Gelen rol bilgisi:", userRole); // Rol bilgisini kontrol et
+        console.log("Backend Cevabı:", response); // Backend'den gelen yanıtı kontrol edin
 
-      switch (userRole) {
-        case "admin":
-          navigate("/admin-dashboard");
-          break;
-        case "customer":
-          navigate("/");
-          break;
-        case "provider":
-          navigate("/provider-dashboard");
-          break;
-        default:
-          alert("Tanımlanamayan bir rol algılandı. Lütfen tekrar giriş yapın!");
-          navigate("/login"); // Sadece login sayfasına yönlendir
-          return; // Daha fazla işlem yapılmasını engelle
+        // Backend'den dönen role bilgisini al
+        const userRole = response.data.role?.toLowerCase(); // Küçük harfe çevir
+        console.log("Gelen rol bilgisi:", userRole); // Rol bilgisini kontrol et
+
+        switch (userRole) {
+          case "admin":
+            navigate("/admin-dashboard");
+            break;
+          case "customer":
+            navigate("/");
+            break;
+          case "provider":
+            navigate("/provider-dashboard");
+            break;
+          default:
+            alert(
+              "Tanımlanamayan bir rol algılandı. Lütfen tekrar giriş yapın!"
+            );
+            navigate("/login"); // Sadece login sayfasına yönlendir
+            return; // Daha fazla işlem yapılmasını engelle
+        }
+
+        return true; // Başarı durumunda true döner
       }
-
-      return true; // Başarı durumunda true döner
     } catch (err) {
       console.log("err", err);
       const message =

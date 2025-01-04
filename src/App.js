@@ -14,7 +14,8 @@ import RepairServicesPage from "./components/Service/RepairServicesPage";
 import OrganizationServicesPage from "./components/Service/OrganizationServicesPage";
 import HealthServicesPage from "./components/Service/HealthServicesPage";
 import TransportServicesPage from "./components/Service/TransportServicesPage";
-import CreateProfile from "./components/HizmetVer/CreateProfile";
+import CreateProfile from "./components/HizmetVer/CreateProfile.js";
+import ServiceRequestForm from "./components/Service/ServiceRequestForm";
 
 function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
@@ -53,6 +54,7 @@ function App() {
           <Route path="/services/5" element={<HealthServicesPage />} />
           <Route path="/services/6" element={<TransportServicesPage />} />
           <Route path="/create-profile" element={<CreateProfile />} />
+          <Route path="/service-request" element={<ServiceRequestForm />} />
         </Routes>
       </BrowserRouter>
     </div>

@@ -1,4 +1,5 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 import {
   Box,
   Grid,
@@ -62,9 +63,10 @@ const cleaningServices = [
 ];
 
 function CleaningServicesPage() {
-  // Hizmet al butonuna tıklandığında tetiklenen fonksiyon
+  const navigate = useNavigate();
+
   const handleServiceRequest = (serviceName) => {
-    alert(`${serviceName} hizmetini almak için talebiniz alındı!`);
+    navigate("/service-request", { state: { serviceName } });
   };
 
   return (
