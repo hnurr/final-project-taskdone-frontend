@@ -81,6 +81,10 @@ function Navbar({ isLoggedIn, updateLoginStatus }) {
                   if (page === "Hizmetler") {
                     navigate("/service"); // Hizmetler butonuna tıklandığında yönlendirme yapılır
                   }
+
+                  if (page == "Hizmet Verenler") {
+                    navigate("/service-provider-all");
+                  }
                 }}
                 sx={{ my: 2, color: "black", display: "block" }}
               >
