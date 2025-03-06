@@ -31,6 +31,7 @@ function Navbar({ isLoggedIn, updateLoginStatus }) {
 
   const handleLogout = () => {
     localStorage.removeItem("user");
+    localStorage.removeItem("userId");
     updateLoginStatus(false); // Giriş durumu güncellenir
     setAnchorEl(null); // Menü kapatılır
     navigate("/"); // Anasayfaya yönlendirilir

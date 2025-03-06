@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
+import { useNavigate } from "react-router-dom";
 
 const ServiceProviderList = () => {
   const [providers, setProviders] = useState([]);
@@ -19,6 +20,8 @@ const ServiceProviderList = () => {
   const [phone, setPhone] = useState("");
   const [isCommentModalOpen, setIsCommentModalOpen] = useState(false);
   const [comments, setComments] = useState([]);
+  const userId = localStorage.getItem("userId");
+  const navigate = useNavigate();
 
   useEffect(() => {
     fetch("http://localhost:8080/users/service-providers")
@@ -50,6 +53,12 @@ const ServiceProviderList = () => {
   };
 
   const openModal = (provider) => {
+    if (userId == null) {
+      //console.log("Randevu alabilmek için giriş yapınız");
+      alert("Randevu alabilmek için giriş yapınız");
+      navigate("/login");
+      return;
+    }
     console.log("Selected provider: ", provider); // Burada id var mı?
     setSelectedProvider(provider);
     setIsModalOpen(true);
@@ -86,11 +95,12 @@ const ServiceProviderList = () => {
     }
 
     const appointmentData = {
+      userId: userId,
       providerId: selectedProvider.id,
       appointmentDate: appointmentDate,
-      name: name,
-      surname: surname,
-      phone: phone,
+      userFirstName: name,
+      userLastName: surname,
+      userPhoneNumber: phone,
     };
 
     console.log("Appointment Data:", appointmentData);
@@ -104,11 +114,13 @@ const ServiceProviderList = () => {
     })
       .then((response) => response.json())
       .then((data) => {
+        console.log("Response:", data);
+        if (data.message) {
+          alert(data.message);
+          return;
+        }
         alert("Randevunuz başarıyla alındı.");
         closeModal();
-      })
-      .catch((error) => {
-        console.error("Randevu alınırken bir hata oluştu:", error);
       });
   };
 
