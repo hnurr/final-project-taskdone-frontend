@@ -1,13 +1,13 @@
-import React, { useEffect, useState } from "react";
+import React, { useState, useEffect } from "react";
 
 const ReservationsList = () => {
   const [reservations, setReservations] = useState([]);
   const [loading, setLoading] = useState(true);
+  const [isProcessing, setIsProcessing] = useState(false);
   const providerId = localStorage.getItem("userId");
 
+  // Dinamik olarak providerId'yi alıyoruz
   useEffect(() => {
-    const providerId = localStorage.getItem("userId"); // Dinamik olarak ID al
-
     if (!providerId) {
       console.error("User ID bulunamadı!");
       setLoading(false);
@@ -22,8 +22,7 @@ const ReservationsList = () => {
         return response.json();
       })
       .then((data) => {
-        console.log("Veri:", data);
-        setReservations(data);
+        setReservations(data); // Veriyi state'e kaydediyoruz
       })
       .catch((error) => {
         console.error("Hata:", error);
@@ -31,7 +30,59 @@ const ReservationsList = () => {
       .finally(() => {
         setLoading(false);
       });
-  }, [providerId]); // Boş bağımlılık array'i sayesinde sadece 1 kez çalışır
+  }, [providerId]);
+
+  const handleApprove = (appointmentId) => {
+    setIsProcessing(true);
+
+    fetch(`http://localhost:8080/api/appointments/${appointmentId}/approve`, {
+      method: "PUT",
+    })
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error("Randevu onaylanamadı!");
+        }
+        return response.json();
+      })
+      .then((data) => {
+        // Onaylanan randevuyu listeden kaldırıyoruz
+        setReservations((prevReservations) =>
+          prevReservations.filter(
+            (reservation) => reservation.id !== appointmentId
+          )
+        );
+      })
+      .catch((error) => {
+        console.error("Hata:", error);
+        setIsProcessing(false);
+      });
+  };
+
+  const handleReject = (appointmentId) => {
+    setIsProcessing(true);
+
+    fetch(`http://localhost:8080/api/appointments/${appointmentId}/reject`, {
+      method: "PUT",
+    })
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error("Randevu reddedilemedi!");
+        }
+        return response.json();
+      })
+      .then((data) => {
+        // Reddedilen randevuyu listeden kaldırıyoruz
+        setReservations((prevReservations) =>
+          prevReservations.filter(
+            (reservation) => reservation.id !== appointmentId
+          )
+        );
+      })
+      .catch((error) => {
+        console.error("Hata:", error);
+        setIsProcessing(false);
+      });
+  };
 
   if (loading) {
     return <p style={{ textAlign: "center" }}>Yükleniyor...</p>;
@@ -55,13 +106,14 @@ const ReservationsList = () => {
             <th>Tarih</th>
             <th>Saat</th>
             <th>Telefon Numarası</th>
+            <th>İşlemler</th>
           </tr>
         </thead>
         <tbody>
           {reservations.length === 0 ? (
             <tr>
-              <td colSpan="6" style={{ padding: "10px" }}>
-                Hiç randevunuz bulunmamaktadır.
+              <td colSpan="7" style={{ padding: "10px" }}>
+                Hiç bekleyen randevunuz bulunmamaktadır.
               </td>
             </tr>
           ) : (
@@ -73,6 +125,40 @@ const ReservationsList = () => {
                 <td>{res.appointmentDate}</td>
                 <td>{res.appointmentTime}</td>
                 <td>{res.userPhoneNumber || "Bilgi Yok"}</td>
+                <td>
+                  {res.status === "BEKLEMEDE" && (
+                    <>
+                      <button
+                        onClick={() => handleApprove(res.id)}
+                        disabled={isProcessing}
+                        style={{
+                          backgroundColor: "#4CAF50",
+                          color: "white",
+                          padding: "5px 10px",
+                          margin: "0 5px",
+                          border: "none",
+                          cursor: "pointer",
+                        }}
+                      >
+                        Onayla
+                      </button>
+                      <button
+                        onClick={() => handleReject(res.id)}
+                        disabled={isProcessing}
+                        style={{
+                          backgroundColor: "#f44336",
+                          color: "white",
+                          padding: "5px 10px",
+                          margin: "0 5px",
+                          border: "none",
+                          cursor: "pointer",
+                        }}
+                      >
+                        Reddet
+                      </button>
+                    </>
+                  )}
+                </td>
               </tr>
             ))
           )}

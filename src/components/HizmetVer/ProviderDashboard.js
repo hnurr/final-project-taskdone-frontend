@@ -17,12 +17,8 @@ const ProviderDashboard = () => {
         return <CreateProfile onSave={onSave} />;
       case "reservations":
         return <ReservationsList />; // 🆕 Rezervasyonlar bileşeni burada çağrıldı
-      case "payments":
-        return (
-          <div>
-            <h3>Geçmiş Hizmetlerim</h3>
-          </div>
-        );
+      case "approve":
+
       case "notifications":
         return (
           <div>
@@ -65,9 +61,9 @@ const ProviderDashboard = () => {
         <ul style={{ listStyle: "none", padding: 0 }}>
           {[
             { name: "Profil", key: "profile" },
-            { name: "Rezervasyonlar", key: "reservations" },
-            { name: "Yorumlar", key: "payments" },
-            { name: "Değerlendirmeler", key: "notifications" },
+            { name: "Onay Bekleyenler Randevular", key: "reservations" },
+            { name: "Onaylanan Randevular", key: "payments" },
+            { name: "Reddedilen Randevular", key: "notifications" },
           ].map((section) => (
             <li
               key={section.key}
