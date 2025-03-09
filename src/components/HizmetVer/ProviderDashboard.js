@@ -1,29 +1,22 @@
-import React, { useState, onSave } from "react";
+import React, { useState } from "react";
 import CreateProfile from "./CreateProfile.js";
+import ReservationsList from "./ReservationsList.js"; // 🆕 Rezervasyon bileşeni import edildi
 
 const ProviderDashboard = () => {
   const [activeSection, setActiveSection] = useState("profile");
-  const userName = "Ahmet Yılmaz"; // Bu, örnek bir kullanıcı adı. Gerçek projede bu kullanıcı veritabanından veya global state'ten alınabilir.
 
   // onSave fonksiyonunu burada tanımlıyoruz
   const onSave = (updatedData) => {
     console.log("Updated Data:", updatedData);
-    // Veriyi kaydetme işlemi burada yapılabilir.
     alert("Profil güncellenmiştir.");
   };
 
   const renderSection = () => {
     switch (activeSection) {
       case "profile":
-        return (
-          <CreateProfile onSave={onSave} /> // onSave fonksiyonunu CreateProfile bileşenine geçiriyoruz
-        );
+        return <CreateProfile onSave={onSave} />;
       case "reservations":
-        return (
-          <div>
-            <h3>Aktif Randevularım</h3>
-          </div>
-        );
+        return <ReservationsList />; // 🆕 Rezervasyonlar bileşeni burada çağrıldı
       case "payments":
         return (
           <div>
@@ -73,10 +66,8 @@ const ProviderDashboard = () => {
           {[
             { name: "Profil", key: "profile" },
             { name: "Rezervasyonlar", key: "reservations" },
-            { name: "Ödemeler", key: "payments" },
-            { name: "Bildirimler", key: "notifications" },
-            { name: "Hizmetlerim", key: "services" },
-            { name: "Takvim", key: "calendar" },
+            { name: "Yorumlar", key: "payments" },
+            { name: "Değerlendirmeler", key: "notifications" },
           ].map((section) => (
             <li
               key={section.key}
@@ -119,22 +110,19 @@ const ProviderDashboard = () => {
           }}
         >
           <h1 style={{ margin: 0, color: "white" }}>Hoşgeldiniz</h1>
-          <div style={{ display: "flex", alignItems: "center" }}>
-            {/* Logout Button */}
-            <button
-              onClick={() => alert("Çıkış yapılıyor...")}
-              style={{
-                padding: "10px",
-                backgroundColor: "white",
-                color: "green",
-                border: "none",
-                borderRadius: "5px",
-                cursor: "pointer",
-              }}
-            >
-              Çıkış Yap
-            </button>
-          </div>
+          <button
+            onClick={() => alert("Çıkış yapılıyor...")}
+            style={{
+              padding: "10px",
+              backgroundColor: "white",
+              color: "green",
+              border: "none",
+              borderRadius: "5px",
+              cursor: "pointer",
+            }}
+          >
+            Çıkış Yap
+          </button>
         </header>
 
         {/* Section Content */}

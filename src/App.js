@@ -17,6 +17,7 @@ import TransportServicesPage from "./components/Service/TransportServicesPage";
 import CreateProfile from "./components/HizmetVer/CreateProfile.js";
 import ServiceRequestForm from "./components/Service/ServiceRequestForm";
 import ServiceProviderList from "./components/Home/ServiceProviderList.js";
+import AppointmentsPage from "./components/Navbar/AppointmentsPage.js"; // Randevu sayfanı içe aktar
 
 function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
@@ -60,6 +61,7 @@ function App() {
             path="/service-provider-all"
             element={<ServiceProviderList />}
           />
+          <Route path="/appointments/:userId" element={<AppointmentsPage />} />
         </Routes>
       </BrowserRouter>
     </div>
