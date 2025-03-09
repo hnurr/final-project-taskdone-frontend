@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import CreateProfile from "./CreateProfile.js";
 import ReservationsList from "./ReservationsList.js"; // 🆕 Rezervasyon bileşeni import edildi
+import ApprovedList from "./ApprovedList.js";
+import CompletedAppointments from "./CompletedAppointments.js";
 
 const ProviderDashboard = () => {
   const [activeSection, setActiveSection] = useState("profile");
@@ -18,13 +20,9 @@ const ProviderDashboard = () => {
       case "reservations":
         return <ReservationsList />; // 🆕 Rezervasyonlar bileşeni burada çağrıldı
       case "approve":
-
+        return <ApprovedList />;
       case "notifications":
-        return (
-          <div>
-            <h3>Bekleyen Onaylar</h3>
-          </div>
-        );
+        return <CompletedAppointments />;
       case "services":
         return (
           <div>
@@ -62,8 +60,8 @@ const ProviderDashboard = () => {
           {[
             { name: "Profil", key: "profile" },
             { name: "Onay Bekleyenler Randevular", key: "reservations" },
-            { name: "Onaylanan Randevular", key: "payments" },
-            { name: "Reddedilen Randevular", key: "notifications" },
+            { name: "Onaylanan Randevular", key: "approve" },
+            { name: "Geçmiş Randevular", key: "notifications" },
           ].map((section) => (
             <li
               key={section.key}
