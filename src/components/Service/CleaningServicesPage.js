@@ -66,7 +66,11 @@ function CleaningServicesPage() {
   const navigate = useNavigate();
 
   const handleServiceRequest = (serviceName) => {
-    navigate("/service-request", { state: { serviceName } });
+    if (serviceName === "Halı Yıkama") {
+      navigate("/hali-yikama");
+    } else {
+      navigate("/service-request", { state: { serviceName } });
+    }
   };
 
   return (

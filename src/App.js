@@ -18,6 +18,7 @@ import CreateProfile from "./components/HizmetVer/CreateProfile.js";
 import ServiceRequestForm from "./components/Service/ServiceRequestForm";
 import ServiceProviderList from "./components/Home/ServiceProviderList.js";
 import AppointmentsPage from "./components/Navbar/AppointmentsPage.js"; // Randevu sayfanı içe aktar
+import HaliYikamaForm from "./components/Service/HaliYikamaForm";
 
 function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
@@ -62,6 +63,7 @@ function App() {
             element={<ServiceProviderList />}
           />
           <Route path="/appointments/:userId" element={<AppointmentsPage />} />
+          <Route path="/hali-yikama" element={<HaliYikamaForm />} />
         </Routes>
       </BrowserRouter>
     </div>

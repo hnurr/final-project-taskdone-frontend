@@ -1,0 +1,25 @@
+[
+  {
+    "il": "Adana",
+    "ilceler": ["Seyhan", "Çukurova"]
+  },
+
+  {
+    "il": "Ankara",
+    "ilceler": ["Çankaya", "Keçiören"]
+  },
+  {
+    "il": "Antalya",
+    "ilceler": ["Muratpaşa", "Kepez"]
+  },
+
+  {
+    "il": "Aydın",
+    "ilceler": ["Efeler", "Nazilli"]
+  },
+
+  {
+    "il": "İstanbul",
+    "ilceler": ["Kadıköy", "Beşiktaş"]
+  }
+]
