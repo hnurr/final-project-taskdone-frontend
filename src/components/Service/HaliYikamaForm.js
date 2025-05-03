@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import {
   Box,
   Button,
@@ -15,6 +15,7 @@ import {
   LinearProgress,
 } from "@mui/material";
 import illerData from "./iller.json";
+import useFiyatVerisi from "./UseFiyatVerisi";
 
 const steps = [
   "Halı Nerede Yıkansın?",
@@ -25,9 +26,9 @@ const steps = [
   "İletişim",
 ];
 
-function HaliYikamaForm({
+export default function HaliYikamaForm({
   serviceName = "Ofis Halı Yıkama",
-  priceRange = "600 TL - 3.900 TL",
+  defaultPrice = "600 TL - 3900 TL",
 }) {
   const [activeStep, setActiveStep] = useState(0);
   const [formData, setFormData] = useState({
@@ -42,24 +43,61 @@ function HaliYikamaForm({
     email: "",
   });
 
+  const [priceRangeResult, setPriceRangeResult] = useState(defaultPrice);
   const totalSteps = steps.length;
+  const fiyatVerisi = useFiyatVerisi();
+
+  useEffect(() => {
+    if (fiyatVerisi.length === 0) return;
+
+    console.log("Veri örneği:", fiyatVerisi[0]);
+
+    const filteredPrices = fiyatVerisi.find(
+      (satir) =>
+        satir.yikama_yeri === formData.yikamaYeri &&
+        satir.metrekare === String(formData.metrekare) &&
+        satir.leke_durumu === formData.lekeDurumu &&
+        satir.parca_sayisi === String(formData.parcaSayisi) &&
+        satir.il === formData.il &&
+        satir.ilce === formData.ilce
+    );
+
+    /**   const filteredPrices = fiyatVerisi.filter((item) => {
+      return (
+        (!formData.il || item.il === formData.il) &&
+        (!formData.ilce || item.ilce === formData.ilce) &&
+        (!formData.yikamaYeri ||
+          item.yikama_yeri === formData.yikamaYeri.toLowerCase()) &&
+        (!formData.metrekare ||
+          Number(item.metrekare) === Number(formData.metrekare)) &&
+        (!formData.lekeDurumu ||
+          item.leke_durumu ===
+            (formData.lekeDurumu.includes("Evet") ? "leke_var" : "leke_yok")) &&
+        (!formData.parcaSayisi ||
+          Number(item.parca_sayisi) === Number(formData.parcaSayisi))
+      );
+    });*/
+
+    if (filteredPrices) {
+      //const fiyatlar = filteredPrices.map((item) =>Number(item.fiyat.toString().replace(/\D/g, "")))
+      const fiyat = Number(filteredPrices.fiyat.toString().replace(/\D/g, ""));
+
+      // const minFiyat = Math.min(...fiyatlar);
+      //  const maxFiyat = Math.max(...fiyatlar);
+
+      setPriceRangeResult(`${fiyat} TL - ${fiyat} TL`);
+    } else {
+      setPriceRangeResult(defaultPrice);
+    }
+  }, [formData, fiyatVerisi, defaultPrice]);
 
   const handleChange = (field) => (e) => {
     setFormData((prev) => ({ ...prev, [field]: e.target.value }));
   };
 
-  const handleNext = () => {
-    if (activeStep < totalSteps - 1) setActiveStep((prev) => prev + 1);
-    else handleSubmit();
-  };
-  const handleBack = () => {
-    if (activeStep > 0) setActiveStep((prev) => prev - 1);
-  };
-
-  const handleSubmit = () => {
-    console.log("Gönderilen veriler:", formData);
-    alert("Talebiniz başarıyla alındı.");
-  };
+  const handleNext = () =>
+    activeStep < totalSteps - 1 && setActiveStep((prev) => prev + 1);
+  const handleBack = () => activeStep > 0 && setActiveStep((prev) => prev - 1);
 
   const renderContent = () => {
     switch (activeStep) {
@@ -69,7 +107,7 @@ function HaliYikamaForm({
             value={formData.yikamaYeri}
             onChange={handleChange("yikamaYeri")}
           >
-            {["Yerinde", "Yıkamacıda"].map((o) => (
+            {["Yerinde", "Yikamaci"].map((o) => (
               <FormControlLabel
                 key={o}
                 value={o}
@@ -112,8 +150,8 @@ function HaliYikamaForm({
             onChange={handleChange("lekeDurumu")}
           >
             {[
-              "Evet, çıkması gereken lekeler var",
-              "Hayır, standart yeterli",
+              "Evet, cikmasi gereken lekeler var",
+              "Hayir, standart yeterli",
             ].map((o) => (
               <FormControlLabel
                 key={o}
@@ -177,9 +215,9 @@ function HaliYikamaForm({
                 >
                   {illerData
                     .find((i) => i.il === formData.il)
-                    .ilceler.map((ic) => (
-                      <MenuItem key={ic} value={ic}>
-                        {ic}
+                    .ilceler.map((ilce) => (
+                      <MenuItem key={ilce} value={ilce}>
+                        {ilce}
                       </MenuItem>
                     ))}
                 </Select>
@@ -230,18 +268,17 @@ function HaliYikamaForm({
         elevation={3}
         sx={{ width: 400, borderRadius: 2, overflow: "hidden" }}
       >
-        {/* Header */}
         <Box
           display="flex"
           alignItems="center"
           justifyContent="center"
-          sx={{ p: 2, borderBottom: "1px solid #eee" }}
+          sx={{ p: 2 }}
         >
           <Typography variant="subtitle1" sx={{ fontWeight: "bold" }}>
             {serviceName}
           </Typography>
         </Box>
-        {/* Progress & Price */}
+
         <Box sx={{ px: 2, pt: 1 }}>
           <LinearProgress
             variant="determinate"
@@ -262,18 +299,18 @@ function HaliYikamaForm({
               Ortalama fiyat aralığı:
             </Typography>
             <Typography variant="caption" color="text.primary">
-              {priceRange}
+              {priceRangeResult}
             </Typography>
           </Box>
         </Box>
-        {/* Content */}
+
         <Box sx={{ p: 2 }}>{renderContent()}</Box>
-        {/* Footer Buttons */}
+
         <Box sx={{ p: 2 }}>
           <Button
             fullWidth
             variant="contained"
-            onClick={activeStep === totalSteps - 1 ? handleSubmit : handleNext}
+            onClick={handleNext}
             sx={{
               backgroundColor: "#56ab2f",
               color: "#fff",
@@ -299,5 +336,3 @@ function HaliYikamaForm({
     </Box>
   );
 }
-
-export default HaliYikamaForm;

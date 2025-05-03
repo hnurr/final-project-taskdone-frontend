@@ -1,25 +1,22 @@
 [
   {
     "il": "Adana",
-    "ilceler": ["Seyhan", "Çukurova"]
+    "ilceler": ["Seyhan", "Cukurova"]
   },
-
   {
     "il": "Ankara",
-    "ilceler": ["Çankaya", "Keçiören"]
+    "ilceler": ["Cankaya", "Kecioren"]
   },
   {
     "il": "Antalya",
-    "ilceler": ["Muratpaşa", "Kepez"]
+    "ilceler": ["Muratpasa", "Kepez"]
   },
-
   {
-    "il": "Aydın",
+    "il": "Aydin",
     "ilceler": ["Efeler", "Nazilli"]
   },
-
   {
-    "il": "İstanbul",
-    "ilceler": ["Kadıköy", "Beşiktaş"]
+    "il": "Istanbul",
+    "ilceler": ["Kadikoy", "Besiktas"]
   }
 ]
