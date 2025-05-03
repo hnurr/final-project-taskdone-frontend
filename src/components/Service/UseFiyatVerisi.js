@@ -5,7 +5,7 @@ export default function UseFiyatVerisi() {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    Papa.parse("/data/fiyat_verisi_ascii.csv", {
+    Papa.parse("/data/sahte_yikama_verisi_final.csv", {
       download: true,
       header: true,
       skipEmptyLines: true,
