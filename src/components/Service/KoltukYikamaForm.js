@@ -15,27 +15,25 @@ import {
   LinearProgress,
 } from "@mui/material";
 import illerData from "./iller.json";
-import useFiyatVerisi from "./UseFiyatVerisi";
+import UseKoltukYikamaFiyatVerisi from "./UseKoltukYikamaFiyatVerisi";
 
 const steps = [
-  "Halı Nerede Yıkansın?",
-  "Kaç Metrekare?",
+  "Koltuk Tipi",
+  "Koltuk Sayısı",
   "Leke Durumu",
-  "Parça Sayısı",
   "Konum",
   "İletişim",
 ];
 
-export default function HaliYikamaForm({
-  serviceName = "Ofis Halı Yıkama",
-  defaultPrice = "600 TL - 3900 TL",
+export default function KoltukYikamaForm({
+  serviceName = "Koltuk Yıkama Hizmeti",
+  defaultPrice = "300 TL - 2500 TL",
 }) {
   const [activeStep, setActiveStep] = useState(0);
   const [formData, setFormData] = useState({
-    yikamaYeri: "",
-    metrekare: "",
+    koltukTipi: "",
+    koltukSayisi: "",
     lekeDurumu: "",
-    parcaSayisi: "",
     il: "",
     ilce: "",
     adSoyad: "",
@@ -45,30 +43,27 @@ export default function HaliYikamaForm({
 
   const [priceRangeResult, setPriceRangeResult] = useState(defaultPrice);
   const totalSteps = steps.length;
-  const fiyatVerisi = useFiyatVerisi();
+  const fiyatVerisi = UseKoltukYikamaFiyatVerisi();
 
   useEffect(() => {
     if (fiyatVerisi.length === 0) return;
 
     const filteredPrices = fiyatVerisi.filter((item) => {
       return Object.entries(formData).every(([key, value]) => {
-        if (value == null || value === "") return true; // Boş olan filtreleri geç
-
+        if (!value) return true;
         switch (key) {
           case "il":
             return item.il === value;
           case "ilce":
             return item.ilce === value;
-          case "yikamaYeri":
-            return item.yikama_yeri === value;
-          case "parcaSayisi":
-            return Number(item.parca_sayisi) === Number(value);
-          case "metrekare":
-            return Number(item.metrekare) === Number(value);
+          case "koltukTipi":
+            return item.koltuk_tipi === value;
+          case "koltukSayisi":
+            return Number(item.koltuk_sayisi) === Number(value);
           case "lekeDurumu":
             return item.leke_durumu === value;
           default:
-            return true; // Diğer alanlar filtreye dahil değilse geç
+            return true;
         }
       });
     });
@@ -77,10 +72,8 @@ export default function HaliYikamaForm({
       const fiyatlar = filteredPrices.map((item) =>
         Number(item.fiyat.toString().replace(/\D/g, ""))
       );
-
       const minFiyat = Math.min(...fiyatlar);
       const maxFiyat = Math.max(...fiyatlar);
-
       setPriceRangeResult(`${minFiyat} TL - ${maxFiyat} TL`);
     } else {
       setPriceRangeResult(defaultPrice);
@@ -89,20 +82,11 @@ export default function HaliYikamaForm({
 
   const handleChange = (field) => (e) => {
     const value = e.target.value;
-
-    setFormData((prev) => {
-      if (field === "il") {
-        return {
-          ...prev,
-          il: value,
-          ilce: "", // İl değiştiğinde ilçe sıfırlansın
-        };
-      }
-      return {
-        ...prev,
-        [field]: value,
-      };
-    });
+    setFormData((prev) => ({
+      ...prev,
+      [field]: value,
+      ...(field === "il" ? { ilce: "" } : {}),
+    }));
   };
 
   const handleNext = () =>
@@ -114,10 +98,10 @@ export default function HaliYikamaForm({
       case 0:
         return (
           <RadioGroup
-            value={formData.yikamaYeri}
-            onChange={handleChange("yikamaYeri")}
+            value={formData.koltukTipi}
+            onChange={handleChange("koltukTipi")}
           >
-            {["Yerinde", "Yikamaci"].map((o) => (
+            {["Tekli", "İkili", "Üçlü", "L Köşe", "U Köşe"].map((o) => (
               <FormControlLabel
                 key={o}
                 value={o}
@@ -138,16 +122,16 @@ export default function HaliYikamaForm({
         return (
           <FormControl fullWidth>
             <Select
-              value={formData.metrekare}
-              onChange={handleChange("metrekare")}
+              value={formData.koltukSayisi}
+              onChange={handleChange("koltukSayisi")}
               displayEmpty
             >
               <MenuItem value="" disabled>
                 Seçiniz
               </MenuItem>
-              {[10, 20, 30, 40].map((val) => (
+              {[1, 2, 3, 4, 5, 6].map((val) => (
                 <MenuItem key={val} value={val}>
-                  {val} m²
+                  {val}
                 </MenuItem>
               ))}
             </Select>
@@ -159,46 +143,26 @@ export default function HaliYikamaForm({
             value={formData.lekeDurumu}
             onChange={handleChange("lekeDurumu")}
           >
-            {[
-              "Evet, cikmasi gereken lekeler var",
-              "Hayir, standart yeterli",
-            ].map((o) => (
-              <FormControlLabel
-                key={o}
-                value={o}
-                control={
-                  <Radio
-                    sx={{
-                      color: "#56ab2f",
-                      "&.Mui-checked": { color: "#56ab2f" },
-                    }}
-                  />
-                }
-                label={o}
-              />
-            ))}
+            {["Evet, zor lekeler var", "Hayır, genel temizlik yeterli"].map(
+              (o) => (
+                <FormControlLabel
+                  key={o}
+                  value={o}
+                  control={
+                    <Radio
+                      sx={{
+                        color: "#56ab2f",
+                        "&.Mui-checked": { color: "#56ab2f" },
+                      }}
+                    />
+                  }
+                  label={o}
+                />
+              )
+            )}
           </RadioGroup>
         );
       case 3:
-        return (
-          <FormControl fullWidth>
-            <Select
-              value={formData.parcaSayisi}
-              onChange={handleChange("parcaSayisi")}
-              displayEmpty
-            >
-              <MenuItem value="" disabled>
-                Seçiniz
-              </MenuItem>
-              {["1", "2", "3", "4"].map((val) => (
-                <MenuItem key={val} value={val}>
-                  {val}
-                </MenuItem>
-              ))}
-            </Select>
-          </FormControl>
-        );
-      case 4:
         return (
           <>
             <FormControl fullWidth sx={{ mb: 2 }}>
@@ -235,7 +199,7 @@ export default function HaliYikamaForm({
             )}
           </>
         );
-      case 5:
+      case 4:
         return (
           <>
             <TextField

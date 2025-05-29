@@ -1,0 +1,2001 @@
+il,ilce,koltuk_tipi,koltuk_sayisi,leke_durumu,fiyat
+Bursa,Yıldırım,İkili,5,"Hayır, genel temizlik yeterli",1423 TL
+Bursa,Nilüfer,İkili,1,"Evet, zor lekeler var",1682 TL
+Bursa,Nilüfer,U Köşe,1,"Evet, zor lekeler var",1327 TL
+İstanbul,Kadıköy,İkili,5,"Evet, zor lekeler var",2002 TL
+Antalya,Muratpaşa,Tekli,6,"Hayır, genel temizlik yeterli",1633 TL
+İstanbul,Üsküdar,L Köşe,4,"Hayır, genel temizlik yeterli",1684 TL
+İstanbul,Üsküdar,Üçlü,6,"Hayır, genel temizlik yeterli",426 TL
+İstanbul,Kadıköy,Üçlü,6,"Evet, zor lekeler var",2425 TL
+Antalya,Kepez,Üçlü,1,"Evet, zor lekeler var",2033 TL
+Antalya,Alanya,Üçlü,2,"Hayır, genel temizlik yeterli",2416 TL
+İstanbul,Üsküdar,Üçlü,5,"Evet, zor lekeler var",1989 TL
+Ankara,Keçiören,Üçlü,4,"Evet, zor lekeler var",794 TL
+İstanbul,Üsküdar,Üçlü,5,"Evet, zor lekeler var",2072 TL
+İzmir,Buca,Üçlü,1,"Hayır, genel temizlik yeterli",2187 TL
+Ankara,Çankaya,Üçlü,4,"Evet, zor lekeler var",473 TL
+İstanbul,Bakırköy,Üçlü,3,"Hayır, genel temizlik yeterli",1762 TL
+Bursa,Osmangazi,Tekli,2,"Hayır, genel temizlik yeterli",394 TL
+Bursa,Yıldırım,Üçlü,3,"Hayır, genel temizlik yeterli",2456 TL
+Antalya,Muratpaşa,Tekli,2,"Hayır, genel temizlik yeterli",1010 TL
+Ankara,Keçiören,L Köşe,2,"Evet, zor lekeler var",410 TL
+İzmir,Buca,L Köşe,6,"Evet, zor lekeler var",1628 TL
+Ankara,Etimesgut,L Köşe,2,"Evet, zor lekeler var",1171 TL
+İstanbul,Kadıköy,Tekli,4,"Evet, zor lekeler var",1020 TL
+Ankara,Keçiören,Üçlü,6,"Evet, zor lekeler var",1376 TL
+Bursa,Yıldırım,L Köşe,5,"Evet, zor lekeler var",1203 TL
+Antalya,Kepez,İkili,5,"Evet, zor lekeler var",2074 TL
+Bursa,Nilüfer,İkili,2,"Hayır, genel temizlik yeterli",574 TL
+Ankara,Mamak,İkili,6,"Hayır, genel temizlik yeterli",1172 TL
+İstanbul,Kadıköy,Üçlü,1,"Evet, zor lekeler var",1540 TL
+İstanbul,Bakırköy,L Köşe,6,"Hayır, genel temizlik yeterli",1356 TL
+Antalya,Alanya,İkili,1,"Evet, zor lekeler var",1145 TL
+Bursa,Nilüfer,İkili,4,"Hayır, genel temizlik yeterli",510 TL
+Ankara,Mamak,İkili,1,"Hayır, genel temizlik yeterli",2489 TL
+Bursa,Osmangazi,U Köşe,3,"Evet, zor lekeler var",2412 TL
+İzmir,Buca,Üçlü,6,"Evet, zor lekeler var",1803 TL
+Antalya,Muratpaşa,Tekli,2,"Hayır, genel temizlik yeterli",1641 TL
+Antalya,Alanya,L Köşe,3,"Evet, zor lekeler var",1778 TL
+Ankara,Keçiören,L Köşe,2,"Evet, zor lekeler var",1479 TL
+İstanbul,Bakırköy,İkili,3,"Evet, zor lekeler var",2392 TL
+Bursa,Osmangazi,U Köşe,1,"Evet, zor lekeler var",1079 TL
+Ankara,Mamak,Üçlü,2,"Hayır, genel temizlik yeterli",1380 TL
+Ankara,Mamak,Üçlü,4,"Evet, zor lekeler var",1454 TL
+İstanbul,Bakırköy,L Köşe,5,"Evet, zor lekeler var",497 TL
+İzmir,Bornova,İkili,5,"Evet, zor lekeler var",491 TL
+Bursa,Yıldırım,Tekli,3,"Evet, zor lekeler var",411 TL
+İzmir,Buca,U Köşe,3,"Evet, zor lekeler var",1554 TL
+Bursa,Nilüfer,U Köşe,3,"Evet, zor lekeler var",2186 TL
+Ankara,Çankaya,L Köşe,6,"Hayır, genel temizlik yeterli",509 TL
+Antalya,Kepez,Üçlü,3,"Hayır, genel temizlik yeterli",2271 TL
+Ankara,Mamak,L Köşe,6,"Evet, zor lekeler var",1478 TL
+Antalya,Kepez,Tekli,4,"Hayır, genel temizlik yeterli",1553 TL
+İstanbul,Beşiktaş,Tekli,2,"Evet, zor lekeler var",1434 TL
+Antalya,Alanya,İkili,4,"Evet, zor lekeler var",562 TL
+Bursa,Osmangazi,Tekli,6,"Hayır, genel temizlik yeterli",641 TL
+İstanbul,Kadıköy,Üçlü,3,"Evet, zor lekeler var",1078 TL
+Bursa,Yıldırım,Tekli,4,"Hayır, genel temizlik yeterli",789 TL
+Antalya,Alanya,Tekli,4,"Evet, zor lekeler var",2143 TL
+Bursa,Nilüfer,Üçlü,6,"Hayır, genel temizlik yeterli",773 TL
+İstanbul,Beşiktaş,L Köşe,1,"Hayır, genel temizlik yeterli",904 TL
+İzmir,Bornova,Üçlü,2,"Hayır, genel temizlik yeterli",748 TL
+Antalya,Muratpaşa,L Köşe,3,"Evet, zor lekeler var",1309 TL
+İstanbul,Beşiktaş,L Köşe,5,"Evet, zor lekeler var",1249 TL
+İzmir,Karşıyaka,Tekli,4,"Evet, zor lekeler var",1217 TL
+İzmir,Konak,İkili,6,"Hayır, genel temizlik yeterli",663 TL
+Bursa,Nilüfer,Tekli,5,"Hayır, genel temizlik yeterli",386 TL
+Bursa,Nilüfer,L Köşe,3,"Hayır, genel temizlik yeterli",1287 TL
+Antalya,Muratpaşa,U Köşe,2,"Hayır, genel temizlik yeterli",1888 TL
+İstanbul,Beşiktaş,Üçlü,1,"Hayır, genel temizlik yeterli",2382 TL
+Antalya,Kepez,U Köşe,2,"Evet, zor lekeler var",1322 TL
+İstanbul,Üsküdar,Üçlü,4,"Evet, zor lekeler var",2334 TL
+Ankara,Mamak,U Köşe,2,"Evet, zor lekeler var",1812 TL
+Bursa,Nilüfer,U Köşe,2,"Hayır, genel temizlik yeterli",1500 TL
+İstanbul,Beşiktaş,Üçlü,1,"Evet, zor lekeler var",1891 TL
+Antalya,Alanya,İkili,5,"Hayır, genel temizlik yeterli",979 TL
+Ankara,Mamak,U Köşe,3,"Hayır, genel temizlik yeterli",693 TL
+İstanbul,Kadıköy,Üçlü,1,"Evet, zor lekeler var",2353 TL
+İzmir,Bornova,İkili,5,"Evet, zor lekeler var",2055 TL
+İstanbul,Üsküdar,Üçlü,3,"Evet, zor lekeler var",2158 TL
+Ankara,Çankaya,U Köşe,4,"Hayır, genel temizlik yeterli",1877 TL
+İzmir,Karşıyaka,L Köşe,5,"Evet, zor lekeler var",2212 TL
+İzmir,Buca,Tekli,5,"Evet, zor lekeler var",1141 TL
+Ankara,Çankaya,Üçlü,2,"Hayır, genel temizlik yeterli",1433 TL
+Ankara,Etimesgut,L Köşe,1,"Hayır, genel temizlik yeterli",1049 TL
+İstanbul,Beşiktaş,Tekli,3,"Hayır, genel temizlik yeterli",1902 TL
+Antalya,Muratpaşa,Tekli,5,"Hayır, genel temizlik yeterli",1953 TL
+İstanbul,Bakırköy,Tekli,2,"Hayır, genel temizlik yeterli",1372 TL
+İstanbul,Kadıköy,U Köşe,4,"Hayır, genel temizlik yeterli",2273 TL
+İstanbul,Üsküdar,İkili,3,"Evet, zor lekeler var",1205 TL
+Ankara,Çankaya,L Köşe,2,"Evet, zor lekeler var",665 TL
+Antalya,Alanya,İkili,4,"Evet, zor lekeler var",1513 TL
+Ankara,Çankaya,Üçlü,4,"Hayır, genel temizlik yeterli",1727 TL
+İstanbul,Kadıköy,L Köşe,4,"Evet, zor lekeler var",998 TL
+Ankara,Keçiören,Tekli,1,"Hayır, genel temizlik yeterli",2066 TL
+İstanbul,Bakırköy,Üçlü,3,"Hayır, genel temizlik yeterli",522 TL
+İstanbul,Beşiktaş,Üçlü,6,"Hayır, genel temizlik yeterli",347 TL
+Ankara,Mamak,Tekli,2,"Hayır, genel temizlik yeterli",666 TL
+Bursa,Yıldırım,L Köşe,3,"Evet, zor lekeler var",1769 TL
+Antalya,Kepez,Üçlü,4,"Hayır, genel temizlik yeterli",982 TL
+Antalya,Kepez,İkili,6,"Evet, zor lekeler var",1326 TL
+Antalya,Alanya,İkili,1,"Evet, zor lekeler var",1656 TL
+İzmir,Bornova,Üçlü,3,"Hayır, genel temizlik yeterli",1079 TL
+Bursa,Osmangazi,Tekli,1,"Evet, zor lekeler var",1905 TL
+Antalya,Alanya,L Köşe,4,"Evet, zor lekeler var",932 TL
+İzmir,Buca,U Köşe,3,"Evet, zor lekeler var",2287 TL
+Bursa,Yıldırım,İkili,2,"Evet, zor lekeler var",1136 TL
+İstanbul,Beşiktaş,U Köşe,3,"Hayır, genel temizlik yeterli",1760 TL
+İstanbul,Beşiktaş,U Köşe,4,"Hayır, genel temizlik yeterli",1849 TL
+Ankara,Etimesgut,Üçlü,3,"Evet, zor lekeler var",2207 TL
+İstanbul,Üsküdar,İkili,3,"Evet, zor lekeler var",1297 TL
+Ankara,Etimesgut,Tekli,3,"Evet, zor lekeler var",2020 TL
+İstanbul,Bakırköy,Üçlü,6,"Evet, zor lekeler var",1173 TL
+Bursa,Yıldırım,Üçlü,4,"Evet, zor lekeler var",2343 TL
+Ankara,Keçiören,İkili,1,"Evet, zor lekeler var",1237 TL
+Ankara,Keçiören,U Köşe,6,"Evet, zor lekeler var",1081 TL
+İzmir,Bornova,Üçlü,2,"Evet, zor lekeler var",350 TL
+Antalya,Kepez,Üçlü,1,"Hayır, genel temizlik yeterli",471 TL
+Antalya,Kepez,U Köşe,4,"Hayır, genel temizlik yeterli",1730 TL
+Bursa,Yıldırım,Tekli,4,"Evet, zor lekeler var",1781 TL
+Antalya,Muratpaşa,İkili,5,"Evet, zor lekeler var",1479 TL
+Antalya,Muratpaşa,İkili,4,"Evet, zor lekeler var",1002 TL
+Ankara,Keçiören,Tekli,6,"Hayır, genel temizlik yeterli",2010 TL
+Antalya,Kepez,U Köşe,3,"Hayır, genel temizlik yeterli",1720 TL
+Ankara,Keçiören,U Köşe,4,"Hayır, genel temizlik yeterli",1776 TL
+Bursa,Yıldırım,Tekli,4,"Evet, zor lekeler var",773 TL
+Antalya,Muratpaşa,İkili,1,"Evet, zor lekeler var",1200 TL
+İzmir,Karşıyaka,U Köşe,2,"Hayır, genel temizlik yeterli",1555 TL
+İstanbul,Üsküdar,İkili,2,"Hayır, genel temizlik yeterli",2163 TL
+Bursa,Nilüfer,U Köşe,3,"Hayır, genel temizlik yeterli",2077 TL
+Antalya,Kepez,İkili,6,"Hayır, genel temizlik yeterli",1669 TL
+İzmir,Konak,Tekli,3,"Hayır, genel temizlik yeterli",1133 TL
+Ankara,Keçiören,Tekli,6,"Hayır, genel temizlik yeterli",1234 TL
+İstanbul,Kadıköy,U Köşe,3,"Hayır, genel temizlik yeterli",847 TL
+İstanbul,Bakırköy,İkili,3,"Hayır, genel temizlik yeterli",2444 TL
+Ankara,Çankaya,L Köşe,6,"Evet, zor lekeler var",443 TL
+Bursa,Nilüfer,Tekli,3,"Hayır, genel temizlik yeterli",1709 TL
+İstanbul,Beşiktaş,Üçlü,3,"Evet, zor lekeler var",566 TL
+Bursa,Yıldırım,Üçlü,3,"Evet, zor lekeler var",351 TL
+Antalya,Muratpaşa,U Köşe,4,"Hayır, genel temizlik yeterli",1567 TL
+Ankara,Mamak,L Köşe,6,"Evet, zor lekeler var",530 TL
+Ankara,Mamak,Üçlü,3,"Evet, zor lekeler var",835 TL
+Ankara,Mamak,Tekli,1,"Evet, zor lekeler var",352 TL
+İstanbul,Kadıköy,Tekli,5,"Evet, zor lekeler var",465 TL
+Ankara,Etimesgut,L Köşe,1,"Hayır, genel temizlik yeterli",1483 TL
+Antalya,Muratpaşa,L Köşe,6,"Evet, zor lekeler var",696 TL
+İstanbul,Beşiktaş,İkili,6,"Hayır, genel temizlik yeterli",733 TL
+Antalya,Kepez,U Köşe,2,"Evet, zor lekeler var",2131 TL
+Bursa,Nilüfer,Üçlü,1,"Hayır, genel temizlik yeterli",831 TL
+Ankara,Mamak,Üçlü,4,"Hayır, genel temizlik yeterli",2226 TL
+Bursa,Osmangazi,İkili,2,"Evet, zor lekeler var",313 TL
+Ankara,Keçiören,İkili,4,"Hayır, genel temizlik yeterli",908 TL
+Antalya,Alanya,Tekli,2,"Evet, zor lekeler var",1558 TL
+İstanbul,Beşiktaş,Tekli,6,"Hayır, genel temizlik yeterli",1061 TL
+Antalya,Alanya,İkili,2,"Hayır, genel temizlik yeterli",1722 TL
+İstanbul,Bakırköy,Üçlü,3,"Hayır, genel temizlik yeterli",2216 TL
+İzmir,Karşıyaka,U Köşe,6,"Evet, zor lekeler var",2252 TL
+İstanbul,Kadıköy,Tekli,1,"Evet, zor lekeler var",1597 TL
+Ankara,Etimesgut,Üçlü,1,"Evet, zor lekeler var",777 TL
+Antalya,Kepez,Tekli,6,"Hayır, genel temizlik yeterli",790 TL
+Antalya,Alanya,L Köşe,1,"Hayır, genel temizlik yeterli",634 TL
+Antalya,Kepez,Tekli,3,"Hayır, genel temizlik yeterli",792 TL
+Antalya,Alanya,Tekli,1,"Evet, zor lekeler var",2164 TL
+İstanbul,Beşiktaş,İkili,2,"Evet, zor lekeler var",1889 TL
+İstanbul,Beşiktaş,L Köşe,6,"Evet, zor lekeler var",1234 TL
+İzmir,Buca,Tekli,6,"Evet, zor lekeler var",454 TL
+İzmir,Buca,L Köşe,5,"Evet, zor lekeler var",392 TL
+İstanbul,Bakırköy,İkili,2,"Evet, zor lekeler var",1574 TL
+Ankara,Çankaya,U Köşe,2,"Evet, zor lekeler var",1789 TL
+Bursa,Osmangazi,U Köşe,6,"Hayır, genel temizlik yeterli",1529 TL
+İzmir,Bornova,Tekli,1,"Hayır, genel temizlik yeterli",1466 TL
+Antalya,Kepez,Üçlü,3,"Evet, zor lekeler var",1732 TL
+İstanbul,Beşiktaş,İkili,3,"Hayır, genel temizlik yeterli",2059 TL
+Ankara,Mamak,U Köşe,6,"Hayır, genel temizlik yeterli",538 TL
+İstanbul,Kadıköy,U Köşe,4,"Evet, zor lekeler var",1823 TL
+İzmir,Bornova,L Köşe,4,"Hayır, genel temizlik yeterli",1492 TL
+İzmir,Buca,İkili,5,"Evet, zor lekeler var",1775 TL
+Ankara,Etimesgut,Tekli,5,"Hayır, genel temizlik yeterli",1554 TL
+İzmir,Karşıyaka,L Köşe,3,"Hayır, genel temizlik yeterli",1368 TL
+İzmir,Buca,U Köşe,5,"Hayır, genel temizlik yeterli",1074 TL
+Ankara,Çankaya,L Köşe,1,"Evet, zor lekeler var",2068 TL
+Antalya,Muratpaşa,Üçlü,1,"Hayır, genel temizlik yeterli",1733 TL
+Ankara,Etimesgut,U Köşe,4,"Evet, zor lekeler var",1205 TL
+Ankara,Çankaya,Üçlü,1,"Evet, zor lekeler var",2135 TL
+Ankara,Çankaya,Tekli,3,"Evet, zor lekeler var",1095 TL
+Ankara,Etimesgut,L Köşe,2,"Hayır, genel temizlik yeterli",953 TL
+Antalya,Kepez,U Köşe,1,"Evet, zor lekeler var",1681 TL
+Antalya,Muratpaşa,Üçlü,1,"Hayır, genel temizlik yeterli",1056 TL
+İstanbul,Üsküdar,L Köşe,4,"Evet, zor lekeler var",1787 TL
+Bursa,Yıldırım,Tekli,2,"Evet, zor lekeler var",1535 TL
+Bursa,Nilüfer,L Köşe,6,"Evet, zor lekeler var",393 TL
+Ankara,Keçiören,Tekli,1,"Hayır, genel temizlik yeterli",1678 TL
+İzmir,Karşıyaka,U Köşe,4,"Evet, zor lekeler var",2384 TL
+Antalya,Muratpaşa,U Köşe,3,"Hayır, genel temizlik yeterli",1718 TL
+Ankara,Etimesgut,U Köşe,2,"Evet, zor lekeler var",853 TL
+İstanbul,Üsküdar,Tekli,3,"Evet, zor lekeler var",1400 TL
+İzmir,Bornova,İkili,5,"Evet, zor lekeler var",1033 TL
+İzmir,Karşıyaka,L Köşe,5,"Evet, zor lekeler var",1396 TL
+İzmir,Konak,L Köşe,2,"Hayır, genel temizlik yeterli",1382 TL
+Bursa,Nilüfer,Tekli,2,"Hayır, genel temizlik yeterli",2454 TL
+İstanbul,Beşiktaş,U Köşe,2,"Hayır, genel temizlik yeterli",1199 TL
+İzmir,Konak,İkili,4,"Hayır, genel temizlik yeterli",804 TL
+İzmir,Bornova,Üçlü,2,"Evet, zor lekeler var",312 TL
+Bursa,Yıldırım,İkili,4,"Hayır, genel temizlik yeterli",354 TL
+İstanbul,Üsküdar,Tekli,6,"Evet, zor lekeler var",1720 TL
+İzmir,Bornova,İkili,2,"Evet, zor lekeler var",2377 TL
+Bursa,Nilüfer,Tekli,3,"Hayır, genel temizlik yeterli",2270 TL
+Bursa,Osmangazi,U Köşe,2,"Hayır, genel temizlik yeterli",1508 TL
+Bursa,Osmangazi,U Köşe,6,"Evet, zor lekeler var",1212 TL
+Antalya,Alanya,İkili,6,"Evet, zor lekeler var",1058 TL
+İstanbul,Beşiktaş,Tekli,2,"Hayır, genel temizlik yeterli",497 TL
+Ankara,Çankaya,U Köşe,3,"Evet, zor lekeler var",1303 TL
+Bursa,Osmangazi,İkili,2,"Hayır, genel temizlik yeterli",1811 TL
+Ankara,Keçiören,L Köşe,1,"Hayır, genel temizlik yeterli",2424 TL
+Ankara,Mamak,Tekli,3,"Evet, zor lekeler var",1789 TL
+İstanbul,Üsküdar,Üçlü,2,"Evet, zor lekeler var",414 TL
+Ankara,Keçiören,Üçlü,4,"Hayır, genel temizlik yeterli",1347 TL
+İzmir,Karşıyaka,L Köşe,4,"Hayır, genel temizlik yeterli",1165 TL
+Ankara,Mamak,İkili,3,"Hayır, genel temizlik yeterli",1128 TL
+Bursa,Nilüfer,U Köşe,5,"Evet, zor lekeler var",867 TL
+Bursa,Nilüfer,Tekli,2,"Hayır, genel temizlik yeterli",966 TL
+İstanbul,Kadıköy,L Köşe,4,"Evet, zor lekeler var",2294 TL
+İzmir,Konak,Tekli,4,"Evet, zor lekeler var",966 TL
+Ankara,Mamak,İkili,4,"Evet, zor lekeler var",598 TL
+İzmir,Bornova,L Köşe,4,"Evet, zor lekeler var",2086 TL
+Antalya,Kepez,L Köşe,3,"Hayır, genel temizlik yeterli",581 TL
+Bursa,Yıldırım,U Köşe,5,"Hayır, genel temizlik yeterli",1954 TL
+Antalya,Kepez,İkili,6,"Evet, zor lekeler var",725 TL
+Bursa,Yıldırım,Üçlü,6,"Evet, zor lekeler var",1803 TL
+İstanbul,Üsküdar,Üçlü,4,"Evet, zor lekeler var",1800 TL
+İzmir,Bornova,İkili,3,"Hayır, genel temizlik yeterli",528 TL
+Antalya,Alanya,Üçlü,3,"Hayır, genel temizlik yeterli",2119 TL
+Antalya,Muratpaşa,Tekli,6,"Hayır, genel temizlik yeterli",1978 TL
+Antalya,Kepez,L Köşe,5,"Hayır, genel temizlik yeterli",1527 TL
+İzmir,Buca,U Köşe,2,"Evet, zor lekeler var",528 TL
+Antalya,Muratpaşa,İkili,4,"Hayır, genel temizlik yeterli",2484 TL
+İzmir,Konak,L Köşe,5,"Hayır, genel temizlik yeterli",690 TL
+İzmir,Konak,U Köşe,6,"Hayır, genel temizlik yeterli",1795 TL
+Antalya,Muratpaşa,Tekli,5,"Evet, zor lekeler var",1280 TL
+İzmir,Buca,Tekli,4,"Hayır, genel temizlik yeterli",2405 TL
+Bursa,Yıldırım,U Köşe,1,"Hayır, genel temizlik yeterli",2054 TL
+Bursa,Yıldırım,Üçlü,5,"Hayır, genel temizlik yeterli",1873 TL
+Bursa,Osmangazi,L Köşe,4,"Hayır, genel temizlik yeterli",1481 TL
+İstanbul,Beşiktaş,L Köşe,5,"Evet, zor lekeler var",1133 TL
+İzmir,Bornova,Tekli,6,"Evet, zor lekeler var",1686 TL
+Antalya,Kepez,U Köşe,5,"Hayır, genel temizlik yeterli",1145 TL
+Bursa,Yıldırım,Tekli,1,"Hayır, genel temizlik yeterli",1681 TL
+Bursa,Osmangazi,Üçlü,6,"Evet, zor lekeler var",654 TL
+Ankara,Keçiören,U Köşe,4,"Evet, zor lekeler var",1727 TL
+İstanbul,Beşiktaş,U Köşe,6,"Evet, zor lekeler var",1270 TL
+İstanbul,Beşiktaş,Üçlü,4,"Hayır, genel temizlik yeterli",867 TL
+İzmir,Bornova,L Köşe,6,"Hayır, genel temizlik yeterli",2404 TL
+İstanbul,Beşiktaş,Üçlü,4,"Hayır, genel temizlik yeterli",1348 TL
+İzmir,Buca,Üçlü,4,"Hayır, genel temizlik yeterli",2347 TL
+Bursa,Nilüfer,L Köşe,5,"Hayır, genel temizlik yeterli",2433 TL
+İzmir,Buca,U Köşe,2,"Hayır, genel temizlik yeterli",1051 TL
+Ankara,Etimesgut,Üçlü,1,"Hayır, genel temizlik yeterli",889 TL
+Ankara,Çankaya,İkili,1,"Evet, zor lekeler var",1589 TL
+Ankara,Mamak,U Köşe,4,"Hayır, genel temizlik yeterli",471 TL
+Bursa,Osmangazi,L Köşe,4,"Evet, zor lekeler var",2194 TL
+İstanbul,Kadıköy,U Köşe,6,"Hayır, genel temizlik yeterli",1903 TL
+İzmir,Buca,İkili,5,"Hayır, genel temizlik yeterli",1057 TL
+İstanbul,Kadıköy,İkili,1,"Hayır, genel temizlik yeterli",432 TL
+Bursa,Nilüfer,L Köşe,4,"Evet, zor lekeler var",572 TL
+Ankara,Mamak,U Köşe,2,"Hayır, genel temizlik yeterli",2442 TL
+Antalya,Alanya,U Köşe,3,"Hayır, genel temizlik yeterli",338 TL
+Bursa,Osmangazi,U Köşe,3,"Hayır, genel temizlik yeterli",1923 TL
+Bursa,Yıldırım,Üçlü,3,"Evet, zor lekeler var",1436 TL
+Antalya,Kepez,İkili,1,"Hayır, genel temizlik yeterli",1130 TL
+İzmir,Buca,Tekli,4,"Evet, zor lekeler var",2043 TL
+Antalya,Muratpaşa,U Köşe,5,"Hayır, genel temizlik yeterli",1810 TL
+Ankara,Keçiören,U Köşe,6,"Hayır, genel temizlik yeterli",2144 TL
+İstanbul,Üsküdar,L Köşe,6,"Hayır, genel temizlik yeterli",1268 TL
+Ankara,Mamak,İkili,3,"Evet, zor lekeler var",1923 TL
+İzmir,Buca,İkili,5,"Hayır, genel temizlik yeterli",641 TL
+İzmir,Buca,L Köşe,2,"Evet, zor lekeler var",1620 TL
+İzmir,Bornova,Tekli,4,"Evet, zor lekeler var",1156 TL
+Bursa,Yıldırım,Üçlü,4,"Evet, zor lekeler var",795 TL
+Bursa,Osmangazi,L Köşe,5,"Hayır, genel temizlik yeterli",1581 TL
+Antalya,Alanya,U Köşe,6,"Hayır, genel temizlik yeterli",2387 TL
+İzmir,Buca,İkili,5,"Evet, zor lekeler var",1482 TL
+İzmir,Bornova,L Köşe,3,"Hayır, genel temizlik yeterli",1720 TL
+İzmir,Karşıyaka,Üçlü,2,"Hayır, genel temizlik yeterli",1296 TL
+Bursa,Nilüfer,İkili,6,"Evet, zor lekeler var",1396 TL
+İzmir,Buca,U Köşe,6,"Hayır, genel temizlik yeterli",445 TL
+Bursa,Yıldırım,U Köşe,6,"Hayır, genel temizlik yeterli",2481 TL
+İstanbul,Kadıköy,İkili,6,"Evet, zor lekeler var",1270 TL
+Ankara,Keçiören,U Köşe,5,"Hayır, genel temizlik yeterli",494 TL
+Ankara,Etimesgut,U Köşe,6,"Hayır, genel temizlik yeterli",2075 TL
+İzmir,Buca,Tekli,2,"Hayır, genel temizlik yeterli",1366 TL
+Ankara,Çankaya,Tekli,3,"Evet, zor lekeler var",769 TL
+Ankara,Etimesgut,İkili,3,"Evet, zor lekeler var",1335 TL
+İzmir,Buca,Tekli,1,"Evet, zor lekeler var",796 TL
+İzmir,Konak,İkili,5,"Evet, zor lekeler var",542 TL
+Antalya,Kepez,U Köşe,3,"Evet, zor lekeler var",619 TL
+İstanbul,Beşiktaş,L Köşe,5,"Hayır, genel temizlik yeterli",736 TL
+İstanbul,Kadıköy,İkili,2,"Hayır, genel temizlik yeterli",379 TL
+İstanbul,Kadıköy,Tekli,2,"Hayır, genel temizlik yeterli",2386 TL
+İstanbul,Kadıköy,İkili,3,"Hayır, genel temizlik yeterli",1608 TL
+Antalya,Alanya,Tekli,6,"Evet, zor lekeler var",573 TL
+İzmir,Konak,L Köşe,1,"Evet, zor lekeler var",2269 TL
+Antalya,Alanya,L Köşe,4,"Evet, zor lekeler var",581 TL
+İstanbul,Üsküdar,Üçlü,2,"Hayır, genel temizlik yeterli",1874 TL
+İstanbul,Beşiktaş,U Köşe,6,"Hayır, genel temizlik yeterli",430 TL
+İzmir,Bornova,Tekli,5,"Hayır, genel temizlik yeterli",1876 TL
+Ankara,Etimesgut,Üçlü,6,"Evet, zor lekeler var",1272 TL
+İstanbul,Bakırköy,Tekli,4,"Hayır, genel temizlik yeterli",397 TL
+Bursa,Yıldırım,U Köşe,4,"Evet, zor lekeler var",855 TL
+Antalya,Kepez,U Köşe,4,"Hayır, genel temizlik yeterli",346 TL
+Bursa,Yıldırım,İkili,2,"Hayır, genel temizlik yeterli",1480 TL
+Ankara,Mamak,Tekli,2,"Hayır, genel temizlik yeterli",2187 TL
+Bursa,Yıldırım,İkili,3,"Hayır, genel temizlik yeterli",1477 TL
+Bursa,Yıldırım,Tekli,3,"Evet, zor lekeler var",815 TL
+İzmir,Konak,Üçlü,2,"Hayır, genel temizlik yeterli",964 TL
+İstanbul,Bakırköy,Tekli,5,"Evet, zor lekeler var",318 TL
+Ankara,Keçiören,İkili,1,"Evet, zor lekeler var",344 TL
+Antalya,Muratpaşa,Tekli,2,"Evet, zor lekeler var",2451 TL
+İstanbul,Beşiktaş,U Köşe,1,"Evet, zor lekeler var",1249 TL
+İstanbul,Üsküdar,Tekli,2,"Evet, zor lekeler var",1270 TL
+Antalya,Alanya,Üçlü,1,"Evet, zor lekeler var",547 TL
+Antalya,Kepez,Tekli,4,"Hayır, genel temizlik yeterli",772 TL
+İstanbul,Kadıköy,L Köşe,5,"Evet, zor lekeler var",749 TL
+İstanbul,Beşiktaş,U Köşe,4,"Hayır, genel temizlik yeterli",1164 TL
+İzmir,Buca,U Köşe,2,"Hayır, genel temizlik yeterli",2075 TL
+İzmir,Bornova,Üçlü,4,"Hayır, genel temizlik yeterli",865 TL
+Antalya,Alanya,U Köşe,2,"Evet, zor lekeler var",1362 TL
+Bursa,Yıldırım,Üçlü,5,"Evet, zor lekeler var",1631 TL
+Antalya,Kepez,Tekli,3,"Evet, zor lekeler var",2331 TL
+Antalya,Muratpaşa,Tekli,3,"Evet, zor lekeler var",551 TL
+Bursa,Osmangazi,Tekli,1,"Hayır, genel temizlik yeterli",2350 TL
+İstanbul,Beşiktaş,L Köşe,3,"Evet, zor lekeler var",766 TL
+Ankara,Etimesgut,Üçlü,1,"Hayır, genel temizlik yeterli",1450 TL
+İstanbul,Beşiktaş,U Köşe,6,"Hayır, genel temizlik yeterli",1766 TL
+Bursa,Osmangazi,U Köşe,4,"Evet, zor lekeler var",1645 TL
+İstanbul,Beşiktaş,U Köşe,2,"Evet, zor lekeler var",759 TL
+Bursa,Nilüfer,U Köşe,2,"Evet, zor lekeler var",1711 TL
+Bursa,Osmangazi,U Köşe,4,"Evet, zor lekeler var",1361 TL
+Bursa,Osmangazi,İkili,4,"Hayır, genel temizlik yeterli",1279 TL
+Antalya,Alanya,Tekli,4,"Evet, zor lekeler var",1511 TL
+Bursa,Yıldırım,U Köşe,4,"Hayır, genel temizlik yeterli",1920 TL
+Antalya,Muratpaşa,İkili,2,"Evet, zor lekeler var",732 TL
+İstanbul,Üsküdar,İkili,5,"Hayır, genel temizlik yeterli",466 TL
+Ankara,Çankaya,İkili,3,"Hayır, genel temizlik yeterli",1775 TL
+İzmir,Buca,Üçlü,2,"Hayır, genel temizlik yeterli",2106 TL
+Bursa,Yıldırım,Üçlü,1,"Hayır, genel temizlik yeterli",697 TL
+Bursa,Yıldırım,Üçlü,4,"Hayır, genel temizlik yeterli",2086 TL
+İstanbul,Kadıköy,Tekli,2,"Hayır, genel temizlik yeterli",614 TL
+Antalya,Kepez,Üçlü,4,"Hayır, genel temizlik yeterli",1809 TL
+Ankara,Etimesgut,L Köşe,3,"Evet, zor lekeler var",330 TL
+Bursa,Osmangazi,İkili,2,"Evet, zor lekeler var",2284 TL
+Ankara,Mamak,İkili,5,"Evet, zor lekeler var",1282 TL
+İstanbul,Beşiktaş,L Köşe,2,"Evet, zor lekeler var",1766 TL
+İzmir,Karşıyaka,Üçlü,3,"Evet, zor lekeler var",2265 TL
+Antalya,Muratpaşa,İkili,2,"Evet, zor lekeler var",985 TL
+İstanbul,Beşiktaş,İkili,4,"Hayır, genel temizlik yeterli",1049 TL
+Ankara,Etimesgut,İkili,6,"Hayır, genel temizlik yeterli",2235 TL
+İstanbul,Beşiktaş,Üçlü,6,"Evet, zor lekeler var",1350 TL
+İzmir,Bornova,Tekli,3,"Evet, zor lekeler var",1687 TL
+Antalya,Muratpaşa,U Köşe,1,"Evet, zor lekeler var",1141 TL
+Bursa,Osmangazi,L Köşe,6,"Evet, zor lekeler var",2448 TL
+Antalya,Alanya,İkili,5,"Evet, zor lekeler var",963 TL
+Bursa,Yıldırım,Üçlü,5,"Evet, zor lekeler var",1384 TL
+Antalya,Kepez,Tekli,4,"Hayır, genel temizlik yeterli",1317 TL
+Antalya,Muratpaşa,L Köşe,5,"Evet, zor lekeler var",2167 TL
+İstanbul,Üsküdar,Tekli,1,"Evet, zor lekeler var",2364 TL
+Antalya,Alanya,L Köşe,3,"Hayır, genel temizlik yeterli",2161 TL
+İzmir,Karşıyaka,Üçlü,2,"Evet, zor lekeler var",1158 TL
+Bursa,Nilüfer,L Köşe,1,"Hayır, genel temizlik yeterli",671 TL
+İzmir,Karşıyaka,Üçlü,5,"Evet, zor lekeler var",2472 TL
+İstanbul,Üsküdar,Tekli,5,"Evet, zor lekeler var",528 TL
+Bursa,Yıldırım,İkili,5,"Hayır, genel temizlik yeterli",1266 TL
+Bursa,Yıldırım,İkili,5,"Evet, zor lekeler var",2109 TL
+İstanbul,Kadıköy,İkili,1,"Hayır, genel temizlik yeterli",415 TL
+Ankara,Keçiören,U Köşe,2,"Evet, zor lekeler var",1319 TL
+Bursa,Osmangazi,Tekli,1,"Hayır, genel temizlik yeterli",875 TL
+Ankara,Çankaya,L Köşe,6,"Hayır, genel temizlik yeterli",2251 TL
+Ankara,Çankaya,U Köşe,5,"Evet, zor lekeler var",2350 TL
+İstanbul,Beşiktaş,L Köşe,3,"Evet, zor lekeler var",676 TL
+Bursa,Nilüfer,İkili,3,"Evet, zor lekeler var",1056 TL
+Ankara,Keçiören,Tekli,4,"Evet, zor lekeler var",491 TL
+İstanbul,Beşiktaş,U Köşe,2,"Evet, zor lekeler var",1089 TL
+Ankara,Mamak,İkili,6,"Hayır, genel temizlik yeterli",2253 TL
+İstanbul,Beşiktaş,Üçlü,4,"Hayır, genel temizlik yeterli",1759 TL
+İzmir,Karşıyaka,Tekli,3,"Evet, zor lekeler var",1333 TL
+Ankara,Çankaya,Üçlü,6,"Hayır, genel temizlik yeterli",1992 TL
+İzmir,Buca,Üçlü,1,"Hayır, genel temizlik yeterli",1084 TL
+Bursa,Yıldırım,U Köşe,5,"Evet, zor lekeler var",2122 TL
+İzmir,Konak,U Köşe,1,"Hayır, genel temizlik yeterli",585 TL
+İzmir,Buca,İkili,6,"Hayır, genel temizlik yeterli",735 TL
+Ankara,Çankaya,Tekli,2,"Hayır, genel temizlik yeterli",574 TL
+Ankara,Keçiören,Üçlü,2,"Evet, zor lekeler var",535 TL
+Antalya,Muratpaşa,U Köşe,4,"Evet, zor lekeler var",768 TL
+Bursa,Yıldırım,Üçlü,5,"Hayır, genel temizlik yeterli",759 TL
+Ankara,Çankaya,L Köşe,2,"Evet, zor lekeler var",993 TL
+İstanbul,Beşiktaş,Tekli,2,"Hayır, genel temizlik yeterli",743 TL
+Bursa,Osmangazi,Üçlü,4,"Evet, zor lekeler var",980 TL
+Antalya,Muratpaşa,L Köşe,4,"Evet, zor lekeler var",1996 TL
+Bursa,Osmangazi,U Köşe,3,"Hayır, genel temizlik yeterli",521 TL
+İzmir,Karşıyaka,İkili,1,"Hayır, genel temizlik yeterli",2369 TL
+Ankara,Mamak,L Köşe,4,"Evet, zor lekeler var",1065 TL
+İstanbul,Beşiktaş,Tekli,5,"Hayır, genel temizlik yeterli",673 TL
+Bursa,Osmangazi,Tekli,5,"Evet, zor lekeler var",1351 TL
+İstanbul,Bakırköy,Tekli,3,"Evet, zor lekeler var",869 TL
+Antalya,Alanya,Tekli,2,"Evet, zor lekeler var",308 TL
+İstanbul,Bakırköy,L Köşe,1,"Hayır, genel temizlik yeterli",2016 TL
+İstanbul,Beşiktaş,Tekli,3,"Hayır, genel temizlik yeterli",711 TL
+Ankara,Mamak,İkili,1,"Evet, zor lekeler var",582 TL
+İzmir,Karşıyaka,L Köşe,3,"Hayır, genel temizlik yeterli",1058 TL
+İzmir,Konak,L Köşe,6,"Evet, zor lekeler var",1845 TL
+Ankara,Çankaya,Üçlü,1,"Hayır, genel temizlik yeterli",401 TL
+Ankara,Çankaya,U Köşe,2,"Evet, zor lekeler var",1009 TL
+Ankara,Etimesgut,U Köşe,5,"Evet, zor lekeler var",1999 TL
+İstanbul,Kadıköy,U Köşe,6,"Evet, zor lekeler var",507 TL
+İzmir,Buca,L Köşe,2,"Evet, zor lekeler var",729 TL
+Ankara,Çankaya,Üçlü,1,"Evet, zor lekeler var",1124 TL
+Ankara,Etimesgut,İkili,6,"Hayır, genel temizlik yeterli",830 TL
+İzmir,Bornova,Üçlü,5,"Hayır, genel temizlik yeterli",1602 TL
+Ankara,Çankaya,U Köşe,1,"Hayır, genel temizlik yeterli",1453 TL
+Bursa,Osmangazi,L Köşe,4,"Evet, zor lekeler var",1228 TL
+İzmir,Karşıyaka,Tekli,6,"Hayır, genel temizlik yeterli",1131 TL
+İstanbul,Bakırköy,L Köşe,5,"Hayır, genel temizlik yeterli",1182 TL
+İstanbul,Beşiktaş,L Köşe,4,"Evet, zor lekeler var",568 TL
+Antalya,Alanya,L Köşe,1,"Evet, zor lekeler var",1400 TL
+İzmir,Bornova,Tekli,5,"Evet, zor lekeler var",2385 TL
+Ankara,Keçiören,Üçlü,1,"Evet, zor lekeler var",859 TL
+Bursa,Nilüfer,L Köşe,4,"Hayır, genel temizlik yeterli",2018 TL
+Ankara,Keçiören,L Köşe,3,"Evet, zor lekeler var",2216 TL
+İzmir,Bornova,U Köşe,5,"Hayır, genel temizlik yeterli",902 TL
+İstanbul,Kadıköy,İkili,5,"Evet, zor lekeler var",2444 TL
+İzmir,Bornova,L Köşe,6,"Hayır, genel temizlik yeterli",1721 TL
+Ankara,Keçiören,Tekli,6,"Evet, zor lekeler var",1218 TL
+İstanbul,Üsküdar,L Köşe,4,"Evet, zor lekeler var",1652 TL
+İzmir,Buca,Üçlü,1,"Hayır, genel temizlik yeterli",797 TL
+Ankara,Keçiören,İkili,1,"Hayır, genel temizlik yeterli",810 TL
+Bursa,Yıldırım,L Köşe,5,"Evet, zor lekeler var",642 TL
+Bursa,Osmangazi,İkili,3,"Hayır, genel temizlik yeterli",974 TL
+İzmir,Buca,L Köşe,5,"Hayır, genel temizlik yeterli",963 TL
+Ankara,Mamak,U Köşe,1,"Hayır, genel temizlik yeterli",1516 TL
+Bursa,Osmangazi,Tekli,5,"Hayır, genel temizlik yeterli",512 TL
+Ankara,Keçiören,Üçlü,6,"Hayır, genel temizlik yeterli",1939 TL
+Ankara,Keçiören,İkili,5,"Hayır, genel temizlik yeterli",1293 TL
+Bursa,Yıldırım,U Köşe,6,"Hayır, genel temizlik yeterli",2418 TL
+Ankara,Keçiören,Tekli,3,"Evet, zor lekeler var",2204 TL
+İstanbul,Kadıköy,Üçlü,5,"Hayır, genel temizlik yeterli",2475 TL
+İzmir,Konak,L Köşe,3,"Evet, zor lekeler var",2449 TL
+Bursa,Osmangazi,U Köşe,5,"Evet, zor lekeler var",961 TL
+İzmir,Buca,İkili,6,"Hayır, genel temizlik yeterli",319 TL
+Antalya,Kepez,Üçlü,5,"Evet, zor lekeler var",1894 TL
+Bursa,Osmangazi,Tekli,1,"Evet, zor lekeler var",768 TL
+Bursa,Yıldırım,L Köşe,2,"Hayır, genel temizlik yeterli",1214 TL
+Bursa,Nilüfer,Tekli,1,"Hayır, genel temizlik yeterli",2150 TL
+İzmir,Karşıyaka,U Köşe,1,"Evet, zor lekeler var",2276 TL
+İstanbul,Bakırköy,Üçlü,6,"Evet, zor lekeler var",1980 TL
+İzmir,Bornova,Üçlü,2,"Evet, zor lekeler var",1713 TL
+Antalya,Muratpaşa,Tekli,3,"Evet, zor lekeler var",474 TL
+Antalya,Alanya,L Köşe,1,"Hayır, genel temizlik yeterli",633 TL
+Antalya,Muratpaşa,L Köşe,6,"Evet, zor lekeler var",1170 TL
+Ankara,Etimesgut,Tekli,5,"Evet, zor lekeler var",1991 TL
+Bursa,Yıldırım,Üçlü,4,"Hayır, genel temizlik yeterli",1350 TL
+İstanbul,Bakırköy,U Köşe,5,"Evet, zor lekeler var",2004 TL
+Bursa,Nilüfer,Üçlü,2,"Evet, zor lekeler var",1601 TL
+İzmir,Buca,U Köşe,2,"Hayır, genel temizlik yeterli",1741 TL
+Ankara,Çankaya,U Köşe,5,"Evet, zor lekeler var",1020 TL
+Bursa,Osmangazi,Üçlü,3,"Evet, zor lekeler var",1670 TL
+Antalya,Kepez,U Köşe,6,"Evet, zor lekeler var",1823 TL
+Bursa,Yıldırım,U Köşe,3,"Hayır, genel temizlik yeterli",2151 TL
+İstanbul,Üsküdar,İkili,1,"Hayır, genel temizlik yeterli",2156 TL
+Ankara,Mamak,L Köşe,6,"Evet, zor lekeler var",531 TL
+Bursa,Nilüfer,L Köşe,2,"Hayır, genel temizlik yeterli",2076 TL
+İzmir,Konak,L Köşe,2,"Hayır, genel temizlik yeterli",1397 TL
+İzmir,Bornova,L Köşe,4,"Evet, zor lekeler var",2469 TL
+Antalya,Muratpaşa,İkili,2,"Evet, zor lekeler var",1723 TL
+İstanbul,Üsküdar,Üçlü,1,"Evet, zor lekeler var",2460 TL
+Ankara,Keçiören,U Köşe,1,"Evet, zor lekeler var",2413 TL
+İstanbul,Kadıköy,L Köşe,3,"Hayır, genel temizlik yeterli",1235 TL
+Ankara,Keçiören,L Köşe,3,"Hayır, genel temizlik yeterli",1106 TL
+İstanbul,Kadıköy,U Köşe,2,"Evet, zor lekeler var",1269 TL
+Antalya,Alanya,Üçlü,2,"Evet, zor lekeler var",557 TL
+İstanbul,Kadıköy,İkili,3,"Hayır, genel temizlik yeterli",442 TL
+İzmir,Bornova,L Köşe,5,"Hayır, genel temizlik yeterli",722 TL
+Ankara,Mamak,U Köşe,6,"Evet, zor lekeler var",2042 TL
+Ankara,Etimesgut,L Köşe,5,"Evet, zor lekeler var",1225 TL
+Antalya,Kepez,U Köşe,5,"Hayır, genel temizlik yeterli",1216 TL
+Bursa,Yıldırım,L Köşe,2,"Evet, zor lekeler var",1344 TL
+Antalya,Kepez,İkili,3,"Hayır, genel temizlik yeterli",1537 TL
+İzmir,Karşıyaka,Üçlü,1,"Evet, zor lekeler var",1131 TL
+İstanbul,Beşiktaş,L Köşe,1,"Evet, zor lekeler var",2009 TL
+Antalya,Alanya,Tekli,6,"Hayır, genel temizlik yeterli",2052 TL
+İstanbul,Beşiktaş,U Köşe,5,"Hayır, genel temizlik yeterli",1252 TL
+Bursa,Osmangazi,Tekli,3,"Hayır, genel temizlik yeterli",1035 TL
+İstanbul,Üsküdar,İkili,5,"Evet, zor lekeler var",1355 TL
+Antalya,Alanya,Üçlü,6,"Hayır, genel temizlik yeterli",512 TL
+İzmir,Karşıyaka,L Köşe,2,"Evet, zor lekeler var",2109 TL
+Antalya,Kepez,İkili,5,"Hayır, genel temizlik yeterli",2378 TL
+İzmir,Buca,Üçlü,6,"Evet, zor lekeler var",880 TL
+Antalya,Alanya,Tekli,5,"Hayır, genel temizlik yeterli",428 TL
+İstanbul,Bakırköy,U Köşe,5,"Evet, zor lekeler var",901 TL
+Bursa,Yıldırım,Tekli,5,"Evet, zor lekeler var",1199 TL
+Bursa,Yıldırım,İkili,5,"Hayır, genel temizlik yeterli",1131 TL
+Ankara,Etimesgut,L Köşe,3,"Evet, zor lekeler var",1505 TL
+İstanbul,Bakırköy,İkili,6,"Hayır, genel temizlik yeterli",1496 TL
+İzmir,Konak,Tekli,5,"Evet, zor lekeler var",375 TL
+İzmir,Bornova,L Köşe,2,"Evet, zor lekeler var",2443 TL
+İzmir,Karşıyaka,L Köşe,4,"Evet, zor lekeler var",2289 TL
+İzmir,Buca,Tekli,6,"Hayır, genel temizlik yeterli",2347 TL
+İzmir,Konak,Tekli,1,"Hayır, genel temizlik yeterli",2372 TL
+Antalya,Kepez,Üçlü,3,"Evet, zor lekeler var",1671 TL
+Bursa,Nilüfer,U Köşe,5,"Evet, zor lekeler var",1625 TL
+Bursa,Nilüfer,L Köşe,1,"Evet, zor lekeler var",1318 TL
+İstanbul,Beşiktaş,Tekli,6,"Evet, zor lekeler var",1750 TL
+Ankara,Çankaya,Tekli,6,"Hayır, genel temizlik yeterli",2118 TL
+Antalya,Alanya,Üçlü,1,"Evet, zor lekeler var",2061 TL
+Bursa,Osmangazi,Üçlü,6,"Evet, zor lekeler var",944 TL
+Antalya,Kepez,İkili,6,"Hayır, genel temizlik yeterli",2386 TL
+Ankara,Etimesgut,L Köşe,3,"Evet, zor lekeler var",950 TL
+İzmir,Bornova,Tekli,2,"Evet, zor lekeler var",2444 TL
+İstanbul,Bakırköy,U Köşe,1,"Evet, zor lekeler var",357 TL
+İstanbul,Kadıköy,L Köşe,5,"Evet, zor lekeler var",962 TL
+Antalya,Muratpaşa,U Köşe,4,"Evet, zor lekeler var",1882 TL
+Antalya,Alanya,L Köşe,2,"Evet, zor lekeler var",1399 TL
+İstanbul,Kadıköy,Tekli,3,"Evet, zor lekeler var",2031 TL
+İzmir,Karşıyaka,Tekli,5,"Hayır, genel temizlik yeterli",1232 TL
+Ankara,Mamak,L Köşe,6,"Evet, zor lekeler var",2480 TL
+İstanbul,Kadıköy,Üçlü,6,"Hayır, genel temizlik yeterli",1428 TL
+Bursa,Nilüfer,L Köşe,1,"Evet, zor lekeler var",351 TL
+İstanbul,Üsküdar,Üçlü,3,"Evet, zor lekeler var",1399 TL
+Antalya,Alanya,Üçlü,6,"Hayır, genel temizlik yeterli",984 TL
+İzmir,Buca,Tekli,3,"Evet, zor lekeler var",441 TL
+Ankara,Çankaya,İkili,4,"Evet, zor lekeler var",1613 TL
+İzmir,Bornova,İkili,4,"Evet, zor lekeler var",768 TL
+İzmir,Konak,Üçlü,1,"Evet, zor lekeler var",1093 TL
+İzmir,Karşıyaka,U Köşe,1,"Hayır, genel temizlik yeterli",956 TL
+Bursa,Osmangazi,İkili,1,"Hayır, genel temizlik yeterli",2172 TL
+Ankara,Etimesgut,U Köşe,2,"Hayır, genel temizlik yeterli",598 TL
+Bursa,Osmangazi,İkili,3,"Hayır, genel temizlik yeterli",487 TL
+İstanbul,Beşiktaş,L Köşe,5,"Evet, zor lekeler var",1920 TL
+İzmir,Konak,Tekli,1,"Hayır, genel temizlik yeterli",1923 TL
+Antalya,Kepez,Üçlü,6,"Evet, zor lekeler var",641 TL
+Ankara,Etimesgut,L Köşe,1,"Evet, zor lekeler var",490 TL
+İstanbul,Üsküdar,İkili,3,"Evet, zor lekeler var",1288 TL
+Ankara,Etimesgut,Üçlü,4,"Evet, zor lekeler var",1673 TL
+Ankara,Etimesgut,Üçlü,3,"Hayır, genel temizlik yeterli",565 TL
+Bursa,Osmangazi,İkili,2,"Hayır, genel temizlik yeterli",1666 TL
+Ankara,Etimesgut,U Köşe,4,"Hayır, genel temizlik yeterli",1433 TL
+Antalya,Kepez,Üçlü,1,"Hayır, genel temizlik yeterli",1628 TL
+Bursa,Yıldırım,U Köşe,2,"Hayır, genel temizlik yeterli",1207 TL
+Antalya,Alanya,U Köşe,3,"Hayır, genel temizlik yeterli",1531 TL
+Antalya,Muratpaşa,İkili,4,"Evet, zor lekeler var",1555 TL
+Bursa,Yıldırım,L Köşe,1,"Hayır, genel temizlik yeterli",1143 TL
+Ankara,Etimesgut,Tekli,5,"Hayır, genel temizlik yeterli",361 TL
+Ankara,Etimesgut,U Köşe,4,"Evet, zor lekeler var",2115 TL
+İzmir,Karşıyaka,L Köşe,1,"Hayır, genel temizlik yeterli",1535 TL
+İzmir,Bornova,L Köşe,3,"Hayır, genel temizlik yeterli",1957 TL
+Antalya,Alanya,Üçlü,6,"Evet, zor lekeler var",1454 TL
+Antalya,Kepez,İkili,4,"Hayır, genel temizlik yeterli",1342 TL
+İzmir,Buca,U Köşe,3,"Evet, zor lekeler var",1046 TL
+İzmir,Bornova,İkili,3,"Hayır, genel temizlik yeterli",1785 TL
+İzmir,Buca,İkili,2,"Evet, zor lekeler var",1501 TL
+Ankara,Etimesgut,İkili,5,"Hayır, genel temizlik yeterli",373 TL
+Ankara,Mamak,Üçlü,4,"Evet, zor lekeler var",2000 TL
+Bursa,Yıldırım,U Köşe,5,"Evet, zor lekeler var",1994 TL
+Antalya,Muratpaşa,Üçlü,1,"Hayır, genel temizlik yeterli",2034 TL
+Antalya,Kepez,L Köşe,3,"Hayır, genel temizlik yeterli",604 TL
+Antalya,Muratpaşa,Tekli,3,"Evet, zor lekeler var",1926 TL
+Bursa,Osmangazi,Üçlü,2,"Evet, zor lekeler var",2291 TL
+İstanbul,Beşiktaş,Tekli,1,"Evet, zor lekeler var",1095 TL
+Bursa,Nilüfer,İkili,6,"Hayır, genel temizlik yeterli",1384 TL
+Antalya,Muratpaşa,Üçlü,1,"Evet, zor lekeler var",1201 TL
+İstanbul,Kadıköy,İkili,4,"Hayır, genel temizlik yeterli",496 TL
+Antalya,Kepez,U Köşe,1,"Evet, zor lekeler var",1722 TL
+Bursa,Yıldırım,İkili,1,"Hayır, genel temizlik yeterli",2186 TL
+Ankara,Çankaya,Üçlü,2,"Evet, zor lekeler var",1619 TL
+Antalya,Kepez,U Köşe,5,"Evet, zor lekeler var",1366 TL
+Antalya,Kepez,U Köşe,2,"Evet, zor lekeler var",2175 TL
+İzmir,Karşıyaka,Tekli,3,"Evet, zor lekeler var",2264 TL
+İzmir,Konak,Üçlü,3,"Hayır, genel temizlik yeterli",2462 TL
+İzmir,Karşıyaka,İkili,1,"Evet, zor lekeler var",1714 TL
+İzmir,Bornova,İkili,3,"Hayır, genel temizlik yeterli",2130 TL
+İstanbul,Beşiktaş,Üçlü,1,"Hayır, genel temizlik yeterli",1111 TL
+Ankara,Keçiören,Tekli,4,"Hayır, genel temizlik yeterli",353 TL
+Ankara,Etimesgut,U Köşe,1,"Hayır, genel temizlik yeterli",1368 TL
+İzmir,Buca,İkili,5,"Evet, zor lekeler var",913 TL
+Ankara,Keçiören,İkili,4,"Evet, zor lekeler var",366 TL
+Antalya,Alanya,U Köşe,2,"Hayır, genel temizlik yeterli",847 TL
+Antalya,Kepez,Üçlü,5,"Hayır, genel temizlik yeterli",405 TL
+Ankara,Keçiören,Üçlü,2,"Hayır, genel temizlik yeterli",2156 TL
+Antalya,Muratpaşa,L Köşe,2,"Hayır, genel temizlik yeterli",1848 TL
+Antalya,Kepez,Üçlü,1,"Evet, zor lekeler var",404 TL
+Bursa,Nilüfer,U Köşe,2,"Evet, zor lekeler var",834 TL
+Ankara,Çankaya,Tekli,6,"Evet, zor lekeler var",1045 TL
+Ankara,Mamak,Tekli,1,"Hayır, genel temizlik yeterli",798 TL
+Bursa,Nilüfer,Tekli,3,"Hayır, genel temizlik yeterli",1394 TL
+Antalya,Kepez,İkili,4,"Evet, zor lekeler var",1643 TL
+İzmir,Bornova,U Köşe,6,"Hayır, genel temizlik yeterli",1691 TL
+Antalya,Alanya,U Köşe,6,"Evet, zor lekeler var",1984 TL
+İstanbul,Üsküdar,İkili,4,"Hayır, genel temizlik yeterli",2092 TL
+Antalya,Alanya,Üçlü,1,"Evet, zor lekeler var",1393 TL
+Ankara,Keçiören,İkili,5,"Hayır, genel temizlik yeterli",1099 TL
+Antalya,Alanya,İkili,6,"Evet, zor lekeler var",1616 TL
+İstanbul,Üsküdar,U Köşe,5,"Evet, zor lekeler var",995 TL
+Bursa,Osmangazi,U Köşe,2,"Evet, zor lekeler var",493 TL
+Ankara,Çankaya,U Köşe,3,"Hayır, genel temizlik yeterli",2054 TL
+Antalya,Muratpaşa,Üçlü,5,"Evet, zor lekeler var",1988 TL
+Bursa,Nilüfer,Üçlü,1,"Evet, zor lekeler var",1859 TL
+İstanbul,Beşiktaş,Üçlü,1,"Evet, zor lekeler var",1439 TL
+Bursa,Osmangazi,İkili,1,"Evet, zor lekeler var",634 TL
+İzmir,Konak,Üçlü,5,"Hayır, genel temizlik yeterli",666 TL
+İzmir,Konak,Tekli,2,"Hayır, genel temizlik yeterli",1337 TL
+Bursa,Nilüfer,U Köşe,1,"Evet, zor lekeler var",525 TL
+İzmir,Karşıyaka,U Köşe,5,"Evet, zor lekeler var",1030 TL
+İstanbul,Bakırköy,Tekli,6,"Evet, zor lekeler var",2463 TL
+Antalya,Muratpaşa,L Köşe,3,"Hayır, genel temizlik yeterli",1856 TL
+Antalya,Alanya,Tekli,3,"Hayır, genel temizlik yeterli",370 TL
+İstanbul,Kadıköy,İkili,2,"Evet, zor lekeler var",2194 TL
+İzmir,Konak,Tekli,1,"Hayır, genel temizlik yeterli",1224 TL
+Ankara,Çankaya,U Köşe,2,"Hayır, genel temizlik yeterli",2437 TL
+Ankara,Mamak,Üçlü,1,"Evet, zor lekeler var",863 TL
+Ankara,Mamak,Üçlü,2,"Evet, zor lekeler var",1787 TL
+Antalya,Muratpaşa,Üçlü,2,"Hayır, genel temizlik yeterli",1603 TL
+Antalya,Kepez,İkili,6,"Evet, zor lekeler var",2477 TL
+İzmir,Bornova,İkili,3,"Hayır, genel temizlik yeterli",716 TL
+İstanbul,Bakırköy,L Köşe,1,"Hayır, genel temizlik yeterli",1330 TL
+İstanbul,Beşiktaş,Tekli,1,"Evet, zor lekeler var",2414 TL
+Bursa,Nilüfer,Üçlü,6,"Evet, zor lekeler var",517 TL
+Ankara,Keçiören,L Köşe,3,"Hayır, genel temizlik yeterli",1150 TL
+Antalya,Alanya,U Köşe,1,"Hayır, genel temizlik yeterli",1155 TL
+Antalya,Alanya,İkili,4,"Hayır, genel temizlik yeterli",1210 TL
+İzmir,Bornova,Tekli,1,"Evet, zor lekeler var",321 TL
+İzmir,Bornova,Tekli,2,"Hayır, genel temizlik yeterli",840 TL
+İzmir,Bornova,Tekli,3,"Hayır, genel temizlik yeterli",1977 TL
+Antalya,Muratpaşa,Tekli,3,"Evet, zor lekeler var",1448 TL
+Antalya,Muratpaşa,Tekli,2,"Evet, zor lekeler var",847 TL
+İzmir,Bornova,L Köşe,2,"Hayır, genel temizlik yeterli",1562 TL
+Bursa,Nilüfer,Üçlü,2,"Hayır, genel temizlik yeterli",490 TL
+İzmir,Bornova,İkili,2,"Evet, zor lekeler var",1865 TL
+Antalya,Kepez,İkili,1,"Evet, zor lekeler var",1981 TL
+Antalya,Muratpaşa,Üçlü,2,"Hayır, genel temizlik yeterli",2125 TL
+Ankara,Çankaya,İkili,5,"Hayır, genel temizlik yeterli",2349 TL
+Ankara,Etimesgut,Tekli,2,"Hayır, genel temizlik yeterli",510 TL
+İzmir,Bornova,İkili,1,"Evet, zor lekeler var",1519 TL
+Antalya,Alanya,Üçlü,5,"Hayır, genel temizlik yeterli",1475 TL
+Ankara,Etimesgut,Üçlü,1,"Hayır, genel temizlik yeterli",1202 TL
+İstanbul,Bakırköy,L Köşe,6,"Hayır, genel temizlik yeterli",1845 TL
+Ankara,Etimesgut,L Köşe,1,"Hayır, genel temizlik yeterli",2259 TL
+Ankara,Mamak,Tekli,1,"Hayır, genel temizlik yeterli",1964 TL
+Bursa,Nilüfer,L Köşe,6,"Hayır, genel temizlik yeterli",1108 TL
+Bursa,Nilüfer,L Köşe,5,"Hayır, genel temizlik yeterli",1900 TL
+Ankara,Keçiören,İkili,6,"Evet, zor lekeler var",542 TL
+İzmir,Bornova,L Köşe,2,"Evet, zor lekeler var",2149 TL
+Antalya,Alanya,U Köşe,4,"Hayır, genel temizlik yeterli",2311 TL
+İstanbul,Kadıköy,Tekli,6,"Evet, zor lekeler var",682 TL
+Ankara,Etimesgut,Tekli,1,"Hayır, genel temizlik yeterli",2280 TL
+İzmir,Buca,U Köşe,1,"Evet, zor lekeler var",2045 TL
+Antalya,Kepez,L Köşe,3,"Evet, zor lekeler var",1753 TL
+Ankara,Mamak,Tekli,4,"Hayır, genel temizlik yeterli",1687 TL
+İstanbul,Beşiktaş,İkili,5,"Hayır, genel temizlik yeterli",2060 TL
+İzmir,Konak,İkili,2,"Hayır, genel temizlik yeterli",909 TL
+İstanbul,Üsküdar,Tekli,6,"Hayır, genel temizlik yeterli",2389 TL
+Antalya,Kepez,Üçlü,1,"Hayır, genel temizlik yeterli",2406 TL
+Bursa,Osmangazi,Tekli,3,"Hayır, genel temizlik yeterli",746 TL
+Antalya,Alanya,Tekli,3,"Hayır, genel temizlik yeterli",1835 TL
+İzmir,Karşıyaka,İkili,4,"Evet, zor lekeler var",783 TL
+İzmir,Bornova,İkili,1,"Hayır, genel temizlik yeterli",968 TL
+İzmir,Buca,Üçlü,4,"Evet, zor lekeler var",2040 TL
+Bursa,Osmangazi,L Köşe,4,"Hayır, genel temizlik yeterli",1416 TL
+İzmir,Bornova,Üçlü,5,"Evet, zor lekeler var",1439 TL
+Bursa,Osmangazi,Tekli,6,"Hayır, genel temizlik yeterli",1054 TL
+Bursa,Osmangazi,Üçlü,4,"Hayır, genel temizlik yeterli",952 TL
+Antalya,Kepez,L Köşe,4,"Evet, zor lekeler var",1332 TL
+Ankara,Keçiören,L Köşe,1,"Hayır, genel temizlik yeterli",1298 TL
+Antalya,Kepez,U Köşe,4,"Hayır, genel temizlik yeterli",2335 TL
+İstanbul,Üsküdar,İkili,3,"Hayır, genel temizlik yeterli",1452 TL
+Bursa,Osmangazi,Üçlü,1,"Hayır, genel temizlik yeterli",2113 TL
+Ankara,Çankaya,L Köşe,1,"Hayır, genel temizlik yeterli",604 TL
+İstanbul,Beşiktaş,Tekli,4,"Hayır, genel temizlik yeterli",2239 TL
+İstanbul,Beşiktaş,U Köşe,1,"Evet, zor lekeler var",395 TL
+Antalya,Kepez,Üçlü,4,"Hayır, genel temizlik yeterli",1278 TL
+Ankara,Çankaya,Üçlü,6,"Hayır, genel temizlik yeterli",1328 TL
+İzmir,Konak,İkili,4,"Hayır, genel temizlik yeterli",624 TL
+Bursa,Osmangazi,Üçlü,3,"Evet, zor lekeler var",430 TL
+Bursa,Yıldırım,İkili,5,"Hayır, genel temizlik yeterli",1057 TL
+Ankara,Mamak,İkili,3,"Evet, zor lekeler var",1726 TL
+Ankara,Çankaya,U Köşe,4,"Evet, zor lekeler var",997 TL
+Ankara,Çankaya,İkili,6,"Hayır, genel temizlik yeterli",2365 TL
+Ankara,Etimesgut,İkili,3,"Evet, zor lekeler var",2195 TL
+Ankara,Etimesgut,Tekli,3,"Evet, zor lekeler var",882 TL
+İstanbul,Üsküdar,Üçlü,1,"Evet, zor lekeler var",1611 TL
+İzmir,Bornova,Tekli,3,"Evet, zor lekeler var",2187 TL
+İstanbul,Üsküdar,L Köşe,5,"Evet, zor lekeler var",674 TL
+İzmir,Konak,İkili,6,"Hayır, genel temizlik yeterli",1865 TL
+İstanbul,Üsküdar,Tekli,4,"Hayır, genel temizlik yeterli",1190 TL
+İstanbul,Bakırköy,İkili,1,"Hayır, genel temizlik yeterli",568 TL
+İzmir,Buca,Tekli,2,"Hayır, genel temizlik yeterli",1716 TL
+İstanbul,Üsküdar,U Köşe,3,"Hayır, genel temizlik yeterli",1173 TL
+Bursa,Yıldırım,Tekli,2,"Evet, zor lekeler var",793 TL
+İzmir,Bornova,Üçlü,4,"Evet, zor lekeler var",1378 TL
+Ankara,Keçiören,Üçlü,5,"Hayır, genel temizlik yeterli",1322 TL
+Ankara,Keçiören,İkili,3,"Hayır, genel temizlik yeterli",968 TL
+İstanbul,Kadıköy,L Köşe,2,"Evet, zor lekeler var",2369 TL
+İzmir,Konak,İkili,2,"Hayır, genel temizlik yeterli",1876 TL
+Bursa,Yıldırım,Tekli,3,"Evet, zor lekeler var",1757 TL
+Bursa,Yıldırım,L Köşe,5,"Evet, zor lekeler var",862 TL
+Ankara,Etimesgut,İkili,6,"Hayır, genel temizlik yeterli",1004 TL
+Bursa,Nilüfer,U Köşe,5,"Evet, zor lekeler var",2227 TL
+İzmir,Buca,İkili,4,"Hayır, genel temizlik yeterli",1624 TL
+İzmir,Buca,Üçlü,3,"Evet, zor lekeler var",1701 TL
+Bursa,Nilüfer,Tekli,2,"Evet, zor lekeler var",1432 TL
+İzmir,Karşıyaka,Üçlü,5,"Evet, zor lekeler var",1397 TL
+Bursa,Yıldırım,İkili,5,"Evet, zor lekeler var",968 TL
+Ankara,Keçiören,U Köşe,1,"Evet, zor lekeler var",1960 TL
+Antalya,Alanya,L Köşe,3,"Hayır, genel temizlik yeterli",1202 TL
+Antalya,Muratpaşa,U Köşe,3,"Hayır, genel temizlik yeterli",317 TL
+Bursa,Osmangazi,L Köşe,4,"Evet, zor lekeler var",425 TL
+İstanbul,Üsküdar,L Köşe,6,"Hayır, genel temizlik yeterli",2070 TL
+Antalya,Kepez,L Köşe,3,"Hayır, genel temizlik yeterli",835 TL
+İstanbul,Beşiktaş,Üçlü,5,"Hayır, genel temizlik yeterli",1113 TL
+Antalya,Muratpaşa,U Köşe,6,"Evet, zor lekeler var",447 TL
+Ankara,Etimesgut,İkili,1,"Evet, zor lekeler var",1934 TL
+İzmir,Karşıyaka,İkili,1,"Hayır, genel temizlik yeterli",1449 TL
+İzmir,Bornova,Tekli,3,"Evet, zor lekeler var",2378 TL
+Antalya,Alanya,Tekli,4,"Evet, zor lekeler var",1041 TL
+İzmir,Karşıyaka,L Köşe,3,"Evet, zor lekeler var",1752 TL
+İstanbul,Beşiktaş,Üçlü,5,"Hayır, genel temizlik yeterli",459 TL
+İzmir,Bornova,Tekli,1,"Hayır, genel temizlik yeterli",1306 TL
+Antalya,Kepez,İkili,6,"Hayır, genel temizlik yeterli",697 TL
+Antalya,Muratpaşa,İkili,4,"Hayır, genel temizlik yeterli",637 TL
+Bursa,Nilüfer,U Köşe,5,"Hayır, genel temizlik yeterli",2152 TL
+İstanbul,Bakırköy,L Köşe,5,"Evet, zor lekeler var",746 TL
+İzmir,Konak,İkili,2,"Evet, zor lekeler var",1099 TL
+Bursa,Nilüfer,Tekli,2,"Hayır, genel temizlik yeterli",1027 TL
+Antalya,Muratpaşa,Tekli,3,"Evet, zor lekeler var",1947 TL
+İzmir,Karşıyaka,İkili,2,"Hayır, genel temizlik yeterli",2329 TL
+İzmir,Konak,İkili,4,"Evet, zor lekeler var",1096 TL
+İstanbul,Üsküdar,U Köşe,4,"Hayır, genel temizlik yeterli",1341 TL
+Ankara,Keçiören,L Köşe,6,"Hayır, genel temizlik yeterli",910 TL
+İstanbul,Kadıköy,İkili,6,"Evet, zor lekeler var",939 TL
+İstanbul,Üsküdar,İkili,3,"Evet, zor lekeler var",951 TL
+İstanbul,Beşiktaş,Üçlü,1,"Hayır, genel temizlik yeterli",1399 TL
+İzmir,Buca,Tekli,6,"Evet, zor lekeler var",1732 TL
+Bursa,Osmangazi,L Köşe,3,"Hayır, genel temizlik yeterli",1893 TL
+Bursa,Osmangazi,U Köşe,4,"Hayır, genel temizlik yeterli",1804 TL
+Antalya,Muratpaşa,İkili,6,"Hayır, genel temizlik yeterli",817 TL
+İzmir,Buca,Tekli,6,"Hayır, genel temizlik yeterli",1379 TL
+Antalya,Kepez,Tekli,6,"Hayır, genel temizlik yeterli",1718 TL
+İstanbul,Kadıköy,U Köşe,3,"Evet, zor lekeler var",1316 TL
+Antalya,Alanya,U Köşe,6,"Evet, zor lekeler var",1033 TL
+Antalya,Muratpaşa,İkili,6,"Hayır, genel temizlik yeterli",2322 TL
+Antalya,Alanya,İkili,4,"Evet, zor lekeler var",1203 TL
+İzmir,Karşıyaka,Üçlü,3,"Evet, zor lekeler var",1130 TL
+Bursa,Nilüfer,İkili,1,"Evet, zor lekeler var",1408 TL
+Bursa,Osmangazi,Tekli,6,"Hayır, genel temizlik yeterli",1950 TL
+Antalya,Kepez,Tekli,4,"Hayır, genel temizlik yeterli",2197 TL
+İzmir,Konak,L Köşe,1,"Hayır, genel temizlik yeterli",1318 TL
+Antalya,Muratpaşa,L Köşe,6,"Evet, zor lekeler var",1738 TL
+Bursa,Yıldırım,Üçlü,3,"Hayır, genel temizlik yeterli",2462 TL
+İzmir,Karşıyaka,L Köşe,5,"Evet, zor lekeler var",2227 TL
+Bursa,Osmangazi,Tekli,6,"Hayır, genel temizlik yeterli",695 TL
+Bursa,Yıldırım,İkili,4,"Evet, zor lekeler var",577 TL
+İzmir,Buca,İkili,5,"Hayır, genel temizlik yeterli",1371 TL
+Ankara,Keçiören,L Köşe,1,"Evet, zor lekeler var",1440 TL
+Bursa,Osmangazi,Tekli,2,"Evet, zor lekeler var",1752 TL
+İstanbul,Üsküdar,Üçlü,3,"Hayır, genel temizlik yeterli",950 TL
+İstanbul,Bakırköy,L Köşe,5,"Evet, zor lekeler var",1269 TL
+İzmir,Buca,Üçlü,2,"Evet, zor lekeler var",961 TL
+İzmir,Karşıyaka,Tekli,1,"Evet, zor lekeler var",2296 TL
+Ankara,Etimesgut,İkili,2,"Hayır, genel temizlik yeterli",560 TL
+İstanbul,Üsküdar,İkili,5,"Evet, zor lekeler var",776 TL
+Bursa,Nilüfer,Üçlü,3,"Hayır, genel temizlik yeterli",822 TL
+Antalya,Muratpaşa,Tekli,1,"Hayır, genel temizlik yeterli",2151 TL
+Antalya,Alanya,İkili,4,"Evet, zor lekeler var",489 TL
+Ankara,Mamak,U Köşe,3,"Hayır, genel temizlik yeterli",1710 TL
+Bursa,Yıldırım,U Köşe,3,"Evet, zor lekeler var",477 TL
+Bursa,Yıldırım,Üçlü,3,"Evet, zor lekeler var",1004 TL
+Bursa,Nilüfer,İkili,5,"Evet, zor lekeler var",1903 TL
+İzmir,Bornova,U Köşe,5,"Hayır, genel temizlik yeterli",2327 TL
+Bursa,Osmangazi,Üçlü,4,"Hayır, genel temizlik yeterli",1228 TL
+Ankara,Mamak,Üçlü,2,"Hayır, genel temizlik yeterli",2253 TL
+Antalya,Alanya,Tekli,4,"Evet, zor lekeler var",1699 TL
+Bursa,Osmangazi,Üçlü,1,"Hayır, genel temizlik yeterli",2326 TL
+Bursa,Yıldırım,Üçlü,1,"Hayır, genel temizlik yeterli",773 TL
+Ankara,Çankaya,Üçlü,2,"Evet, zor lekeler var",685 TL
+Antalya,Alanya,Tekli,3,"Hayır, genel temizlik yeterli",806 TL
+İzmir,Konak,Tekli,4,"Evet, zor lekeler var",1128 TL
+İstanbul,Üsküdar,U Köşe,2,"Hayır, genel temizlik yeterli",764 TL
+Ankara,Etimesgut,Üçlü,3,"Evet, zor lekeler var",1078 TL
+İstanbul,Üsküdar,U Köşe,5,"Hayır, genel temizlik yeterli",2426 TL
+Bursa,Yıldırım,Tekli,6,"Evet, zor lekeler var",2284 TL
+İstanbul,Kadıköy,İkili,3,"Evet, zor lekeler var",2230 TL
+İstanbul,Beşiktaş,L Köşe,1,"Evet, zor lekeler var",1056 TL
+Ankara,Çankaya,İkili,2,"Hayır, genel temizlik yeterli",302 TL
+İstanbul,Kadıköy,U Köşe,1,"Hayır, genel temizlik yeterli",2055 TL
+Bursa,Yıldırım,Üçlü,6,"Evet, zor lekeler var",676 TL
+Bursa,Yıldırım,Üçlü,5,"Evet, zor lekeler var",1417 TL
+Ankara,Çankaya,Üçlü,5,"Hayır, genel temizlik yeterli",1186 TL
+Ankara,Mamak,Tekli,3,"Hayır, genel temizlik yeterli",1679 TL
+İstanbul,Beşiktaş,Üçlü,6,"Hayır, genel temizlik yeterli",1781 TL
+İzmir,Buca,U Köşe,2,"Evet, zor lekeler var",1397 TL
+Antalya,Alanya,L Köşe,2,"Hayır, genel temizlik yeterli",1752 TL
+Bursa,Nilüfer,L Köşe,5,"Hayır, genel temizlik yeterli",1590 TL
+Antalya,Alanya,Üçlü,6,"Hayır, genel temizlik yeterli",428 TL
+Ankara,Keçiören,Üçlü,1,"Hayır, genel temizlik yeterli",1462 TL
+Bursa,Yıldırım,L Köşe,5,"Hayır, genel temizlik yeterli",1208 TL
+Bursa,Nilüfer,L Köşe,6,"Hayır, genel temizlik yeterli",2412 TL
+Ankara,Çankaya,Tekli,1,"Hayır, genel temizlik yeterli",1207 TL
+Ankara,Çankaya,Üçlü,6,"Evet, zor lekeler var",769 TL
+İstanbul,Beşiktaş,Üçlü,5,"Hayır, genel temizlik yeterli",2497 TL
+Antalya,Muratpaşa,L Köşe,3,"Evet, zor lekeler var",893 TL
+Bursa,Yıldırım,L Köşe,6,"Hayır, genel temizlik yeterli",1578 TL
+Bursa,Osmangazi,Üçlü,2,"Hayır, genel temizlik yeterli",2489 TL
+Ankara,Mamak,İkili,1,"Evet, zor lekeler var",514 TL
+İzmir,Konak,Üçlü,4,"Hayır, genel temizlik yeterli",391 TL
+Ankara,Çankaya,L Köşe,2,"Evet, zor lekeler var",1480 TL
+Ankara,Keçiören,Üçlü,6,"Evet, zor lekeler var",2081 TL
+Antalya,Alanya,Tekli,5,"Evet, zor lekeler var",2067 TL
+Antalya,Muratpaşa,U Köşe,6,"Hayır, genel temizlik yeterli",338 TL
+Antalya,Muratpaşa,Tekli,3,"Hayır, genel temizlik yeterli",958 TL
+Bursa,Yıldırım,İkili,3,"Evet, zor lekeler var",1007 TL
+İstanbul,Kadıköy,İkili,4,"Hayır, genel temizlik yeterli",764 TL
+İstanbul,Üsküdar,Tekli,2,"Hayır, genel temizlik yeterli",945 TL
+Bursa,Yıldırım,U Köşe,2,"Hayır, genel temizlik yeterli",2327 TL
+Antalya,Muratpaşa,Üçlü,6,"Evet, zor lekeler var",1562 TL
+Antalya,Kepez,İkili,3,"Evet, zor lekeler var",555 TL
+Bursa,Yıldırım,L Köşe,3,"Hayır, genel temizlik yeterli",1520 TL
+Antalya,Muratpaşa,Tekli,1,"Evet, zor lekeler var",1767 TL
+İstanbul,Üsküdar,U Köşe,3,"Hayır, genel temizlik yeterli",2231 TL
+İstanbul,Bakırköy,Üçlü,6,"Evet, zor lekeler var",2346 TL
+Ankara,Keçiören,U Köşe,3,"Evet, zor lekeler var",814 TL
+Bursa,Yıldırım,U Köşe,4,"Evet, zor lekeler var",1891 TL
+Bursa,Nilüfer,Tekli,4,"Evet, zor lekeler var",989 TL
+Ankara,Etimesgut,Tekli,6,"Evet, zor lekeler var",2500 TL
+İzmir,Bornova,L Köşe,3,"Hayır, genel temizlik yeterli",751 TL
+Bursa,Yıldırım,İkili,3,"Hayır, genel temizlik yeterli",869 TL
+Ankara,Etimesgut,U Köşe,2,"Evet, zor lekeler var",2016 TL
+Bursa,Nilüfer,U Köşe,4,"Hayır, genel temizlik yeterli",1516 TL
+İzmir,Karşıyaka,Tekli,3,"Hayır, genel temizlik yeterli",2262 TL
+İzmir,Buca,U Köşe,5,"Evet, zor lekeler var",311 TL
+Bursa,Nilüfer,L Köşe,4,"Evet, zor lekeler var",2200 TL
+İzmir,Buca,Üçlü,2,"Evet, zor lekeler var",866 TL
+Antalya,Kepez,İkili,2,"Evet, zor lekeler var",659 TL
+Bursa,Yıldırım,U Köşe,4,"Evet, zor lekeler var",312 TL
+İzmir,Konak,Tekli,4,"Evet, zor lekeler var",339 TL
+İzmir,Buca,İkili,4,"Evet, zor lekeler var",1555 TL
+Bursa,Nilüfer,Üçlü,1,"Hayır, genel temizlik yeterli",1047 TL
+Ankara,Keçiören,Tekli,6,"Hayır, genel temizlik yeterli",1838 TL
+Antalya,Muratpaşa,İkili,5,"Hayır, genel temizlik yeterli",1511 TL
+İzmir,Konak,İkili,6,"Evet, zor lekeler var",1714 TL
+Antalya,Kepez,Üçlü,5,"Evet, zor lekeler var",2138 TL
+Antalya,Kepez,İkili,3,"Evet, zor lekeler var",2403 TL
+Ankara,Keçiören,Üçlü,6,"Evet, zor lekeler var",2387 TL
+Bursa,Osmangazi,L Köşe,4,"Evet, zor lekeler var",590 TL
+Bursa,Osmangazi,U Köşe,5,"Hayır, genel temizlik yeterli",592 TL
+Antalya,Alanya,Tekli,6,"Evet, zor lekeler var",1145 TL
+İstanbul,Üsküdar,Üçlü,6,"Evet, zor lekeler var",991 TL
+Ankara,Etimesgut,Tekli,2,"Evet, zor lekeler var",339 TL
+İstanbul,Kadıköy,U Köşe,1,"Evet, zor lekeler var",968 TL
+İzmir,Karşıyaka,İkili,5,"Evet, zor lekeler var",1918 TL
+Bursa,Yıldırım,L Köşe,2,"Hayır, genel temizlik yeterli",2468 TL
+Antalya,Muratpaşa,Tekli,5,"Hayır, genel temizlik yeterli",2108 TL
+Bursa,Osmangazi,İkili,2,"Hayır, genel temizlik yeterli",1387 TL
+İzmir,Konak,Tekli,6,"Evet, zor lekeler var",1876 TL
+Antalya,Alanya,Tekli,5,"Evet, zor lekeler var",985 TL
+Bursa,Nilüfer,L Köşe,4,"Hayır, genel temizlik yeterli",2104 TL
+İzmir,Karşıyaka,U Köşe,6,"Hayır, genel temizlik yeterli",1718 TL
+Antalya,Kepez,L Köşe,5,"Hayır, genel temizlik yeterli",2168 TL
+İzmir,Karşıyaka,Üçlü,4,"Evet, zor lekeler var",2277 TL
+İstanbul,Bakırköy,Üçlü,4,"Evet, zor lekeler var",1517 TL
+Bursa,Osmangazi,İkili,6,"Evet, zor lekeler var",1193 TL
+Bursa,Osmangazi,U Köşe,6,"Evet, zor lekeler var",940 TL
+Bursa,Yıldırım,Tekli,1,"Evet, zor lekeler var",443 TL
+Ankara,Etimesgut,Üçlü,6,"Hayır, genel temizlik yeterli",595 TL
+İstanbul,Kadıköy,L Köşe,6,"Evet, zor lekeler var",1247 TL
+Antalya,Muratpaşa,Üçlü,4,"Evet, zor lekeler var",1713 TL
+Bursa,Nilüfer,L Köşe,6,"Evet, zor lekeler var",2416 TL
+İstanbul,Beşiktaş,İkili,5,"Evet, zor lekeler var",1860 TL
+Ankara,Mamak,L Köşe,2,"Hayır, genel temizlik yeterli",419 TL
+İstanbul,Üsküdar,U Köşe,2,"Evet, zor lekeler var",1537 TL
+Bursa,Osmangazi,Üçlü,3,"Hayır, genel temizlik yeterli",2089 TL
+İstanbul,Üsküdar,U Köşe,4,"Hayır, genel temizlik yeterli",337 TL
+Bursa,Nilüfer,L Köşe,3,"Hayır, genel temizlik yeterli",653 TL
+Ankara,Mamak,İkili,3,"Hayır, genel temizlik yeterli",429 TL
+Antalya,Kepez,İkili,5,"Evet, zor lekeler var",1529 TL
+Ankara,Mamak,U Köşe,4,"Hayır, genel temizlik yeterli",404 TL
+Ankara,Etimesgut,İkili,5,"Evet, zor lekeler var",440 TL
+Bursa,Nilüfer,L Köşe,6,"Hayır, genel temizlik yeterli",1639 TL
+Antalya,Muratpaşa,Tekli,4,"Hayır, genel temizlik yeterli",1646 TL
+Ankara,Etimesgut,U Köşe,1,"Evet, zor lekeler var",1581 TL
+İstanbul,Kadıköy,L Köşe,4,"Hayır, genel temizlik yeterli",505 TL
+Ankara,Mamak,Üçlü,1,"Evet, zor lekeler var",2319 TL
+İstanbul,Kadıköy,Üçlü,2,"Evet, zor lekeler var",1977 TL
+Ankara,Etimesgut,İkili,1,"Hayır, genel temizlik yeterli",2192 TL
+İstanbul,Beşiktaş,U Köşe,1,"Hayır, genel temizlik yeterli",1779 TL
+İzmir,Konak,Üçlü,5,"Hayır, genel temizlik yeterli",1960 TL
+İzmir,Buca,İkili,5,"Hayır, genel temizlik yeterli",1004 TL
+İzmir,Konak,U Köşe,2,"Hayır, genel temizlik yeterli",1324 TL
+Antalya,Kepez,L Köşe,6,"Evet, zor lekeler var",1983 TL
+Bursa,Yıldırım,İkili,4,"Evet, zor lekeler var",1666 TL
+Bursa,Nilüfer,Üçlü,3,"Evet, zor lekeler var",881 TL
+İzmir,Bornova,Üçlü,2,"Hayır, genel temizlik yeterli",1480 TL
+İzmir,Konak,U Köşe,6,"Hayır, genel temizlik yeterli",1671 TL
+Antalya,Muratpaşa,Üçlü,2,"Evet, zor lekeler var",1820 TL
+İzmir,Karşıyaka,L Köşe,2,"Evet, zor lekeler var",1143 TL
+İzmir,Karşıyaka,Üçlü,2,"Evet, zor lekeler var",2152 TL
+İstanbul,Bakırköy,L Köşe,6,"Evet, zor lekeler var",1100 TL
+İzmir,Konak,L Köşe,2,"Hayır, genel temizlik yeterli",1696 TL
+İstanbul,Bakırköy,U Köşe,6,"Hayır, genel temizlik yeterli",1346 TL
+Bursa,Nilüfer,Üçlü,1,"Hayır, genel temizlik yeterli",910 TL
+Antalya,Kepez,U Köşe,4,"Evet, zor lekeler var",2006 TL
+İstanbul,Kadıköy,L Köşe,1,"Hayır, genel temizlik yeterli",605 TL
+Bursa,Osmangazi,L Köşe,6,"Evet, zor lekeler var",1095 TL
+İzmir,Bornova,İkili,3,"Hayır, genel temizlik yeterli",1902 TL
+Antalya,Muratpaşa,Tekli,3,"Evet, zor lekeler var",1280 TL
+İstanbul,Üsküdar,Üçlü,1,"Evet, zor lekeler var",999 TL
+Ankara,Çankaya,İkili,2,"Evet, zor lekeler var",871 TL
+Antalya,Muratpaşa,L Köşe,4,"Hayır, genel temizlik yeterli",597 TL
+Ankara,Çankaya,U Köşe,6,"Evet, zor lekeler var",649 TL
+Bursa,Yıldırım,U Köşe,2,"Hayır, genel temizlik yeterli",2078 TL
+Ankara,Mamak,U Köşe,3,"Evet, zor lekeler var",947 TL
+Antalya,Alanya,İkili,5,"Evet, zor lekeler var",1922 TL
+Bursa,Yıldırım,U Köşe,1,"Hayır, genel temizlik yeterli",2379 TL
+Antalya,Muratpaşa,Üçlü,6,"Hayır, genel temizlik yeterli",2000 TL
+İzmir,Buca,Üçlü,2,"Evet, zor lekeler var",1676 TL
+Antalya,Alanya,Tekli,3,"Hayır, genel temizlik yeterli",1624 TL
+Bursa,Osmangazi,L Köşe,6,"Evet, zor lekeler var",1686 TL
+İzmir,Konak,L Köşe,3,"Hayır, genel temizlik yeterli",1601 TL
+İstanbul,Bakırköy,İkili,6,"Evet, zor lekeler var",2264 TL
+Bursa,Nilüfer,Tekli,2,"Evet, zor lekeler var",1406 TL
+Bursa,Yıldırım,U Köşe,1,"Hayır, genel temizlik yeterli",1682 TL
+Antalya,Kepez,İkili,6,"Hayır, genel temizlik yeterli",1580 TL
+İzmir,Buca,İkili,6,"Hayır, genel temizlik yeterli",1446 TL
+Ankara,Çankaya,İkili,2,"Evet, zor lekeler var",1060 TL
+Antalya,Alanya,Tekli,2,"Evet, zor lekeler var",1266 TL
+İstanbul,Üsküdar,Tekli,1,"Evet, zor lekeler var",398 TL
+İstanbul,Üsküdar,İkili,3,"Evet, zor lekeler var",1488 TL
+Bursa,Osmangazi,Üçlü,5,"Evet, zor lekeler var",641 TL
+İzmir,Karşıyaka,Tekli,4,"Hayır, genel temizlik yeterli",1551 TL
+İstanbul,Üsküdar,Üçlü,4,"Evet, zor lekeler var",2049 TL
+Antalya,Alanya,U Köşe,2,"Hayır, genel temizlik yeterli",1873 TL
+Antalya,Muratpaşa,İkili,1,"Evet, zor lekeler var",1733 TL
+Bursa,Osmangazi,L Köşe,2,"Evet, zor lekeler var",1715 TL
+Antalya,Alanya,L Köşe,4,"Evet, zor lekeler var",827 TL
+İzmir,Bornova,İkili,3,"Evet, zor lekeler var",1762 TL
+Ankara,Çankaya,Tekli,2,"Evet, zor lekeler var",2104 TL
+İstanbul,Beşiktaş,L Köşe,1,"Evet, zor lekeler var",1822 TL
+İstanbul,Beşiktaş,L Köşe,6,"Hayır, genel temizlik yeterli",2376 TL
+İstanbul,Bakırköy,U Köşe,4,"Evet, zor lekeler var",1396 TL
+Bursa,Yıldırım,L Köşe,4,"Evet, zor lekeler var",304 TL
+Ankara,Çankaya,L Köşe,3,"Evet, zor lekeler var",386 TL
+İzmir,Konak,Üçlü,5,"Hayır, genel temizlik yeterli",1176 TL
+Bursa,Nilüfer,U Köşe,6,"Evet, zor lekeler var",900 TL
+İzmir,Karşıyaka,İkili,2,"Evet, zor lekeler var",687 TL
+Ankara,Etimesgut,İkili,2,"Hayır, genel temizlik yeterli",1347 TL
+Antalya,Alanya,Üçlü,3,"Evet, zor lekeler var",1291 TL
+İzmir,Konak,Tekli,1,"Hayır, genel temizlik yeterli",2438 TL
+Antalya,Muratpaşa,L Köşe,5,"Hayır, genel temizlik yeterli",2332 TL
+Ankara,Etimesgut,L Köşe,4,"Evet, zor lekeler var",2063 TL
+İstanbul,Bakırköy,U Köşe,5,"Hayır, genel temizlik yeterli",520 TL
+Antalya,Kepez,U Köşe,3,"Hayır, genel temizlik yeterli",1277 TL
+Antalya,Kepez,U Köşe,2,"Evet, zor lekeler var",2464 TL
+Bursa,Nilüfer,L Köşe,6,"Evet, zor lekeler var",1630 TL
+Bursa,Osmangazi,U Köşe,3,"Evet, zor lekeler var",516 TL
+Bursa,Osmangazi,U Köşe,6,"Hayır, genel temizlik yeterli",584 TL
+Bursa,Yıldırım,Tekli,2,"Hayır, genel temizlik yeterli",1549 TL
+İstanbul,Üsküdar,İkili,2,"Evet, zor lekeler var",1540 TL
+Ankara,Çankaya,L Köşe,4,"Hayır, genel temizlik yeterli",2027 TL
+İzmir,Bornova,Üçlü,6,"Evet, zor lekeler var",1374 TL
+Ankara,Keçiören,İkili,3,"Evet, zor lekeler var",1147 TL
+Antalya,Muratpaşa,L Köşe,3,"Hayır, genel temizlik yeterli",1456 TL
+Ankara,Çankaya,Tekli,2,"Evet, zor lekeler var",1405 TL
+İzmir,Bornova,U Köşe,3,"Hayır, genel temizlik yeterli",2362 TL
+İzmir,Konak,İkili,4,"Evet, zor lekeler var",972 TL
+İstanbul,Üsküdar,Tekli,6,"Hayır, genel temizlik yeterli",848 TL
+İstanbul,Beşiktaş,U Köşe,1,"Hayır, genel temizlik yeterli",2359 TL
+Antalya,Alanya,Tekli,5,"Evet, zor lekeler var",2136 TL
+Antalya,Alanya,Tekli,3,"Evet, zor lekeler var",1155 TL
+Bursa,Nilüfer,U Köşe,5,"Evet, zor lekeler var",1298 TL
+İstanbul,Bakırköy,Tekli,1,"Evet, zor lekeler var",919 TL
+İstanbul,Bakırköy,İkili,1,"Evet, zor lekeler var",1110 TL
+İzmir,Karşıyaka,U Köşe,5,"Evet, zor lekeler var",892 TL
+Antalya,Kepez,U Köşe,2,"Hayır, genel temizlik yeterli",1831 TL
+Antalya,Muratpaşa,L Köşe,1,"Evet, zor lekeler var",2330 TL
+Ankara,Çankaya,Üçlü,1,"Evet, zor lekeler var",849 TL
+Ankara,Keçiören,L Köşe,4,"Evet, zor lekeler var",1621 TL
+İzmir,Konak,U Köşe,3,"Evet, zor lekeler var",2049 TL
+Ankara,Keçiören,Üçlü,5,"Evet, zor lekeler var",2139 TL
+İzmir,Buca,İkili,6,"Evet, zor lekeler var",1331 TL
+İstanbul,Kadıköy,L Köşe,3,"Hayır, genel temizlik yeterli",2282 TL
+Ankara,Etimesgut,L Köşe,1,"Hayır, genel temizlik yeterli",1128 TL
+İstanbul,Bakırköy,İkili,5,"Hayır, genel temizlik yeterli",1720 TL
+İzmir,Buca,U Köşe,5,"Evet, zor lekeler var",1536 TL
+Ankara,Çankaya,İkili,3,"Evet, zor lekeler var",2007 TL
+Antalya,Muratpaşa,U Köşe,3,"Evet, zor lekeler var",1975 TL
+Bursa,Nilüfer,Üçlü,1,"Evet, zor lekeler var",1564 TL
+İzmir,Buca,Tekli,1,"Hayır, genel temizlik yeterli",1965 TL
+Ankara,Etimesgut,İkili,1,"Evet, zor lekeler var",2372 TL
+Ankara,Mamak,İkili,2,"Evet, zor lekeler var",2060 TL
+Ankara,Etimesgut,U Köşe,5,"Evet, zor lekeler var",571 TL
+Ankara,Mamak,İkili,6,"Evet, zor lekeler var",1308 TL
+İstanbul,Bakırköy,U Köşe,4,"Evet, zor lekeler var",1803 TL
+Ankara,Çankaya,İkili,1,"Evet, zor lekeler var",1370 TL
+Bursa,Osmangazi,Tekli,4,"Hayır, genel temizlik yeterli",1352 TL
+Ankara,Mamak,L Köşe,5,"Hayır, genel temizlik yeterli",525 TL
+İzmir,Bornova,Tekli,6,"Evet, zor lekeler var",2140 TL
+Bursa,Osmangazi,Tekli,1,"Evet, zor lekeler var",2197 TL
+Bursa,Nilüfer,Üçlü,6,"Evet, zor lekeler var",1898 TL
+İstanbul,Üsküdar,Tekli,3,"Evet, zor lekeler var",1204 TL
+İzmir,Bornova,L Köşe,3,"Hayır, genel temizlik yeterli",350 TL
+Bursa,Yıldırım,U Köşe,2,"Hayır, genel temizlik yeterli",1783 TL
+İstanbul,Beşiktaş,L Köşe,6,"Evet, zor lekeler var",1339 TL
+Antalya,Kepez,U Köşe,6,"Hayır, genel temizlik yeterli",2281 TL
+İzmir,Bornova,Üçlü,1,"Evet, zor lekeler var",596 TL
+Antalya,Kepez,L Köşe,2,"Hayır, genel temizlik yeterli",845 TL
+İstanbul,Bakırköy,L Köşe,5,"Hayır, genel temizlik yeterli",2390 TL
+Antalya,Muratpaşa,Tekli,4,"Evet, zor lekeler var",2078 TL
+İzmir,Karşıyaka,İkili,6,"Evet, zor lekeler var",714 TL
+İstanbul,Kadıköy,Üçlü,2,"Hayır, genel temizlik yeterli",1795 TL
+Bursa,Nilüfer,Üçlü,2,"Evet, zor lekeler var",755 TL
+Ankara,Mamak,Tekli,1,"Evet, zor lekeler var",766 TL
+Ankara,Keçiören,L Köşe,3,"Hayır, genel temizlik yeterli",2259 TL
+İzmir,Bornova,Üçlü,2,"Evet, zor lekeler var",905 TL
+Ankara,Çankaya,Üçlü,5,"Hayır, genel temizlik yeterli",2375 TL
+Ankara,Mamak,İkili,5,"Hayır, genel temizlik yeterli",370 TL
+İzmir,Bornova,L Köşe,1,"Evet, zor lekeler var",1435 TL
+Antalya,Muratpaşa,Üçlü,6,"Evet, zor lekeler var",1866 TL
+Bursa,Osmangazi,Üçlü,5,"Evet, zor lekeler var",327 TL
+İzmir,Bornova,Üçlü,2,"Evet, zor lekeler var",1300 TL
+İstanbul,Üsküdar,Üçlü,3,"Hayır, genel temizlik yeterli",2186 TL
+Antalya,Alanya,İkili,2,"Hayır, genel temizlik yeterli",1915 TL
+Bursa,Nilüfer,L Köşe,6,"Evet, zor lekeler var",560 TL
+İstanbul,Bakırköy,İkili,6,"Evet, zor lekeler var",858 TL
+İstanbul,Kadıköy,L Köşe,2,"Evet, zor lekeler var",1790 TL
+Bursa,Yıldırım,Üçlü,3,"Hayır, genel temizlik yeterli",785 TL
+Ankara,Mamak,L Köşe,3,"Hayır, genel temizlik yeterli",342 TL
+Antalya,Kepez,Üçlü,2,"Hayır, genel temizlik yeterli",1237 TL
+İzmir,Buca,L Köşe,5,"Evet, zor lekeler var",1530 TL
+İstanbul,Bakırköy,Tekli,6,"Hayır, genel temizlik yeterli",1769 TL
+Ankara,Keçiören,U Köşe,2,"Hayır, genel temizlik yeterli",1115 TL
+İstanbul,Beşiktaş,İkili,2,"Hayır, genel temizlik yeterli",1730 TL
+İzmir,Konak,İkili,1,"Hayır, genel temizlik yeterli",666 TL
+İzmir,Konak,L Köşe,5,"Evet, zor lekeler var",2459 TL
+İstanbul,Bakırköy,L Köşe,4,"Hayır, genel temizlik yeterli",716 TL
+Ankara,Çankaya,Tekli,5,"Evet, zor lekeler var",2180 TL
+Ankara,Çankaya,Üçlü,1,"Hayır, genel temizlik yeterli",829 TL
+Antalya,Alanya,Üçlü,5,"Evet, zor lekeler var",2128 TL
+İzmir,Konak,U Köşe,3,"Hayır, genel temizlik yeterli",2309 TL
+İstanbul,Üsküdar,İkili,6,"Evet, zor lekeler var",385 TL
+İstanbul,Üsküdar,L Köşe,1,"Evet, zor lekeler var",750 TL
+Ankara,Çankaya,İkili,1,"Evet, zor lekeler var",2317 TL
+Ankara,Keçiören,Tekli,1,"Hayır, genel temizlik yeterli",459 TL
+Ankara,Etimesgut,İkili,6,"Evet, zor lekeler var",2220 TL
+İzmir,Buca,L Köşe,3,"Evet, zor lekeler var",1945 TL
+Antalya,Kepez,İkili,6,"Evet, zor lekeler var",1803 TL
+Antalya,Kepez,Tekli,5,"Evet, zor lekeler var",2179 TL
+Antalya,Alanya,Üçlü,1,"Evet, zor lekeler var",1839 TL
+İstanbul,Kadıköy,L Köşe,4,"Evet, zor lekeler var",542 TL
+Bursa,Nilüfer,Üçlü,5,"Evet, zor lekeler var",589 TL
+İzmir,Konak,L Köşe,4,"Evet, zor lekeler var",2333 TL
+İzmir,Konak,Üçlü,4,"Evet, zor lekeler var",2063 TL
+Antalya,Alanya,İkili,5,"Hayır, genel temizlik yeterli",2412 TL
+İstanbul,Üsküdar,Üçlü,6,"Hayır, genel temizlik yeterli",2188 TL
+İzmir,Konak,L Köşe,5,"Hayır, genel temizlik yeterli",404 TL
+Bursa,Osmangazi,Tekli,6,"Evet, zor lekeler var",875 TL
+Ankara,Mamak,Üçlü,5,"Evet, zor lekeler var",1135 TL
+Antalya,Muratpaşa,L Köşe,2,"Evet, zor lekeler var",917 TL
+İzmir,Karşıyaka,Tekli,1,"Evet, zor lekeler var",2144 TL
+Ankara,Etimesgut,L Köşe,4,"Hayır, genel temizlik yeterli",2262 TL
+Antalya,Kepez,Üçlü,1,"Evet, zor lekeler var",1826 TL
+Bursa,Nilüfer,Üçlü,1,"Hayır, genel temizlik yeterli",783 TL
+İzmir,Karşıyaka,L Köşe,2,"Evet, zor lekeler var",815 TL
+Bursa,Osmangazi,L Köşe,2,"Hayır, genel temizlik yeterli",1994 TL
+İstanbul,Beşiktaş,U Köşe,3,"Evet, zor lekeler var",1893 TL
+İstanbul,Beşiktaş,İkili,1,"Evet, zor lekeler var",2271 TL
+Ankara,Etimesgut,L Köşe,1,"Hayır, genel temizlik yeterli",741 TL
+Bursa,Osmangazi,L Köşe,2,"Evet, zor lekeler var",2439 TL
+Bursa,Nilüfer,İkili,1,"Evet, zor lekeler var",1399 TL
+Antalya,Kepez,Tekli,2,"Hayır, genel temizlik yeterli",739 TL
+Bursa,Osmangazi,Üçlü,6,"Hayır, genel temizlik yeterli",598 TL
+İzmir,Karşıyaka,Üçlü,3,"Hayır, genel temizlik yeterli",974 TL
+Ankara,Çankaya,U Köşe,2,"Evet, zor lekeler var",1256 TL
+İzmir,Buca,L Köşe,6,"Evet, zor lekeler var",1139 TL
+Bursa,Yıldırım,İkili,1,"Evet, zor lekeler var",700 TL
+Bursa,Yıldırım,Üçlü,6,"Evet, zor lekeler var",1313 TL
+Ankara,Keçiören,İkili,6,"Evet, zor lekeler var",1775 TL
+Antalya,Kepez,İkili,5,"Evet, zor lekeler var",1769 TL
+İstanbul,Üsküdar,Tekli,3,"Hayır, genel temizlik yeterli",1383 TL
+İstanbul,Üsküdar,L Köşe,4,"Hayır, genel temizlik yeterli",2478 TL
+İzmir,Konak,L Köşe,2,"Hayır, genel temizlik yeterli",1756 TL
+Ankara,Çankaya,U Köşe,5,"Evet, zor lekeler var",683 TL
+Antalya,Alanya,L Köşe,4,"Hayır, genel temizlik yeterli",1013 TL
+İstanbul,Üsküdar,L Köşe,1,"Hayır, genel temizlik yeterli",735 TL
+Bursa,Yıldırım,Üçlü,3,"Hayır, genel temizlik yeterli",1747 TL
+Antalya,Kepez,İkili,6,"Hayır, genel temizlik yeterli",845 TL
+Antalya,Muratpaşa,L Köşe,5,"Evet, zor lekeler var",2406 TL
+İstanbul,Bakırköy,Tekli,6,"Evet, zor lekeler var",847 TL
+Ankara,Mamak,L Köşe,1,"Evet, zor lekeler var",1119 TL
+Ankara,Mamak,Üçlü,2,"Hayır, genel temizlik yeterli",2116 TL
+Antalya,Alanya,U Köşe,5,"Evet, zor lekeler var",1919 TL
+İstanbul,Bakırköy,L Köşe,4,"Hayır, genel temizlik yeterli",1643 TL
+İstanbul,Beşiktaş,İkili,4,"Hayır, genel temizlik yeterli",2432 TL
+Ankara,Keçiören,Tekli,4,"Hayır, genel temizlik yeterli",362 TL
+İzmir,Buca,İkili,2,"Evet, zor lekeler var",425 TL
+Bursa,Nilüfer,İkili,6,"Hayır, genel temizlik yeterli",1012 TL
+Antalya,Muratpaşa,Üçlü,3,"Evet, zor lekeler var",998 TL
+Ankara,Keçiören,L Köşe,1,"Hayır, genel temizlik yeterli",1489 TL
+Bursa,Nilüfer,Üçlü,2,"Hayır, genel temizlik yeterli",2371 TL
+İstanbul,Üsküdar,U Köşe,2,"Evet, zor lekeler var",2469 TL
+İzmir,Bornova,Tekli,4,"Hayır, genel temizlik yeterli",2100 TL
+İstanbul,Beşiktaş,İkili,6,"Evet, zor lekeler var",1439 TL
+İstanbul,Bakırköy,İkili,6,"Hayır, genel temizlik yeterli",1221 TL
+Antalya,Kepez,L Köşe,6,"Hayır, genel temizlik yeterli",583 TL
+İzmir,Karşıyaka,L Köşe,4,"Hayır, genel temizlik yeterli",1081 TL
+İzmir,Karşıyaka,L Köşe,1,"Hayır, genel temizlik yeterli",1337 TL
+İzmir,Karşıyaka,Üçlü,4,"Evet, zor lekeler var",300 TL
+İzmir,Karşıyaka,Üçlü,2,"Evet, zor lekeler var",636 TL
+Antalya,Muratpaşa,L Köşe,3,"Hayır, genel temizlik yeterli",794 TL
+İstanbul,Beşiktaş,Üçlü,6,"Hayır, genel temizlik yeterli",1395 TL
+Bursa,Osmangazi,Üçlü,6,"Evet, zor lekeler var",1830 TL
+Antalya,Kepez,L Köşe,3,"Evet, zor lekeler var",1372 TL
+Bursa,Nilüfer,U Köşe,5,"Evet, zor lekeler var",1998 TL
+İzmir,Bornova,İkili,6,"Hayır, genel temizlik yeterli",1849 TL
+İstanbul,Kadıköy,Tekli,3,"Hayır, genel temizlik yeterli",1225 TL
+Antalya,Kepez,U Köşe,3,"Evet, zor lekeler var",2226 TL
+İzmir,Buca,L Köşe,3,"Evet, zor lekeler var",985 TL
+İzmir,Bornova,L Köşe,2,"Evet, zor lekeler var",2418 TL
+İstanbul,Bakırköy,L Köşe,3,"Hayır, genel temizlik yeterli",1280 TL
+Ankara,Etimesgut,U Köşe,3,"Evet, zor lekeler var",802 TL
+Bursa,Nilüfer,L Köşe,3,"Hayır, genel temizlik yeterli",1108 TL
+İstanbul,Bakırköy,L Köşe,6,"Hayır, genel temizlik yeterli",1663 TL
+Bursa,Yıldırım,Üçlü,4,"Evet, zor lekeler var",1101 TL
+İzmir,Buca,Üçlü,4,"Hayır, genel temizlik yeterli",894 TL
+İstanbul,Kadıköy,Üçlü,2,"Evet, zor lekeler var",1742 TL
+Bursa,Nilüfer,Üçlü,5,"Evet, zor lekeler var",2460 TL
+Ankara,Çankaya,Tekli,1,"Evet, zor lekeler var",888 TL
+Antalya,Muratpaşa,L Köşe,1,"Evet, zor lekeler var",1806 TL
+Antalya,Alanya,Tekli,4,"Evet, zor lekeler var",617 TL
+İstanbul,Bakırköy,İkili,5,"Hayır, genel temizlik yeterli",965 TL
+Antalya,Alanya,İkili,1,"Evet, zor lekeler var",1367 TL
+İzmir,Bornova,İkili,4,"Hayır, genel temizlik yeterli",1497 TL
+Antalya,Muratpaşa,L Köşe,4,"Evet, zor lekeler var",1930 TL
+Antalya,Kepez,İkili,2,"Evet, zor lekeler var",1893 TL
+Antalya,Muratpaşa,Tekli,4,"Evet, zor lekeler var",2362 TL
+Antalya,Muratpaşa,U Köşe,5,"Evet, zor lekeler var",1800 TL
+İstanbul,Üsküdar,İkili,3,"Hayır, genel temizlik yeterli",1317 TL
+Antalya,Muratpaşa,U Köşe,3,"Evet, zor lekeler var",480 TL
+Bursa,Osmangazi,Tekli,3,"Evet, zor lekeler var",806 TL
+Antalya,Alanya,İkili,6,"Evet, zor lekeler var",394 TL
+Antalya,Muratpaşa,Üçlü,4,"Hayır, genel temizlik yeterli",1457 TL
+Antalya,Muratpaşa,İkili,3,"Evet, zor lekeler var",804 TL
+İzmir,Konak,Tekli,5,"Hayır, genel temizlik yeterli",355 TL
+Ankara,Keçiören,L Köşe,4,"Evet, zor lekeler var",2443 TL
+Bursa,Osmangazi,Üçlü,2,"Hayır, genel temizlik yeterli",638 TL
+Ankara,Keçiören,Üçlü,1,"Hayır, genel temizlik yeterli",586 TL
+Bursa,Osmangazi,Üçlü,3,"Hayır, genel temizlik yeterli",1948 TL
+İzmir,Konak,L Köşe,1,"Evet, zor lekeler var",2173 TL
+Antalya,Muratpaşa,Tekli,3,"Hayır, genel temizlik yeterli",392 TL
+Antalya,Kepez,Tekli,4,"Hayır, genel temizlik yeterli",998 TL
+İzmir,Karşıyaka,Tekli,3,"Evet, zor lekeler var",1873 TL
+İzmir,Bornova,İkili,3,"Evet, zor lekeler var",2184 TL
+Antalya,Alanya,Üçlü,2,"Hayır, genel temizlik yeterli",1818 TL
+Ankara,Mamak,Üçlü,2,"Hayır, genel temizlik yeterli",1587 TL
+İzmir,Bornova,İkili,4,"Hayır, genel temizlik yeterli",682 TL
+İstanbul,Bakırköy,Tekli,6,"Hayır, genel temizlik yeterli",2172 TL
+Bursa,Nilüfer,İkili,4,"Hayır, genel temizlik yeterli",1486 TL
+Bursa,Osmangazi,Tekli,5,"Hayır, genel temizlik yeterli",707 TL
+İstanbul,Üsküdar,L Köşe,6,"Evet, zor lekeler var",1412 TL
+Ankara,Keçiören,L Köşe,5,"Evet, zor lekeler var",2295 TL
+İstanbul,Beşiktaş,İkili,4,"Evet, zor lekeler var",1915 TL
+İstanbul,Üsküdar,U Köşe,1,"Evet, zor lekeler var",1197 TL
+Antalya,Muratpaşa,U Köşe,2,"Hayır, genel temizlik yeterli",837 TL
+İstanbul,Kadıköy,U Köşe,4,"Evet, zor lekeler var",1428 TL
+Antalya,Alanya,Tekli,1,"Evet, zor lekeler var",2168 TL
+Antalya,Kepez,Üçlü,2,"Hayır, genel temizlik yeterli",429 TL
+Bursa,Nilüfer,U Köşe,6,"Evet, zor lekeler var",575 TL
+İstanbul,Kadıköy,U Köşe,1,"Hayır, genel temizlik yeterli",1005 TL
+İstanbul,Üsküdar,U Köşe,4,"Evet, zor lekeler var",2394 TL
+İzmir,Konak,İkili,2,"Hayır, genel temizlik yeterli",2398 TL
+Ankara,Etimesgut,Üçlü,3,"Hayır, genel temizlik yeterli",489 TL
+İstanbul,Bakırköy,Üçlü,5,"Evet, zor lekeler var",2385 TL
+Ankara,Çankaya,U Köşe,6,"Evet, zor lekeler var",1434 TL
+İzmir,Buca,Tekli,4,"Hayır, genel temizlik yeterli",315 TL
+Antalya,Alanya,Tekli,4,"Evet, zor lekeler var",1131 TL
+İzmir,Karşıyaka,Tekli,6,"Hayır, genel temizlik yeterli",1032 TL
+Bursa,Yıldırım,İkili,6,"Evet, zor lekeler var",1945 TL
+Ankara,Keçiören,Tekli,4,"Hayır, genel temizlik yeterli",1595 TL
+Ankara,Etimesgut,Tekli,2,"Hayır, genel temizlik yeterli",1264 TL
+Bursa,Nilüfer,Tekli,4,"Hayır, genel temizlik yeterli",463 TL
+Antalya,Muratpaşa,L Köşe,6,"Evet, zor lekeler var",1460 TL
+İzmir,Bornova,Üçlü,1,"Hayır, genel temizlik yeterli",1407 TL
+Antalya,Kepez,Üçlü,2,"Evet, zor lekeler var",1550 TL
+İstanbul,Kadıköy,Tekli,1,"Evet, zor lekeler var",906 TL
+İstanbul,Üsküdar,Tekli,2,"Hayır, genel temizlik yeterli",1723 TL
+Bursa,Nilüfer,Tekli,2,"Hayır, genel temizlik yeterli",1317 TL
+İstanbul,Beşiktaş,Tekli,5,"Hayır, genel temizlik yeterli",1755 TL
+Bursa,Nilüfer,İkili,2,"Evet, zor lekeler var",2354 TL
+İstanbul,Bakırköy,Üçlü,6,"Hayır, genel temizlik yeterli",1876 TL
+İstanbul,Bakırköy,Tekli,4,"Evet, zor lekeler var",2328 TL
+İstanbul,Beşiktaş,Tekli,2,"Evet, zor lekeler var",1533 TL
+Bursa,Osmangazi,U Köşe,6,"Hayır, genel temizlik yeterli",510 TL
+Bursa,Osmangazi,İkili,5,"Hayır, genel temizlik yeterli",549 TL
+Bursa,Nilüfer,Tekli,5,"Hayır, genel temizlik yeterli",1469 TL
+Bursa,Nilüfer,İkili,1,"Evet, zor lekeler var",2195 TL
+İstanbul,Üsküdar,Tekli,4,"Hayır, genel temizlik yeterli",715 TL
+Ankara,Etimesgut,L Köşe,6,"Hayır, genel temizlik yeterli",2267 TL
+Ankara,Çankaya,U Köşe,3,"Hayır, genel temizlik yeterli",2257 TL
+İzmir,Bornova,Tekli,4,"Evet, zor lekeler var",1673 TL
+İstanbul,Bakırköy,İkili,6,"Evet, zor lekeler var",2329 TL
+İstanbul,Üsküdar,Üçlü,6,"Evet, zor lekeler var",1912 TL
+Antalya,Muratpaşa,İkili,3,"Hayır, genel temizlik yeterli",2469 TL
+Bursa,Yıldırım,İkili,5,"Hayır, genel temizlik yeterli",1326 TL
+Antalya,Kepez,L Köşe,5,"Evet, zor lekeler var",906 TL
+Bursa,Yıldırım,Tekli,3,"Hayır, genel temizlik yeterli",733 TL
+Ankara,Çankaya,Tekli,6,"Hayır, genel temizlik yeterli",2078 TL
+Bursa,Yıldırım,U Köşe,2,"Hayır, genel temizlik yeterli",1134 TL
+İstanbul,Kadıköy,Üçlü,4,"Hayır, genel temizlik yeterli",1122 TL
+Bursa,Yıldırım,L Köşe,2,"Evet, zor lekeler var",2228 TL
+Bursa,Yıldırım,Üçlü,4,"Hayır, genel temizlik yeterli",1300 TL
+İstanbul,Beşiktaş,Üçlü,6,"Hayır, genel temizlik yeterli",1249 TL
+İstanbul,Kadıköy,Üçlü,2,"Evet, zor lekeler var",1794 TL
+İstanbul,Beşiktaş,Üçlü,6,"Evet, zor lekeler var",1943 TL
+Ankara,Keçiören,İkili,3,"Hayır, genel temizlik yeterli",1832 TL
+Bursa,Yıldırım,Tekli,3,"Evet, zor lekeler var",977 TL
+Bursa,Nilüfer,U Köşe,3,"Hayır, genel temizlik yeterli",2216 TL
+Antalya,Muratpaşa,Tekli,5,"Hayır, genel temizlik yeterli",794 TL
+Ankara,Etimesgut,Tekli,6,"Hayır, genel temizlik yeterli",966 TL
+Bursa,Nilüfer,İkili,5,"Evet, zor lekeler var",1521 TL
+Antalya,Alanya,Tekli,6,"Evet, zor lekeler var",2334 TL
+İzmir,Buca,Tekli,6,"Hayır, genel temizlik yeterli",1226 TL
+Bursa,Yıldırım,Üçlü,1,"Hayır, genel temizlik yeterli",1238 TL
+İstanbul,Bakırköy,U Köşe,1,"Evet, zor lekeler var",2030 TL
+Antalya,Kepez,Tekli,3,"Hayır, genel temizlik yeterli",861 TL
+Bursa,Yıldırım,Üçlü,2,"Hayır, genel temizlik yeterli",2378 TL
+İstanbul,Beşiktaş,Tekli,4,"Hayır, genel temizlik yeterli",502 TL
+Antalya,Kepez,İkili,6,"Evet, zor lekeler var",749 TL
+İstanbul,Kadıköy,U Köşe,2,"Evet, zor lekeler var",344 TL
+Bursa,Yıldırım,İkili,1,"Evet, zor lekeler var",1525 TL
+İzmir,Bornova,U Köşe,1,"Evet, zor lekeler var",1683 TL
+Ankara,Mamak,U Köşe,6,"Hayır, genel temizlik yeterli",2125 TL
+Bursa,Nilüfer,Tekli,5,"Hayır, genel temizlik yeterli",2086 TL
+İzmir,Karşıyaka,L Köşe,1,"Evet, zor lekeler var",910 TL
+Antalya,Kepez,İkili,2,"Hayır, genel temizlik yeterli",1326 TL
+Ankara,Çankaya,Tekli,3,"Evet, zor lekeler var",1214 TL
+Ankara,Etimesgut,L Köşe,5,"Evet, zor lekeler var",1018 TL
+İzmir,Karşıyaka,Üçlü,6,"Evet, zor lekeler var",2110 TL
+Bursa,Nilüfer,İkili,5,"Hayır, genel temizlik yeterli",2134 TL
+Antalya,Kepez,Tekli,6,"Hayır, genel temizlik yeterli",1819 TL
+Antalya,Muratpaşa,İkili,3,"Evet, zor lekeler var",888 TL
+Bursa,Osmangazi,İkili,1,"Evet, zor lekeler var",506 TL
+Antalya,Muratpaşa,U Köşe,2,"Hayır, genel temizlik yeterli",1886 TL
+Bursa,Yıldırım,İkili,6,"Hayır, genel temizlik yeterli",737 TL
+Bursa,Osmangazi,U Köşe,5,"Evet, zor lekeler var",383 TL
+Antalya,Kepez,Tekli,2,"Hayır, genel temizlik yeterli",453 TL
+Ankara,Keçiören,U Köşe,4,"Evet, zor lekeler var",1770 TL
+İstanbul,Kadıköy,İkili,4,"Evet, zor lekeler var",992 TL
+Ankara,Etimesgut,U Köşe,1,"Evet, zor lekeler var",1764 TL
+İstanbul,Beşiktaş,U Köşe,3,"Hayır, genel temizlik yeterli",1916 TL
+İstanbul,Beşiktaş,Üçlü,5,"Evet, zor lekeler var",2303 TL
+İzmir,Konak,Üçlü,1,"Hayır, genel temizlik yeterli",545 TL
+Bursa,Osmangazi,İkili,6,"Hayır, genel temizlik yeterli",2248 TL
+Antalya,Alanya,İkili,2,"Hayır, genel temizlik yeterli",888 TL
+Ankara,Keçiören,Tekli,4,"Evet, zor lekeler var",2427 TL
+Bursa,Osmangazi,Tekli,1,"Hayır, genel temizlik yeterli",1063 TL
+Ankara,Etimesgut,U Köşe,3,"Hayır, genel temizlik yeterli",859 TL
+Ankara,Çankaya,L Köşe,1,"Hayır, genel temizlik yeterli",2439 TL
+İstanbul,Beşiktaş,Üçlü,4,"Evet, zor lekeler var",2236 TL
+İstanbul,Kadıköy,İkili,5,"Evet, zor lekeler var",1298 TL
+Bursa,Yıldırım,U Köşe,5,"Hayır, genel temizlik yeterli",1421 TL
+İzmir,Bornova,Üçlü,5,"Hayır, genel temizlik yeterli",616 TL
+İzmir,Karşıyaka,İkili,6,"Hayır, genel temizlik yeterli",1159 TL
+Antalya,Kepez,Tekli,4,"Hayır, genel temizlik yeterli",775 TL
+Ankara,Etimesgut,Üçlü,4,"Hayır, genel temizlik yeterli",2146 TL
+İzmir,Karşıyaka,İkili,6,"Evet, zor lekeler var",767 TL
+Antalya,Kepez,Üçlü,5,"Hayır, genel temizlik yeterli",1195 TL
+İzmir,Bornova,L Köşe,2,"Hayır, genel temizlik yeterli",2317 TL
+Ankara,Etimesgut,L Köşe,4,"Hayır, genel temizlik yeterli",368 TL
+İzmir,Konak,Üçlü,4,"Hayır, genel temizlik yeterli",1290 TL
+Ankara,Çankaya,İkili,2,"Evet, zor lekeler var",1255 TL
+İstanbul,Kadıköy,L Köşe,5,"Hayır, genel temizlik yeterli",569 TL
+Antalya,Muratpaşa,L Köşe,6,"Evet, zor lekeler var",562 TL
+İstanbul,Beşiktaş,Üçlü,4,"Hayır, genel temizlik yeterli",1380 TL
+Bursa,Nilüfer,İkili,2,"Hayır, genel temizlik yeterli",2447 TL
+Ankara,Etimesgut,L Köşe,1,"Hayır, genel temizlik yeterli",1296 TL
+İstanbul,Bakırköy,İkili,6,"Hayır, genel temizlik yeterli",1601 TL
+İstanbul,Beşiktaş,İkili,6,"Hayır, genel temizlik yeterli",827 TL
+Bursa,Yıldırım,Tekli,6,"Hayır, genel temizlik yeterli",1083 TL
+Ankara,Mamak,Üçlü,2,"Evet, zor lekeler var",987 TL
+Bursa,Yıldırım,U Köşe,2,"Evet, zor lekeler var",1512 TL
+Bursa,Yıldırım,Üçlü,3,"Hayır, genel temizlik yeterli",1287 TL
+İzmir,Buca,Üçlü,6,"Evet, zor lekeler var",633 TL
+Ankara,Çankaya,L Köşe,5,"Hayır, genel temizlik yeterli",772 TL
+Ankara,Etimesgut,İkili,4,"Hayır, genel temizlik yeterli",308 TL
+Bursa,Nilüfer,Üçlü,6,"Hayır, genel temizlik yeterli",1002 TL
+İstanbul,Bakırköy,İkili,4,"Evet, zor lekeler var",331 TL
+Bursa,Nilüfer,U Köşe,1,"Evet, zor lekeler var",2097 TL
+İstanbul,Kadıköy,Tekli,5,"Evet, zor lekeler var",1590 TL
+İzmir,Konak,U Köşe,1,"Hayır, genel temizlik yeterli",965 TL
+Antalya,Muratpaşa,L Köşe,3,"Evet, zor lekeler var",1601 TL
+Antalya,Muratpaşa,Üçlü,3,"Evet, zor lekeler var",627 TL
+İzmir,Bornova,L Köşe,5,"Hayır, genel temizlik yeterli",547 TL
+Ankara,Etimesgut,U Köşe,1,"Evet, zor lekeler var",837 TL
+İzmir,Konak,Üçlü,3,"Evet, zor lekeler var",389 TL
+Ankara,Çankaya,Tekli,3,"Hayır, genel temizlik yeterli",2304 TL
+İzmir,Bornova,İkili,4,"Hayır, genel temizlik yeterli",824 TL
+Antalya,Kepez,Üçlü,5,"Hayır, genel temizlik yeterli",570 TL
+Bursa,Osmangazi,Tekli,5,"Hayır, genel temizlik yeterli",651 TL
+İstanbul,Beşiktaş,Üçlü,5,"Evet, zor lekeler var",1834 TL
+İzmir,Bornova,Tekli,6,"Hayır, genel temizlik yeterli",1511 TL
+Bursa,Nilüfer,Üçlü,6,"Evet, zor lekeler var",1940 TL
+İzmir,Buca,İkili,3,"Evet, zor lekeler var",840 TL
+İzmir,Konak,Tekli,3,"Hayır, genel temizlik yeterli",371 TL
+Ankara,Mamak,U Köşe,1,"Hayır, genel temizlik yeterli",1158 TL
+Ankara,Çankaya,U Köşe,1,"Evet, zor lekeler var",2352 TL
+İzmir,Karşıyaka,L Köşe,1,"Evet, zor lekeler var",1923 TL
+İstanbul,Üsküdar,U Köşe,1,"Evet, zor lekeler var",441 TL
+Ankara,Çankaya,İkili,1,"Hayır, genel temizlik yeterli",1859 TL
+Ankara,Mamak,L Köşe,2,"Evet, zor lekeler var",1446 TL
+Bursa,Yıldırım,L Köşe,4,"Evet, zor lekeler var",2412 TL
+İstanbul,Kadıköy,Üçlü,3,"Hayır, genel temizlik yeterli",1830 TL
+İstanbul,Üsküdar,İkili,4,"Hayır, genel temizlik yeterli",353 TL
+Bursa,Nilüfer,İkili,6,"Hayır, genel temizlik yeterli",2407 TL
+İzmir,Konak,Tekli,5,"Evet, zor lekeler var",1013 TL
+Antalya,Alanya,İkili,6,"Hayır, genel temizlik yeterli",1468 TL
+İzmir,Bornova,U Köşe,6,"Evet, zor lekeler var",2419 TL
+Ankara,Keçiören,U Köşe,1,"Hayır, genel temizlik yeterli",1341 TL
+İstanbul,Üsküdar,İkili,4,"Evet, zor lekeler var",1332 TL
+Antalya,Alanya,U Köşe,6,"Hayır, genel temizlik yeterli",1445 TL
+Bursa,Nilüfer,Tekli,6,"Hayır, genel temizlik yeterli",1774 TL
+Antalya,Alanya,U Köşe,2,"Evet, zor lekeler var",1622 TL
+Bursa,Yıldırım,Üçlü,5,"Hayır, genel temizlik yeterli",1845 TL
+İzmir,Karşıyaka,Tekli,2,"Evet, zor lekeler var",2106 TL
+İzmir,Bornova,U Köşe,4,"Evet, zor lekeler var",2217 TL
+İstanbul,Bakırköy,İkili,1,"Hayır, genel temizlik yeterli",440 TL
+Antalya,Kepez,Üçlü,6,"Hayır, genel temizlik yeterli",1231 TL
+İzmir,Buca,Tekli,5,"Evet, zor lekeler var",621 TL
+Antalya,Kepez,L Köşe,5,"Evet, zor lekeler var",1586 TL
+Antalya,Alanya,Tekli,5,"Hayır, genel temizlik yeterli",651 TL
+Ankara,Etimesgut,Üçlü,5,"Hayır, genel temizlik yeterli",2050 TL
+Antalya,Muratpaşa,U Köşe,4,"Evet, zor lekeler var",1263 TL
+Antalya,Kepez,U Köşe,4,"Hayır, genel temizlik yeterli",468 TL
+Antalya,Muratpaşa,L Köşe,1,"Hayır, genel temizlik yeterli",490 TL
+Bursa,Yıldırım,L Köşe,4,"Evet, zor lekeler var",798 TL
+Ankara,Mamak,İkili,1,"Evet, zor lekeler var",1331 TL
+Antalya,Alanya,İkili,1,"Evet, zor lekeler var",2343 TL
+Bursa,Nilüfer,U Köşe,1,"Evet, zor lekeler var",485 TL
+İzmir,Buca,Tekli,3,"Evet, zor lekeler var",1423 TL
+İstanbul,Kadıköy,Üçlü,5,"Evet, zor lekeler var",1033 TL
+İzmir,Buca,Üçlü,3,"Hayır, genel temizlik yeterli",1513 TL
+Antalya,Alanya,İkili,4,"Evet, zor lekeler var",1468 TL
+Antalya,Kepez,L Köşe,5,"Evet, zor lekeler var",1279 TL
+İzmir,Konak,L Köşe,3,"Evet, zor lekeler var",2497 TL
+İstanbul,Üsküdar,İkili,4,"Hayır, genel temizlik yeterli",577 TL
+Ankara,Keçiören,L Köşe,6,"Evet, zor lekeler var",964 TL
+Ankara,Keçiören,Tekli,3,"Evet, zor lekeler var",1358 TL
+İzmir,Karşıyaka,Üçlü,6,"Hayır, genel temizlik yeterli",2141 TL
+Ankara,Mamak,Üçlü,2,"Evet, zor lekeler var",438 TL
+İzmir,Buca,Tekli,4,"Hayır, genel temizlik yeterli",2417 TL
+Antalya,Muratpaşa,L Köşe,3,"Hayır, genel temizlik yeterli",794 TL
+Antalya,Muratpaşa,Tekli,4,"Hayır, genel temizlik yeterli",702 TL
+İstanbul,Kadıköy,U Köşe,4,"Evet, zor lekeler var",2416 TL
+İzmir,Karşıyaka,U Köşe,5,"Evet, zor lekeler var",1880 TL
+Antalya,Kepez,Üçlü,5,"Evet, zor lekeler var",923 TL
+Ankara,Mamak,U Köşe,2,"Evet, zor lekeler var",667 TL
+Ankara,Çankaya,İkili,3,"Evet, zor lekeler var",1151 TL
+Antalya,Kepez,L Köşe,5,"Evet, zor lekeler var",435 TL
+Bursa,Yıldırım,Üçlü,1,"Evet, zor lekeler var",1779 TL
+Antalya,Muratpaşa,İkili,1,"Evet, zor lekeler var",843 TL
+Bursa,Nilüfer,Tekli,2,"Evet, zor lekeler var",475 TL
+Antalya,Alanya,U Köşe,3,"Evet, zor lekeler var",1743 TL
+İstanbul,Beşiktaş,Üçlü,5,"Evet, zor lekeler var",1692 TL
+Ankara,Etimesgut,Üçlü,4,"Hayır, genel temizlik yeterli",1931 TL
+İzmir,Buca,L Köşe,3,"Evet, zor lekeler var",590 TL
+Ankara,Keçiören,L Köşe,5,"Hayır, genel temizlik yeterli",1839 TL
+İzmir,Karşıyaka,Üçlü,6,"Evet, zor lekeler var",1690 TL
+İzmir,Buca,İkili,2,"Evet, zor lekeler var",1856 TL
+İzmir,Karşıyaka,U Köşe,2,"Hayır, genel temizlik yeterli",2216 TL
+Ankara,Keçiören,Üçlü,6,"Evet, zor lekeler var",1604 TL
+Bursa,Nilüfer,İkili,3,"Evet, zor lekeler var",1589 TL
+Antalya,Alanya,İkili,1,"Hayır, genel temizlik yeterli",531 TL
+Antalya,Kepez,İkili,6,"Hayır, genel temizlik yeterli",1403 TL
+İstanbul,Kadıköy,İkili,1,"Evet, zor lekeler var",845 TL
+Bursa,Osmangazi,İkili,2,"Hayır, genel temizlik yeterli",2400 TL
+Antalya,Alanya,Tekli,5,"Evet, zor lekeler var",1544 TL
+Antalya,Kepez,L Köşe,4,"Hayır, genel temizlik yeterli",832 TL
+İstanbul,Kadıköy,Tekli,3,"Evet, zor lekeler var",1863 TL
+İzmir,Bornova,Tekli,6,"Hayır, genel temizlik yeterli",317 TL
+Ankara,Mamak,U Köşe,3,"Evet, zor lekeler var",1270 TL
+Antalya,Alanya,U Köşe,2,"Hayır, genel temizlik yeterli",1193 TL
+Antalya,Kepez,L Köşe,4,"Evet, zor lekeler var",1637 TL
+İzmir,Karşıyaka,U Köşe,4,"Evet, zor lekeler var",640 TL
+Antalya,Muratpaşa,U Köşe,4,"Hayır, genel temizlik yeterli",875 TL
+İstanbul,Beşiktaş,Tekli,2,"Hayır, genel temizlik yeterli",2303 TL
+Ankara,Mamak,U Köşe,3,"Evet, zor lekeler var",1877 TL
+Antalya,Kepez,U Köşe,5,"Hayır, genel temizlik yeterli",528 TL
+İzmir,Konak,Tekli,4,"Evet, zor lekeler var",1735 TL
+Antalya,Kepez,L Köşe,6,"Evet, zor lekeler var",1037 TL
+İstanbul,Beşiktaş,U Köşe,1,"Evet, zor lekeler var",1571 TL
+Bursa,Nilüfer,U Köşe,3,"Evet, zor lekeler var",319 TL
+İstanbul,Üsküdar,Tekli,6,"Hayır, genel temizlik yeterli",960 TL
+Bursa,Osmangazi,L Köşe,2,"Hayır, genel temizlik yeterli",1461 TL
+Antalya,Kepez,U Köşe,2,"Hayır, genel temizlik yeterli",673 TL
+İzmir,Karşıyaka,Üçlü,1,"Hayır, genel temizlik yeterli",946 TL
+İzmir,Konak,Tekli,5,"Evet, zor lekeler var",2393 TL
+Bursa,Osmangazi,U Köşe,4,"Hayır, genel temizlik yeterli",2237 TL
+Ankara,Keçiören,İkili,2,"Evet, zor lekeler var",1365 TL
+Bursa,Yıldırım,L Köşe,5,"Evet, zor lekeler var",1182 TL
+Ankara,Etimesgut,Tekli,4,"Hayır, genel temizlik yeterli",654 TL
+Bursa,Nilüfer,Tekli,2,"Evet, zor lekeler var",2247 TL
+Bursa,Osmangazi,İkili,1,"Hayır, genel temizlik yeterli",1546 TL
+İstanbul,Kadıköy,Tekli,5,"Evet, zor lekeler var",2258 TL
+İstanbul,Üsküdar,U Köşe,1,"Evet, zor lekeler var",575 TL
+Ankara,Mamak,Üçlü,4,"Evet, zor lekeler var",1244 TL
+Bursa,Nilüfer,Tekli,6,"Hayır, genel temizlik yeterli",1078 TL
+İstanbul,Üsküdar,L Köşe,5,"Hayır, genel temizlik yeterli",1073 TL
+Antalya,Alanya,U Köşe,2,"Evet, zor lekeler var",2322 TL
+Ankara,Keçiören,U Köşe,6,"Hayır, genel temizlik yeterli",1895 TL
+Bursa,Yıldırım,Üçlü,2,"Evet, zor lekeler var",1958 TL
+İzmir,Bornova,İkili,6,"Hayır, genel temizlik yeterli",1591 TL
+Ankara,Çankaya,L Köşe,3,"Evet, zor lekeler var",1590 TL
+Antalya,Alanya,L Köşe,4,"Evet, zor lekeler var",1997 TL
+İzmir,Konak,L Köşe,5,"Hayır, genel temizlik yeterli",1360 TL
+İzmir,Buca,L Köşe,3,"Evet, zor lekeler var",1939 TL
+Antalya,Alanya,Tekli,4,"Hayır, genel temizlik yeterli",1427 TL
+İstanbul,Bakırköy,Üçlü,6,"Evet, zor lekeler var",1270 TL
+İzmir,Karşıyaka,İkili,3,"Evet, zor lekeler var",1372 TL
+İstanbul,Üsküdar,Tekli,2,"Evet, zor lekeler var",1980 TL
+İstanbul,Beşiktaş,U Köşe,3,"Evet, zor lekeler var",623 TL
+İstanbul,Kadıköy,L Köşe,6,"Evet, zor lekeler var",776 TL
+Ankara,Etimesgut,L Köşe,5,"Evet, zor lekeler var",1933 TL
+Antalya,Alanya,İkili,6,"Evet, zor lekeler var",514 TL
+Antalya,Muratpaşa,İkili,5,"Evet, zor lekeler var",1266 TL
+Antalya,Alanya,Üçlü,3,"Evet, zor lekeler var",2293 TL
+Antalya,Muratpaşa,Tekli,3,"Hayır, genel temizlik yeterli",1236 TL
+Antalya,Muratpaşa,L Köşe,5,"Hayır, genel temizlik yeterli",303 TL
+Antalya,Muratpaşa,U Köşe,4,"Hayır, genel temizlik yeterli",1263 TL
+İzmir,Konak,U Köşe,6,"Evet, zor lekeler var",924 TL
+Bursa,Nilüfer,L Köşe,3,"Hayır, genel temizlik yeterli",1045 TL
+Bursa,Osmangazi,L Köşe,6,"Hayır, genel temizlik yeterli",1400 TL
+Bursa,Yıldırım,U Köşe,3,"Hayır, genel temizlik yeterli",2008 TL
+Ankara,Çankaya,Üçlü,5,"Evet, zor lekeler var",1954 TL
+Bursa,Yıldırım,Tekli,5,"Hayır, genel temizlik yeterli",626 TL
+Antalya,Alanya,Üçlü,4,"Evet, zor lekeler var",1447 TL
+Bursa,Osmangazi,U Köşe,1,"Evet, zor lekeler var",1666 TL
+Ankara,Çankaya,Üçlü,1,"Hayır, genel temizlik yeterli",1576 TL
+İstanbul,Üsküdar,L Köşe,5,"Hayır, genel temizlik yeterli",2356 TL
+İzmir,Bornova,U Köşe,4,"Hayır, genel temizlik yeterli",1340 TL
+Bursa,Nilüfer,L Köşe,3,"Hayır, genel temizlik yeterli",2337 TL
+Ankara,Etimesgut,U Köşe,6,"Hayır, genel temizlik yeterli",2257 TL
+İstanbul,Beşiktaş,U Köşe,2,"Evet, zor lekeler var",1392 TL
+İstanbul,Kadıköy,İkili,6,"Evet, zor lekeler var",2142 TL
+Antalya,Muratpaşa,İkili,4,"Evet, zor lekeler var",1642 TL
+Antalya,Alanya,Tekli,6,"Hayır, genel temizlik yeterli",607 TL
+Ankara,Mamak,İkili,5,"Evet, zor lekeler var",1935 TL
+Ankara,Çankaya,Tekli,1,"Hayır, genel temizlik yeterli",2243 TL
+Bursa,Nilüfer,İkili,1,"Evet, zor lekeler var",1174 TL
+Ankara,Etimesgut,İkili,6,"Evet, zor lekeler var",452 TL
+İzmir,Karşıyaka,İkili,4,"Hayır, genel temizlik yeterli",2293 TL
+Antalya,Muratpaşa,İkili,5,"Hayır, genel temizlik yeterli",936 TL
+Antalya,Kepez,Üçlü,5,"Evet, zor lekeler var",1817 TL
+Ankara,Keçiören,Tekli,5,"Hayır, genel temizlik yeterli",816 TL
+İstanbul,Bakırköy,Tekli,1,"Hayır, genel temizlik yeterli",1643 TL
+Ankara,Mamak,Tekli,1,"Evet, zor lekeler var",2323 TL
+Antalya,Muratpaşa,Üçlü,2,"Hayır, genel temizlik yeterli",960 TL
+Bursa,Yıldırım,İkili,1,"Evet, zor lekeler var",1455 TL
+Bursa,Yıldırım,İkili,2,"Evet, zor lekeler var",1288 TL
+Antalya,Kepez,İkili,6,"Evet, zor lekeler var",415 TL
+Antalya,Kepez,İkili,5,"Hayır, genel temizlik yeterli",951 TL
+Ankara,Etimesgut,U Köşe,6,"Hayır, genel temizlik yeterli",1655 TL
+Antalya,Muratpaşa,Üçlü,3,"Hayır, genel temizlik yeterli",2479 TL
+Ankara,Keçiören,Üçlü,3,"Evet, zor lekeler var",1395 TL
+Antalya,Muratpaşa,Tekli,1,"Evet, zor lekeler var",2371 TL
+İstanbul,Üsküdar,U Köşe,1,"Hayır, genel temizlik yeterli",1227 TL
+İzmir,Buca,L Köşe,3,"Evet, zor lekeler var",2390 TL
+Antalya,Kepez,U Köşe,4,"Hayır, genel temizlik yeterli",2426 TL
+Bursa,Yıldırım,İkili,3,"Evet, zor lekeler var",568 TL
+Bursa,Yıldırım,İkili,3,"Hayır, genel temizlik yeterli",519 TL
+İstanbul,Üsküdar,Üçlü,3,"Evet, zor lekeler var",1039 TL
+Ankara,Çankaya,L Köşe,3,"Evet, zor lekeler var",1959 TL
+Antalya,Kepez,L Köşe,5,"Hayır, genel temizlik yeterli",1114 TL
+Ankara,Etimesgut,İkili,5,"Hayır, genel temizlik yeterli",644 TL
+Ankara,Etimesgut,U Köşe,2,"Evet, zor lekeler var",1159 TL
+Ankara,Etimesgut,Üçlü,4,"Evet, zor lekeler var",1300 TL
+Bursa,Yıldırım,L Köşe,2,"Hayır, genel temizlik yeterli",1545 TL
+İstanbul,Beşiktaş,İkili,5,"Evet, zor lekeler var",1894 TL
+Antalya,Alanya,Tekli,5,"Evet, zor lekeler var",697 TL
+Bursa,Osmangazi,İkili,3,"Hayır, genel temizlik yeterli",491 TL
+Antalya,Muratpaşa,Tekli,2,"Hayır, genel temizlik yeterli",1727 TL
+İzmir,Karşıyaka,U Köşe,5,"Hayır, genel temizlik yeterli",825 TL
+İstanbul,Üsküdar,İkili,5,"Evet, zor lekeler var",574 TL
+İstanbul,Kadıköy,U Köşe,1,"Evet, zor lekeler var",1708 TL
+Ankara,Keçiören,U Köşe,5,"Evet, zor lekeler var",2435 TL
+İstanbul,Beşiktaş,L Köşe,1,"Hayır, genel temizlik yeterli",2296 TL
+Bursa,Nilüfer,U Köşe,1,"Hayır, genel temizlik yeterli",461 TL
+İzmir,Bornova,U Köşe,5,"Hayır, genel temizlik yeterli",2165 TL
+Antalya,Kepez,U Köşe,5,"Hayır, genel temizlik yeterli",318 TL
+Ankara,Çankaya,L Köşe,3,"Hayır, genel temizlik yeterli",1440 TL
+Bursa,Osmangazi,Üçlü,5,"Hayır, genel temizlik yeterli",1345 TL
+Antalya,Kepez,Tekli,5,"Hayır, genel temizlik yeterli",1909 TL
+İzmir,Karşıyaka,L Köşe,5,"Evet, zor lekeler var",962 TL
+Antalya,Alanya,İkili,4,"Evet, zor lekeler var",2219 TL
+Bursa,Nilüfer,İkili,2,"Hayır, genel temizlik yeterli",511 TL
+Ankara,Keçiören,Tekli,4,"Hayır, genel temizlik yeterli",2059 TL
+İzmir,Buca,U Köşe,5,"Hayır, genel temizlik yeterli",1989 TL
+Ankara,Etimesgut,Tekli,5,"Evet, zor lekeler var",433 TL
+Antalya,Muratpaşa,İkili,2,"Hayır, genel temizlik yeterli",2390 TL
+Bursa,Yıldırım,Üçlü,4,"Evet, zor lekeler var",606 TL
+Bursa,Yıldırım,Üçlü,6,"Hayır, genel temizlik yeterli",343 TL
+İzmir,Buca,İkili,1,"Hayır, genel temizlik yeterli",2278 TL
+Bursa,Nilüfer,L Köşe,5,"Hayır, genel temizlik yeterli",517 TL
+Ankara,Mamak,L Köşe,3,"Evet, zor lekeler var",2240 TL
+Ankara,Etimesgut,Üçlü,3,"Hayır, genel temizlik yeterli",2420 TL
+Ankara,Mamak,Tekli,6,"Hayır, genel temizlik yeterli",1158 TL
+İzmir,Bornova,İkili,3,"Hayır, genel temizlik yeterli",2447 TL
+İzmir,Karşıyaka,İkili,2,"Hayır, genel temizlik yeterli",1601 TL
+Antalya,Kepez,Üçlü,3,"Hayır, genel temizlik yeterli",1517 TL
+Ankara,Keçiören,İkili,4,"Hayır, genel temizlik yeterli",1221 TL
+Antalya,Muratpaşa,U Köşe,1,"Hayır, genel temizlik yeterli",1518 TL
+İstanbul,Üsküdar,U Köşe,6,"Hayır, genel temizlik yeterli",1949 TL
+Antalya,Muratpaşa,İkili,5,"Evet, zor lekeler var",1216 TL
+Ankara,Çankaya,U Köşe,6,"Hayır, genel temizlik yeterli",463 TL
+Antalya,Alanya,İkili,1,"Hayır, genel temizlik yeterli",1326 TL
+Ankara,Mamak,İkili,1,"Evet, zor lekeler var",1719 TL
+İstanbul,Üsküdar,L Köşe,4,"Hayır, genel temizlik yeterli",2223 TL
+Bursa,Osmangazi,Tekli,1,"Hayır, genel temizlik yeterli",1784 TL
+Ankara,Etimesgut,Üçlü,5,"Hayır, genel temizlik yeterli",384 TL
+İzmir,Bornova,Üçlü,3,"Hayır, genel temizlik yeterli",964 TL
+Antalya,Alanya,İkili,1,"Hayır, genel temizlik yeterli",1550 TL
+İstanbul,Bakırköy,U Köşe,2,"Hayır, genel temizlik yeterli",1185 TL
+İzmir,Konak,İkili,6,"Evet, zor lekeler var",2026 TL
+İzmir,Karşıyaka,U Köşe,1,"Hayır, genel temizlik yeterli",1370 TL
+İzmir,Bornova,U Köşe,4,"Hayır, genel temizlik yeterli",1998 TL
+Ankara,Keçiören,Üçlü,4,"Hayır, genel temizlik yeterli",2180 TL
+Antalya,Muratpaşa,Tekli,6,"Hayır, genel temizlik yeterli",592 TL
+Bursa,Nilüfer,İkili,1,"Hayır, genel temizlik yeterli",1347 TL
+İstanbul,Üsküdar,İkili,3,"Evet, zor lekeler var",757 TL
+İstanbul,Üsküdar,İkili,2,"Evet, zor lekeler var",1658 TL
+Bursa,Yıldırım,Üçlü,5,"Evet, zor lekeler var",691 TL
+İzmir,Karşıyaka,Tekli,3,"Evet, zor lekeler var",2169 TL
+İzmir,Konak,Üçlü,1,"Evet, zor lekeler var",902 TL
+İzmir,Bornova,U Köşe,3,"Evet, zor lekeler var",1201 TL
+İstanbul,Bakırköy,Tekli,4,"Hayır, genel temizlik yeterli",1979 TL
+Ankara,Çankaya,U Köşe,2,"Hayır, genel temizlik yeterli",1301 TL
+Ankara,Keçiören,Tekli,3,"Evet, zor lekeler var",1455 TL
+Ankara,Keçiören,Üçlü,4,"Hayır, genel temizlik yeterli",838 TL
+İstanbul,Bakırköy,Tekli,6,"Evet, zor lekeler var",1504 TL
+İstanbul,Beşiktaş,Üçlü,3,"Hayır, genel temizlik yeterli",501 TL
+Bursa,Osmangazi,İkili,3,"Hayır, genel temizlik yeterli",1444 TL
+İstanbul,Bakırköy,Tekli,3,"Hayır, genel temizlik yeterli",2403 TL
+Antalya,Kepez,Üçlü,1,"Hayır, genel temizlik yeterli",2165 TL
+İstanbul,Üsküdar,İkili,1,"Hayır, genel temizlik yeterli",1073 TL
+Antalya,Muratpaşa,İkili,5,"Hayır, genel temizlik yeterli",1961 TL
+Antalya,Alanya,İkili,5,"Evet, zor lekeler var",1167 TL
+Antalya,Kepez,U Köşe,4,"Evet, zor lekeler var",1457 TL
+İstanbul,Üsküdar,İkili,3,"Hayır, genel temizlik yeterli",2363 TL
+Ankara,Etimesgut,U Köşe,5,"Evet, zor lekeler var",746 TL
+İzmir,Buca,Üçlü,4,"Evet, zor lekeler var",1566 TL
+Bursa,Nilüfer,U Köşe,2,"Evet, zor lekeler var",1435 TL
+Bursa,Yıldırım,Tekli,3,"Hayır, genel temizlik yeterli",1146 TL
+Antalya,Alanya,İkili,2,"Evet, zor lekeler var",2201 TL
+Ankara,Çankaya,L Köşe,5,"Evet, zor lekeler var",608 TL
+İzmir,Bornova,Tekli,6,"Hayır, genel temizlik yeterli",2485 TL
+İzmir,Konak,İkili,1,"Evet, zor lekeler var",2383 TL
+İzmir,Konak,U Köşe,2,"Hayır, genel temizlik yeterli",2272 TL
+İzmir,Buca,L Köşe,5,"Evet, zor lekeler var",2367 TL
+Antalya,Alanya,İkili,1,"Evet, zor lekeler var",1094 TL
+İstanbul,Bakırköy,Üçlü,6,"Hayır, genel temizlik yeterli",537 TL
+Bursa,Yıldırım,Üçlü,4,"Evet, zor lekeler var",1251 TL
+Antalya,Alanya,L Köşe,5,"Hayır, genel temizlik yeterli",1016 TL
+İzmir,Karşıyaka,Tekli,6,"Hayır, genel temizlik yeterli",1191 TL
+Bursa,Yıldırım,L Köşe,4,"Hayır, genel temizlik yeterli",856 TL
+Antalya,Alanya,Üçlü,4,"Evet, zor lekeler var",313 TL
+Ankara,Mamak,İkili,6,"Hayır, genel temizlik yeterli",523 TL
+İstanbul,Kadıköy,Üçlü,2,"Hayır, genel temizlik yeterli",1519 TL
+İzmir,Bornova,İkili,2,"Hayır, genel temizlik yeterli",2158 TL
+Ankara,Çankaya,Üçlü,3,"Hayır, genel temizlik yeterli",2472 TL
+Antalya,Muratpaşa,U Köşe,5,"Hayır, genel temizlik yeterli",2178 TL
+Antalya,Alanya,Üçlü,4,"Hayır, genel temizlik yeterli",2314 TL
+İzmir,Konak,L Köşe,2,"Hayır, genel temizlik yeterli",1760 TL
+Antalya,Alanya,Üçlü,1,"Hayır, genel temizlik yeterli",2329 TL
+Ankara,Keçiören,U Köşe,1,"Evet, zor lekeler var",2410 TL
+İzmir,Bornova,Üçlü,1,"Evet, zor lekeler var",2123 TL
+Bursa,Nilüfer,Tekli,6,"Evet, zor lekeler var",501 TL
+Bursa,Nilüfer,U Köşe,6,"Evet, zor lekeler var",1085 TL
+Bursa,Nilüfer,L Köşe,6,"Hayır, genel temizlik yeterli",2220 TL
+Antalya,Kepez,İkili,3,"Evet, zor lekeler var",1442 TL
+İstanbul,Beşiktaş,L Köşe,6,"Evet, zor lekeler var",1525 TL
+Ankara,Keçiören,U Köşe,3,"Hayır, genel temizlik yeterli",1030 TL
+Bursa,Nilüfer,İkili,6,"Hayır, genel temizlik yeterli",316 TL
+Ankara,Etimesgut,Tekli,3,"Evet, zor lekeler var",661 TL
+Antalya,Alanya,İkili,5,"Hayır, genel temizlik yeterli",1236 TL
+Ankara,Keçiören,İkili,5,"Hayır, genel temizlik yeterli",585 TL
+Ankara,Etimesgut,Tekli,4,"Evet, zor lekeler var",796 TL
+Antalya,Alanya,İkili,3,"Evet, zor lekeler var",2049 TL
+Antalya,Alanya,İkili,2,"Evet, zor lekeler var",1899 TL
+İstanbul,Üsküdar,U Köşe,5,"Evet, zor lekeler var",1481 TL
+Antalya,Alanya,L Köşe,4,"Evet, zor lekeler var",520 TL
+Ankara,Keçiören,Üçlü,6,"Hayır, genel temizlik yeterli",824 TL
+Bursa,Nilüfer,Üçlü,1,"Evet, zor lekeler var",1002 TL
+İstanbul,Üsküdar,Tekli,5,"Hayır, genel temizlik yeterli",1351 TL
+Ankara,Mamak,L Köşe,1,"Evet, zor lekeler var",2281 TL
+İstanbul,Kadıköy,U Köşe,4,"Hayır, genel temizlik yeterli",606 TL
+Bursa,Nilüfer,U Köşe,1,"Evet, zor lekeler var",1564 TL
+Bursa,Nilüfer,Tekli,2,"Hayır, genel temizlik yeterli",2117 TL
+Bursa,Yıldırım,U Köşe,3,"Evet, zor lekeler var",1697 TL
+İzmir,Karşıyaka,Tekli,4,"Hayır, genel temizlik yeterli",1273 TL
+İstanbul,Beşiktaş,Tekli,3,"Evet, zor lekeler var",810 TL
+İzmir,Konak,L Köşe,2,"Evet, zor lekeler var",1148 TL
+Bursa,Nilüfer,Üçlü,3,"Hayır, genel temizlik yeterli",1490 TL
+Bursa,Nilüfer,L Köşe,2,"Hayır, genel temizlik yeterli",1020 TL
+Antalya,Kepez,Üçlü,2,"Evet, zor lekeler var",750 TL
+İstanbul,Üsküdar,L Köşe,4,"Hayır, genel temizlik yeterli",1256 TL
+İstanbul,Üsküdar,Üçlü,2,"Hayır, genel temizlik yeterli",2042 TL
+İstanbul,Üsküdar,U Köşe,2,"Hayır, genel temizlik yeterli",1578 TL
+Antalya,Alanya,Üçlü,4,"Evet, zor lekeler var",667 TL
+Bursa,Osmangazi,L Köşe,3,"Hayır, genel temizlik yeterli",2321 TL
+Bursa,Osmangazi,L Köşe,6,"Evet, zor lekeler var",2060 TL
+Antalya,Kepez,U Köşe,1,"Hayır, genel temizlik yeterli",1880 TL
+Ankara,Etimesgut,İkili,6,"Evet, zor lekeler var",1321 TL
+Bursa,Nilüfer,L Köşe,1,"Evet, zor lekeler var",1529 TL
+Antalya,Muratpaşa,Tekli,6,"Evet, zor lekeler var",1745 TL
+Ankara,Çankaya,L Köşe,2,"Hayır, genel temizlik yeterli",1826 TL
+Bursa,Nilüfer,Tekli,1,"Evet, zor lekeler var",2325 TL
+Antalya,Muratpaşa,U Köşe,2,"Hayır, genel temizlik yeterli",2457 TL
+Ankara,Çankaya,İkili,5,"Hayır, genel temizlik yeterli",738 TL
+Ankara,Keçiören,L Köşe,5,"Hayır, genel temizlik yeterli",2133 TL
+Antalya,Kepez,Tekli,3,"Hayır, genel temizlik yeterli",1802 TL
+İzmir,Karşıyaka,U Köşe,2,"Hayır, genel temizlik yeterli",820 TL
+İzmir,Karşıyaka,U Köşe,5,"Evet, zor lekeler var",915 TL
+Antalya,Alanya,İkili,4,"Hayır, genel temizlik yeterli",2134 TL
+İzmir,Karşıyaka,İkili,6,"Evet, zor lekeler var",534 TL
+İstanbul,Bakırköy,L Köşe,2,"Hayır, genel temizlik yeterli",1742 TL
+Ankara,Etimesgut,U Köşe,3,"Evet, zor lekeler var",607 TL
+Bursa,Nilüfer,U Köşe,2,"Hayır, genel temizlik yeterli",1166 TL
+Ankara,Çankaya,Tekli,5,"Evet, zor lekeler var",1598 TL
+Ankara,Keçiören,U Köşe,6,"Hayır, genel temizlik yeterli",1295 TL
+İstanbul,Bakırköy,Tekli,5,"Hayır, genel temizlik yeterli",1384 TL
+Ankara,Mamak,L Köşe,3,"Hayır, genel temizlik yeterli",1464 TL
+İzmir,Bornova,İkili,1,"Evet, zor lekeler var",303 TL
+Antalya,Kepez,Tekli,4,"Hayır, genel temizlik yeterli",1229 TL
+Antalya,Alanya,Üçlü,6,"Hayır, genel temizlik yeterli",2470 TL
+Ankara,Etimesgut,İkili,5,"Evet, zor lekeler var",1815 TL
+İzmir,Buca,Üçlü,1,"Hayır, genel temizlik yeterli",975 TL
+Antalya,Kepez,U Köşe,2,"Evet, zor lekeler var",1051 TL
+İstanbul,Beşiktaş,Tekli,2,"Evet, zor lekeler var",1568 TL
+İstanbul,Kadıköy,L Köşe,5,"Evet, zor lekeler var",1374 TL
+Antalya,Kepez,Tekli,5,"Evet, zor lekeler var",1919 TL
+Ankara,Çankaya,L Köşe,5,"Evet, zor lekeler var",1513 TL
+Bursa,Nilüfer,Üçlü,6,"Evet, zor lekeler var",2260 TL
+İzmir,Konak,Üçlü,2,"Evet, zor lekeler var",1353 TL
+Ankara,Keçiören,U Köşe,3,"Evet, zor lekeler var",910 TL
+İstanbul,Üsküdar,İkili,6,"Evet, zor lekeler var",477 TL
+İstanbul,Beşiktaş,U Köşe,5,"Evet, zor lekeler var",315 TL
+İzmir,Bornova,L Köşe,5,"Evet, zor lekeler var",1892 TL
+Bursa,Nilüfer,Üçlü,1,"Evet, zor lekeler var",1186 TL
+Ankara,Keçiören,Üçlü,5,"Hayır, genel temizlik yeterli",1572 TL
+İzmir,Karşıyaka,L Köşe,6,"Hayır, genel temizlik yeterli",2062 TL
+İzmir,Bornova,Tekli,4,"Evet, zor lekeler var",2134 TL
+Ankara,Keçiören,Üçlü,5,"Hayır, genel temizlik yeterli",2467 TL
+Ankara,Mamak,Üçlü,6,"Hayır, genel temizlik yeterli",2075 TL
+İzmir,Buca,İkili,2,"Evet, zor lekeler var",1851 TL
+Bursa,Osmangazi,İkili,1,"Evet, zor lekeler var",1272 TL
+İstanbul,Bakırköy,L Köşe,2,"Hayır, genel temizlik yeterli",1727 TL
+Ankara,Keçiören,U Köşe,4,"Evet, zor lekeler var",1891 TL
+İzmir,Bornova,U Köşe,2,"Hayır, genel temizlik yeterli",2102 TL
+Ankara,Çankaya,Üçlü,2,"Hayır, genel temizlik yeterli",681 TL
+İstanbul,Üsküdar,U Köşe,1,"Evet, zor lekeler var",2261 TL
+İstanbul,Bakırköy,Tekli,3,"Evet, zor lekeler var",390 TL
+Ankara,Mamak,Üçlü,6,"Evet, zor lekeler var",399 TL
+İzmir,Bornova,İkili,2,"Hayır, genel temizlik yeterli",1787 TL
+Antalya,Muratpaşa,Üçlü,6,"Evet, zor lekeler var",851 TL
+İstanbul,Beşiktaş,İkili,1,"Evet, zor lekeler var",987 TL
+Antalya,Kepez,U Köşe,3,"Evet, zor lekeler var",1608 TL
+Bursa,Nilüfer,İkili,1,"Evet, zor lekeler var",1671 TL
+Antalya,Muratpaşa,Üçlü,6,"Hayır, genel temizlik yeterli",1358 TL
+Antalya,Alanya,L Köşe,6,"Evet, zor lekeler var",995 TL
+Ankara,Mamak,Tekli,3,"Evet, zor lekeler var",911 TL
+Bursa,Yıldırım,U Köşe,4,"Evet, zor lekeler var",577 TL
+İstanbul,Üsküdar,U Köşe,5,"Hayır, genel temizlik yeterli",1722 TL
+Bursa,Nilüfer,Tekli,2,"Hayır, genel temizlik yeterli",2243 TL
+İstanbul,Bakırköy,Üçlü,2,"Evet, zor lekeler var",936 TL
+Ankara,Mamak,İkili,3,"Evet, zor lekeler var",379 TL
+Bursa,Yıldırım,Tekli,2,"Hayır, genel temizlik yeterli",2219 TL
+Bursa,Nilüfer,Üçlü,5,"Evet, zor lekeler var",761 TL
+İstanbul,Bakırköy,U Köşe,6,"Evet, zor lekeler var",1324 TL
+Bursa,Yıldırım,Tekli,3,"Evet, zor lekeler var",1316 TL
+Ankara,Çankaya,İkili,6,"Hayır, genel temizlik yeterli",1482 TL
+İzmir,Karşıyaka,Tekli,3,"Hayır, genel temizlik yeterli",1627 TL
+İstanbul,Bakırköy,Tekli,3,"Evet, zor lekeler var",404 TL
+İzmir,Bornova,U Köşe,6,"Evet, zor lekeler var",800 TL
+İzmir,Bornova,U Köşe,3,"Evet, zor lekeler var",1392 TL
+İstanbul,Kadıköy,İkili,5,"Evet, zor lekeler var",1080 TL
+Antalya,Kepez,Üçlü,4,"Hayır, genel temizlik yeterli",1044 TL
+Bursa,Yıldırım,Üçlü,2,"Evet, zor lekeler var",1384 TL
+Antalya,Kepez,Üçlü,3,"Hayır, genel temizlik yeterli",731 TL
+İzmir,Buca,L Köşe,2,"Evet, zor lekeler var",637 TL
+İzmir,Buca,U Köşe,1,"Evet, zor lekeler var",675 TL
+İzmir,Karşıyaka,Tekli,4,"Hayır, genel temizlik yeterli",594 TL
+Bursa,Nilüfer,Üçlü,3,"Hayır, genel temizlik yeterli",368 TL
+Bursa,Osmangazi,U Köşe,3,"Evet, zor lekeler var",1440 TL
+İzmir,Karşıyaka,İkili,6,"Evet, zor lekeler var",1065 TL
+İstanbul,Beşiktaş,Tekli,5,"Hayır, genel temizlik yeterli",1237 TL
+İzmir,Buca,Üçlü,2,"Hayır, genel temizlik yeterli",1407 TL
+İstanbul,Beşiktaş,L Köşe,2,"Evet, zor lekeler var",339 TL
+Antalya,Muratpaşa,U Köşe,2,"Hayır, genel temizlik yeterli",1391 TL
+Ankara,Mamak,İkili,3,"Evet, zor lekeler var",2469 TL
+Ankara,Etimesgut,U Köşe,3,"Hayır, genel temizlik yeterli",1420 TL
+Bursa,Osmangazi,U Köşe,3,"Evet, zor lekeler var",1484 TL
+Antalya,Muratpaşa,Tekli,2,"Hayır, genel temizlik yeterli",1268 TL
+İstanbul,Kadıköy,İkili,6,"Hayır, genel temizlik yeterli",1821 TL
+Bursa,Osmangazi,L Köşe,6,"Hayır, genel temizlik yeterli",2390 TL
+Ankara,Çankaya,L Köşe,2,"Evet, zor lekeler var",1860 TL
+Ankara,Çankaya,Tekli,3,"Evet, zor lekeler var",2091 TL
+İstanbul,Kadıköy,U Köşe,4,"Hayır, genel temizlik yeterli",2368 TL
+Antalya,Kepez,L Köşe,3,"Evet, zor lekeler var",1027 TL
+Ankara,Mamak,Üçlü,5,"Evet, zor lekeler var",2189 TL
+Antalya,Alanya,İkili,1,"Hayır, genel temizlik yeterli",1137 TL
+Ankara,Mamak,U Köşe,3,"Evet, zor lekeler var",2131 TL
+Bursa,Yıldırım,L Köşe,2,"Hayır, genel temizlik yeterli",1004 TL
+Bursa,Yıldırım,Üçlü,4,"Hayır, genel temizlik yeterli",599 TL
+Bursa,Osmangazi,İkili,1,"Hayır, genel temizlik yeterli",1448 TL
+Antalya,Kepez,Tekli,4,"Evet, zor lekeler var",1428 TL
+İstanbul,Kadıköy,Tekli,1,"Hayır, genel temizlik yeterli",635 TL
+İzmir,Karşıyaka,L Köşe,6,"Evet, zor lekeler var",411 TL
+İzmir,Buca,Üçlü,4,"Evet, zor lekeler var",1863 TL
+Ankara,Çankaya,İkili,3,"Evet, zor lekeler var",1879 TL
+Antalya,Alanya,L Köşe,1,"Hayır, genel temizlik yeterli",589 TL
+İzmir,Konak,Tekli,4,"Hayır, genel temizlik yeterli",827 TL
+Antalya,Muratpaşa,Üçlü,5,"Hayır, genel temizlik yeterli",470 TL
+Antalya,Alanya,İkili,6,"Evet, zor lekeler var",2007 TL
+İzmir,Konak,U Köşe,4,"Hayır, genel temizlik yeterli",1314 TL
+Antalya,Muratpaşa,İkili,3,"Evet, zor lekeler var",1636 TL
+Antalya,Muratpaşa,İkili,6,"Evet, zor lekeler var",519 TL
+İzmir,Buca,Tekli,4,"Evet, zor lekeler var",1519 TL
+Ankara,Etimesgut,L Köşe,3,"Hayır, genel temizlik yeterli",2177 TL
+İstanbul,Kadıköy,İkili,3,"Hayır, genel temizlik yeterli",466 TL
+İstanbul,Kadıköy,U Köşe,4,"Hayır, genel temizlik yeterli",380 TL
+Bursa,Osmangazi,U Köşe,4,"Hayır, genel temizlik yeterli",1294 TL
+Bursa,Yıldırım,U Köşe,5,"Evet, zor lekeler var",545 TL
+Bursa,Osmangazi,Tekli,5,"Hayır, genel temizlik yeterli",1698 TL
+İstanbul,Kadıköy,U Köşe,5,"Hayır, genel temizlik yeterli",411 TL
+Antalya,Kepez,U Köşe,2,"Evet, zor lekeler var",400 TL
+Bursa,Osmangazi,L Köşe,2,"Evet, zor lekeler var",302 TL
+İstanbul,Bakırköy,U Köşe,6,"Evet, zor lekeler var",1172 TL
+Ankara,Mamak,U Köşe,1,"Hayır, genel temizlik yeterli",2126 TL
+Antalya,Muratpaşa,Üçlü,6,"Evet, zor lekeler var",1671 TL
+Antalya,Muratpaşa,Üçlü,6,"Hayır, genel temizlik yeterli",1458 TL
+İzmir,Buca,L Köşe,2,"Hayır, genel temizlik yeterli",1252 TL
+İzmir,Konak,U Köşe,4,"Hayır, genel temizlik yeterli",1068 TL
+İzmir,Bornova,U Köşe,4,"Evet, zor lekeler var",1721 TL
+Bursa,Osmangazi,L Köşe,3,"Evet, zor lekeler var",899 TL
+İstanbul,Bakırköy,U Köşe,3,"Hayır, genel temizlik yeterli",2000 TL
+İzmir,Konak,İkili,2,"Hayır, genel temizlik yeterli",1327 TL
+İstanbul,Bakırköy,U Köşe,4,"Evet, zor lekeler var",1025 TL
+Ankara,Etimesgut,Tekli,2,"Hayır, genel temizlik yeterli",892 TL
+İstanbul,Beşiktaş,L Köşe,5,"Evet, zor lekeler var",1500 TL
+İzmir,Buca,L Köşe,5,"Evet, zor lekeler var",1336 TL
+Antalya,Alanya,İkili,2,"Evet, zor lekeler var",1473 TL
+Bursa,Nilüfer,Üçlü,6,"Evet, zor lekeler var",1061 TL
+İstanbul,Üsküdar,İkili,5,"Evet, zor lekeler var",999 TL
+Antalya,Kepez,L Köşe,2,"Evet, zor lekeler var",2459 TL
+Antalya,Kepez,Tekli,2,"Hayır, genel temizlik yeterli",1957 TL
+İzmir,Bornova,U Köşe,5,"Evet, zor lekeler var",428 TL
+İzmir,Karşıyaka,L Köşe,6,"Evet, zor lekeler var",2351 TL
+Bursa,Nilüfer,Üçlü,4,"Hayır, genel temizlik yeterli",1526 TL
+Ankara,Keçiören,Tekli,1,"Hayır, genel temizlik yeterli",2114 TL
+Antalya,Muratpaşa,Üçlü,1,"Hayır, genel temizlik yeterli",1059 TL
+İzmir,Konak,Tekli,4,"Hayır, genel temizlik yeterli",1285 TL
+Bursa,Nilüfer,U Köşe,6,"Evet, zor lekeler var",1586 TL
+Ankara,Keçiören,İkili,1,"Evet, zor lekeler var",1205 TL
+Ankara,Çankaya,L Köşe,2,"Evet, zor lekeler var",650 TL
+Antalya,Kepez,Üçlü,4,"Evet, zor lekeler var",2252 TL
+İzmir,Karşıyaka,L Köşe,4,"Hayır, genel temizlik yeterli",641 TL
+Bursa,Yıldırım,İkili,2,"Hayır, genel temizlik yeterli",2395 TL
+Ankara,Mamak,L Köşe,2,"Evet, zor lekeler var",475 TL
+İstanbul,Beşiktaş,U Köşe,4,"Evet, zor lekeler var",2412 TL
+İzmir,Bornova,Tekli,5,"Hayır, genel temizlik yeterli",2314 TL
+İzmir,Bornova,U Köşe,4,"Hayır, genel temizlik yeterli",889 TL
+Antalya,Alanya,İkili,6,"Hayır, genel temizlik yeterli",2268 TL
+Antalya,Muratpaşa,L Köşe,1,"Hayır, genel temizlik yeterli",2451 TL
+İstanbul,Üsküdar,L Köşe,6,"Hayır, genel temizlik yeterli",307 TL
+Antalya,Alanya,L Köşe,5,"Hayır, genel temizlik yeterli",1679 TL
+İstanbul,Bakırköy,L Köşe,2,"Evet, zor lekeler var",2212 TL
+İzmir,Karşıyaka,U Köşe,6,"Hayır, genel temizlik yeterli",2476 TL
+İstanbul,Bakırköy,L Köşe,6,"Evet, zor lekeler var",2321 TL
+İzmir,Buca,Üçlü,4,"Evet, zor lekeler var",1908 TL
+İstanbul,Beşiktaş,Tekli,2,"Hayır, genel temizlik yeterli",708 TL
+Bursa,Yıldırım,İkili,5,"Hayır, genel temizlik yeterli",1864 TL
+Ankara,Çankaya,İkili,2,"Evet, zor lekeler var",1015 TL
+İzmir,Karşıyaka,İkili,1,"Evet, zor lekeler var",2401 TL
+İzmir,Buca,U Köşe,3,"Hayır, genel temizlik yeterli",927 TL
+İzmir,Karşıyaka,U Köşe,2,"Hayır, genel temizlik yeterli",452 TL
+Antalya,Kepez,L Köşe,2,"Evet, zor lekeler var",1885 TL
+İzmir,Bornova,Tekli,6,"Hayır, genel temizlik yeterli",500 TL
+Bursa,Osmangazi,İkili,1,"Evet, zor lekeler var",1055 TL
+Antalya,Kepez,İkili,6,"Hayır, genel temizlik yeterli",1132 TL
+Antalya,Muratpaşa,L Köşe,1,"Hayır, genel temizlik yeterli",1287 TL
+İzmir,Bornova,İkili,6,"Evet, zor lekeler var",1037 TL
+İstanbul,Üsküdar,Tekli,6,"Evet, zor lekeler var",1739 TL
+Antalya,Alanya,İkili,2,"Evet, zor lekeler var",668 TL
+İstanbul,Beşiktaş,L Köşe,4,"Hayır, genel temizlik yeterli",1044 TL
+İzmir,Bornova,İkili,3,"Hayır, genel temizlik yeterli",916 TL
+Ankara,Çankaya,U Köşe,4,"Hayır, genel temizlik yeterli",779 TL
+İstanbul,Üsküdar,Tekli,5,"Evet, zor lekeler var",1016 TL
+Antalya,Muratpaşa,Tekli,6,"Evet, zor lekeler var",1376 TL
+Antalya,Muratpaşa,İkili,6,"Evet, zor lekeler var",2367 TL
+Antalya,Kepez,U Köşe,3,"Hayır, genel temizlik yeterli",1251 TL
+Bursa,Nilüfer,U Köşe,4,"Hayır, genel temizlik yeterli",1113 TL
+İstanbul,Beşiktaş,İkili,1,"Hayır, genel temizlik yeterli",1536 TL
+Bursa,Nilüfer,U Köşe,3,"Evet, zor lekeler var",2194 TL
+İzmir,Buca,İkili,2,"Evet, zor lekeler var",930 TL
+İstanbul,Üsküdar,Tekli,1,"Evet, zor lekeler var",808 TL
+İzmir,Bornova,Üçlü,4,"Evet, zor lekeler var",1236 TL
+Antalya,Alanya,Üçlü,4,"Evet, zor lekeler var",357 TL
+İzmir,Bornova,İkili,1,"Hayır, genel temizlik yeterli",2416 TL
+Bursa,Yıldırım,L Köşe,4,"Hayır, genel temizlik yeterli",1956 TL
+Antalya,Muratpaşa,Tekli,1,"Hayır, genel temizlik yeterli",1788 TL
+Antalya,Muratpaşa,Üçlü,3,"Evet, zor lekeler var",1276 TL
+Ankara,Mamak,L Köşe,6,"Evet, zor lekeler var",1998 TL
+Ankara,Çankaya,İkili,2,"Evet, zor lekeler var",1370 TL
+Antalya,Muratpaşa,Tekli,4,"Hayır, genel temizlik yeterli",782 TL
+İstanbul,Bakırköy,Tekli,5,"Evet, zor lekeler var",2489 TL
+İstanbul,Bakırköy,Üçlü,4,"Evet, zor lekeler var",2356 TL
+İstanbul,Kadıköy,Üçlü,6,"Evet, zor lekeler var",1049 TL
+Bursa,Yıldırım,L Köşe,4,"Hayır, genel temizlik yeterli",453 TL
+İstanbul,Beşiktaş,İkili,6,"Evet, zor lekeler var",1589 TL
+Ankara,Keçiören,Üçlü,1,"Hayır, genel temizlik yeterli",1432 TL
+Ankara,Mamak,Tekli,1,"Hayır, genel temizlik yeterli",1543 TL
+Antalya,Muratpaşa,U Köşe,4,"Hayır, genel temizlik yeterli",1092 TL
+Antalya,Muratpaşa,L Köşe,5,"Evet, zor lekeler var",1105 TL
+İstanbul,Üsküdar,U Köşe,3,"Evet, zor lekeler var",522 TL
+Bursa,Yıldırım,L Köşe,2,"Evet, zor lekeler var",650 TL
+Bursa,Nilüfer,L Köşe,6,"Evet, zor lekeler var",758 TL
+İzmir,Bornova,İkili,4,"Hayır, genel temizlik yeterli",1749 TL
+Ankara,Mamak,U Köşe,5,"Hayır, genel temizlik yeterli",1442 TL
+Ankara,Etimesgut,Üçlü,1,"Hayır, genel temizlik yeterli",418 TL
+Ankara,Etimesgut,Üçlü,4,"Evet, zor lekeler var",941 TL
+Ankara,Keçiören,Tekli,5,"Evet, zor lekeler var",1033 TL
+İstanbul,Kadıköy,Üçlü,2,"Evet, zor lekeler var",2278 TL
+İstanbul,Bakırköy,Üçlü,1,"Evet, zor lekeler var",1125 TL
+İstanbul,Üsküdar,Tekli,5,"Evet, zor lekeler var",2405 TL
+Ankara,Etimesgut,İkili,2,"Evet, zor lekeler var",2070 TL
+Ankara,Etimesgut,U Köşe,4,"Hayır, genel temizlik yeterli",500 TL
+İstanbul,Üsküdar,U Köşe,3,"Hayır, genel temizlik yeterli",317 TL
+Bursa,Yıldırım,L Köşe,6,"Evet, zor lekeler var",1552 TL
+Antalya,Kepez,L Köşe,5,"Hayır, genel temizlik yeterli",1436 TL
+Ankara,Keçiören,Üçlü,4,"Evet, zor lekeler var",1099 TL
+Ankara,Etimesgut,Tekli,1,"Hayır, genel temizlik yeterli",2115 TL
+Ankara,Çankaya,İkili,5,"Hayır, genel temizlik yeterli",1467 TL
+Ankara,Keçiören,U Köşe,5,"Hayır, genel temizlik yeterli",357 TL
+Bursa,Osmangazi,Üçlü,1,"Evet, zor lekeler var",418 TL
+Antalya,Muratpaşa,İkili,3,"Hayır, genel temizlik yeterli",2020 TL
+Ankara,Keçiören,L Köşe,6,"Evet, zor lekeler var",790 TL
+Bursa,Nilüfer,L Köşe,5,"Evet, zor lekeler var",2173 TL
+İzmir,Konak,L Köşe,3,"Evet, zor lekeler var",2416 TL
+Bursa,Nilüfer,Üçlü,5,"Evet, zor lekeler var",1273 TL
+Antalya,Kepez,Tekli,4,"Hayır, genel temizlik yeterli",708 TL
+Antalya,Kepez,İkili,5,"Evet, zor lekeler var",1132 TL
+İzmir,Bornova,İkili,5,"Hayır, genel temizlik yeterli",933 TL
+İstanbul,Kadıköy,İkili,2,"Evet, zor lekeler var",2486 TL
+Antalya,Kepez,Üçlü,5,"Evet, zor lekeler var",360 TL
+İzmir,Karşıyaka,Tekli,4,"Evet, zor lekeler var",1165 TL
+İstanbul,Beşiktaş,Tekli,1,"Evet, zor lekeler var",2111 TL
+İstanbul,Kadıköy,L Köşe,4,"Hayır, genel temizlik yeterli",2108 TL
+Antalya,Kepez,Üçlü,4,"Evet, zor lekeler var",993 TL
+İzmir,Buca,L Köşe,1,"Evet, zor lekeler var",784 TL
+Antalya,Muratpaşa,İkili,5,"Evet, zor lekeler var",2375 TL
+İstanbul,Üsküdar,L Köşe,1,"Evet, zor lekeler var",1658 TL
+Antalya,Alanya,Üçlü,1,"Hayır, genel temizlik yeterli",1308 TL
+Antalya,Kepez,L Köşe,4,"Hayır, genel temizlik yeterli",1617 TL
+Antalya,Muratpaşa,U Köşe,3,"Evet, zor lekeler var",703 TL
+Ankara,Mamak,L Köşe,1,"Evet, zor lekeler var",2480 TL
+İzmir,Bornova,Tekli,6,"Hayır, genel temizlik yeterli",1686 TL
+Ankara,Mamak,Tekli,3,"Hayır, genel temizlik yeterli",2288 TL
+Antalya,Alanya,U Köşe,5,"Hayır, genel temizlik yeterli",1593 TL
+Ankara,Çankaya,L Köşe,6,"Evet, zor lekeler var",2421 TL
+Bursa,Nilüfer,Üçlü,3,"Evet, zor lekeler var",1698 TL
+Antalya,Muratpaşa,L Köşe,1,"Evet, zor lekeler var",1093 TL
+İzmir,Buca,Tekli,5,"Evet, zor lekeler var",1386 TL
+İzmir,Karşıyaka,Tekli,5,"Evet, zor lekeler var",2263 TL
+İzmir,Konak,Tekli,5,"Hayır, genel temizlik yeterli",1058 TL
+İzmir,Konak,U Köşe,2,"Hayır, genel temizlik yeterli",2363 TL
+İzmir,Buca,İkili,6,"Evet, zor lekeler var",2450 TL
+Bursa,Osmangazi,U Köşe,4,"Hayır, genel temizlik yeterli",424 TL
+Antalya,Kepez,Üçlü,1,"Hayır, genel temizlik yeterli",790 TL
+İstanbul,Üsküdar,L Köşe,1,"Evet, zor lekeler var",1732 TL
+Antalya,Alanya,Üçlü,3,"Evet, zor lekeler var",2257 TL
+Ankara,Çankaya,L Köşe,1,"Evet, zor lekeler var",342 TL
+Bursa,Osmangazi,U Köşe,3,"Hayır, genel temizlik yeterli",1686 TL
+İzmir,Konak,Üçlü,5,"Evet, zor lekeler var",849 TL
+İzmir,Karşıyaka,U Köşe,1,"Evet, zor lekeler var",1289 TL
+İzmir,Konak,L Köşe,1,"Hayır, genel temizlik yeterli",2146 TL
+Ankara,Çankaya,Tekli,1,"Hayır, genel temizlik yeterli",708 TL
+İzmir,Konak,Üçlü,2,"Hayır, genel temizlik yeterli",2223 TL
+Bursa,Osmangazi,L Köşe,4,"Evet, zor lekeler var",838 TL
+Antalya,Muratpaşa,U Köşe,3,"Evet, zor lekeler var",1652 TL
+İzmir,Buca,Tekli,2,"Evet, zor lekeler var",1155 TL
+Antalya,Muratpaşa,Tekli,4,"Hayır, genel temizlik yeterli",1998 TL
+İzmir,Karşıyaka,L Köşe,5,"Hayır, genel temizlik yeterli",2411 TL
+İstanbul,Üsküdar,L Köşe,4,"Hayır, genel temizlik yeterli",806 TL
+Antalya,Muratpaşa,Tekli,3,"Evet, zor lekeler var",1109 TL
+İzmir,Konak,L Köşe,3,"Evet, zor lekeler var",932 TL
+Bursa,Yıldırım,Tekli,2,"Hayır, genel temizlik yeterli",2122 TL
+İzmir,Karşıyaka,U Köşe,5,"Evet, zor lekeler var",335 TL
+İstanbul,Beşiktaş,İkili,1,"Evet, zor lekeler var",986 TL
+İstanbul,Beşiktaş,Tekli,1,"Evet, zor lekeler var",566 TL
+İzmir,Buca,U Köşe,5,"Hayır, genel temizlik yeterli",458 TL
+Ankara,Mamak,Tekli,4,"Hayır, genel temizlik yeterli",2354 TL
+Antalya,Alanya,L Köşe,1,"Evet, zor lekeler var",1778 TL
+Bursa,Yıldırım,U Köşe,1,"Evet, zor lekeler var",1532 TL
+İstanbul,Üsküdar,İkili,3,"Evet, zor lekeler var",1677 TL
+İzmir,Bornova,Üçlü,3,"Evet, zor lekeler var",434 TL
+Antalya,Muratpaşa,Üçlü,3,"Evet, zor lekeler var",2282 TL
+Antalya,Muratpaşa,U Köşe,1,"Evet, zor lekeler var",426 TL
+Bursa,Osmangazi,Üçlü,3,"Hayır, genel temizlik yeterli",2355 TL
+İzmir,Buca,L Köşe,5,"Hayır, genel temizlik yeterli",731 TL
+Antalya,Kepez,Üçlü,6,"Evet, zor lekeler var",437 TL
+İzmir,Buca,İkili,4,"Hayır, genel temizlik yeterli",1393 TL
+İzmir,Buca,U Köşe,1,"Evet, zor lekeler var",804 TL
+İstanbul,Üsküdar,Üçlü,4,"Evet, zor lekeler var",1207 TL
+Ankara,Çankaya,U Köşe,2,"Evet, zor lekeler var",1890 TL
+Bursa,Yıldırım,Üçlü,5,"Evet, zor lekeler var",568 TL
+Bursa,Nilüfer,İkili,2,"Hayır, genel temizlik yeterli",1493 TL
+İstanbul,Bakırköy,U Köşe,2,"Hayır, genel temizlik yeterli",2417 TL
+Ankara,Mamak,İkili,2,"Evet, zor lekeler var",1517 TL
+İzmir,Konak,L Köşe,1,"Evet, zor lekeler var",1847 TL
+İstanbul,Bakırköy,L Köşe,3,"Hayır, genel temizlik yeterli",1808 TL
+Antalya,Alanya,Tekli,2,"Hayır, genel temizlik yeterli",2413 TL
+Antalya,Kepez,Tekli,2,"Evet, zor lekeler var",769 TL
+Ankara,Etimesgut,L Köşe,6,"Hayır, genel temizlik yeterli",1502 TL
+İzmir,Buca,Üçlü,5,"Hayır, genel temizlik yeterli",497 TL
+Ankara,Etimesgut,L Köşe,4,"Evet, zor lekeler var",1276 TL
+İzmir,Buca,U Köşe,3,"Evet, zor lekeler var",957 TL
+Ankara,Etimesgut,İkili,4,"Hayır, genel temizlik yeterli",452 TL
+Antalya,Alanya,Tekli,4,"Hayır, genel temizlik yeterli",2165 TL
+İzmir,Buca,Tekli,6,"Evet, zor lekeler var",1139 TL
+Bursa,Yıldırım,L Köşe,1,"Evet, zor lekeler var",1469 TL
+Ankara,Etimesgut,Tekli,1,"Evet, zor lekeler var",1688 TL
+İzmir,Buca,Üçlü,5,"Evet, zor lekeler var",983 TL
+Bursa,Osmangazi,L Köşe,5,"Evet, zor lekeler var",817 TL
+Antalya,Alanya,Üçlü,5,"Hayır, genel temizlik yeterli",1315 TL
+Bursa,Yıldırım,Tekli,1,"Hayır, genel temizlik yeterli",1548 TL
+Bursa,Yıldırım,Tekli,4,"Hayır, genel temizlik yeterli",1009 TL
+Ankara,Etimesgut,U Köşe,5,"Evet, zor lekeler var",986 TL
+Antalya,Muratpaşa,U Köşe,1,"Hayır, genel temizlik yeterli",1958 TL
+Ankara,Etimesgut,L Köşe,2,"Hayır, genel temizlik yeterli",1399 TL
+İzmir,Karşıyaka,L Köşe,4,"Hayır, genel temizlik yeterli",2210 TL
+İstanbul,Üsküdar,Tekli,1,"Evet, zor lekeler var",467 TL
+İzmir,Buca,Üçlü,6,"Evet, zor lekeler var",1576 TL
+İstanbul,Kadıköy,İkili,6,"Evet, zor lekeler var",1034 TL
+Antalya,Kepez,L Köşe,5,"Hayır, genel temizlik yeterli",1688 TL
+İstanbul,Kadıköy,Tekli,3,"Hayır, genel temizlik yeterli",450 TL
+İstanbul,Kadıköy,Üçlü,2,"Hayır, genel temizlik yeterli",1079 TL
+Ankara,Etimesgut,U Köşe,3,"Evet, zor lekeler var",2046 TL
+İstanbul,Bakırköy,Tekli,6,"Hayır, genel temizlik yeterli",725 TL
+İstanbul,Beşiktaş,Üçlü,6,"Hayır, genel temizlik yeterli",1905 TL
+Ankara,Etimesgut,L Köşe,4,"Hayır, genel temizlik yeterli",436 TL
+Antalya,Alanya,İkili,6,"Hayır, genel temizlik yeterli",2204 TL
+Ankara,Çankaya,Üçlü,1,"Hayır, genel temizlik yeterli",1110 TL
+İstanbul,Beşiktaş,Üçlü,5,"Evet, zor lekeler var",2067 TL
+Ankara,Keçiören,Tekli,1,"Evet, zor lekeler var",1829 TL
+İzmir,Konak,Üçlü,3,"Evet, zor lekeler var",470 TL
+İstanbul,Kadıköy,Üçlü,2,"Evet, zor lekeler var",1537 TL
+Ankara,Mamak,L Köşe,5,"Hayır, genel temizlik yeterli",821 TL
+İstanbul,Üsküdar,L Köşe,5,"Evet, zor lekeler var",2435 TL
+Antalya,Alanya,Tekli,4,"Hayır, genel temizlik yeterli",2435 TL
+Bursa,Nilüfer,İkili,6,"Hayır, genel temizlik yeterli",1989 TL
+İzmir,Bornova,Üçlü,1,"Evet, zor lekeler var",984 TL
+Ankara,Keçiören,İkili,4,"Hayır, genel temizlik yeterli",2175 TL
+Bursa,Nilüfer,Üçlü,6,"Evet, zor lekeler var",2388 TL
+Ankara,Mamak,Üçlü,6,"Evet, zor lekeler var",2105 TL
+Ankara,Keçiören,L Köşe,1,"Evet, zor lekeler var",2132 TL
+Bursa,Osmangazi,U Köşe,2,"Hayır, genel temizlik yeterli",1105 TL
+İzmir,Konak,U Köşe,2,"Hayır, genel temizlik yeterli",1281 TL
+İstanbul,Kadıköy,Tekli,5,"Hayır, genel temizlik yeterli",1439 TL
+İzmir,Karşıyaka,İkili,4,"Hayır, genel temizlik yeterli",409 TL
+İzmir,Bornova,Üçlü,6,"Hayır, genel temizlik yeterli",2328 TL
+İzmir,Buca,İkili,3,"Evet, zor lekeler var",1777 TL
+İstanbul,Üsküdar,Üçlü,3,"Evet, zor lekeler var",1116 TL
+Ankara,Mamak,Üçlü,6,"Hayır, genel temizlik yeterli",873 TL
+Bursa,Yıldırım,Tekli,5,"Evet, zor lekeler var",1777 TL
+Bursa,Osmangazi,Üçlü,2,"Evet, zor lekeler var",1088 TL
+Antalya,Muratpaşa,İkili,2,"Hayır, genel temizlik yeterli",469 TL
+İstanbul,Kadıköy,L Köşe,2,"Hayır, genel temizlik yeterli",857 TL
+Ankara,Mamak,U Köşe,6,"Evet, zor lekeler var",2289 TL
+İstanbul,Beşiktaş,İkili,1,"Evet, zor lekeler var",1905 TL
+İstanbul,Üsküdar,Üçlü,2,"Evet, zor lekeler var",404 TL
+Ankara,Çankaya,U Köşe,2,"Hayır, genel temizlik yeterli",1930 TL
+İzmir,Buca,Tekli,6,"Evet, zor lekeler var",1701 TL
+Bursa,Osmangazi,L Köşe,2,"Hayır, genel temizlik yeterli",1076 TL
+Ankara,Mamak,Tekli,6,"Evet, zor lekeler var",2031 TL
+Ankara,Etimesgut,Tekli,6,"Evet, zor lekeler var",895 TL
+İstanbul,Beşiktaş,Tekli,1,"Hayır, genel temizlik yeterli",769 TL
+İzmir,Bornova,U Köşe,1,"Hayır, genel temizlik yeterli",1188 TL
+Antalya,Kepez,İkili,2,"Evet, zor lekeler var",646 TL
+Antalya,Alanya,L Köşe,3,"Evet, zor lekeler var",421 TL
+Ankara,Çankaya,Üçlü,2,"Hayır, genel temizlik yeterli",553 TL
+İzmir,Bornova,U Köşe,5,"Hayır, genel temizlik yeterli",488 TL
+Antalya,Muratpaşa,İkili,2,"Hayır, genel temizlik yeterli",2075 TL
+Ankara,Çankaya,İkili,5,"Hayır, genel temizlik yeterli",997 TL
+Bursa,Nilüfer,İkili,6,"Hayır, genel temizlik yeterli",798 TL
+İzmir,Konak,U Köşe,3,"Evet, zor lekeler var",748 TL
+Bursa,Nilüfer,İkili,5,"Evet, zor lekeler var",941 TL
+Bursa,Yıldırım,L Köşe,5,"Evet, zor lekeler var",2087 TL
+Bursa,Nilüfer,Üçlü,3,"Evet, zor lekeler var",1116 TL
+Antalya,Alanya,L Köşe,1,"Hayır, genel temizlik yeterli",702 TL

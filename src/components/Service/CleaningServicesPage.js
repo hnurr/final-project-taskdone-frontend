@@ -68,6 +68,8 @@ function CleaningServicesPage() {
   const handleServiceRequest = (serviceName) => {
     if (serviceName === "Halı Yıkama") {
       navigate("/hali-yikama");
+    } else if (serviceName === "Koltuk Yıkama") {
+      navigate("/koltuk-yikama");
     } else {
       navigate("/service-request", { state: { serviceName } });
     }
